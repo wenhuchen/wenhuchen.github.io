@@ -17,3 +17,15 @@
 2017-12-23.01-40-17 rm -rf .git
 2017-12-23.01-40-30 git init
 2017-12-23.01-40-40 git add --all *
+2017-12-23.01-40-44 git add --all
+2017-12-23.01-40-49 git commit -m "first commit"
+2017-12-23.01-40-53 git remote add origin https://github.com/wenhuchen/wenhu.github.io.git\n
+2017-12-23.01-41-37 git push -u origin master\n
+2017-12-23.01-43-50 git commit -m "first commit"
+2017-12-23.01-43-57 git add _config.yml
+2017-12-23.01-44-04 git commit -m "change config"
+2017-12-23.01-44-13 git push -u origin master\n
+2017-12-23.09-59-18 jekyll serve
+2017-12-23.10-00-36 l
+2017-12-23.10-18-51 jekyll serve
+2017-12-23.10-18-52 l
