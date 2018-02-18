@@ -38,3 +38,13 @@
 2018-02-14.17-56-19 sublime .
 2018-02-14.18-02-21 jekyll serve
 2018-02-14.18-03-34 jekyll serve
+2018-02-14.18-03-50 git commit -a -m 'add new papers'
+2018-02-14.18-04-32 jekyll serve
+2018-02-14.18-04-42 git push
+2018-02-14.18-55-17 sshfs wenhu@128.111.54.59:/scratch/home/wenhu/ ~/Documents/unknown -ovolname=nlp
+2018-02-14.18-55-50 sshfs wenhu@128.111.54.59:/scratch/home/wenhu/ ~/Documents/unknown -ovolname=nlp
+2018-02-14.18-56-18 rm -r ~/Documents/unknown 
+2018-02-14.18-56-19 sshfs wenhu@128.111.54.59:/scratch/home/wenhu/ ~/Documents/unknown -ovolname=nlp
+2018-02-17.19-43-15 l
+2018-02-17.19-43-19 sublime .
+2018-02-17.19-44-49 jekyll serve
