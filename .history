@@ -99,3 +99,7 @@
 2018-03-16.10-22-45 git push
 2018-03-17.10-56-14 l
 2018-03-17.10-56-18 git add images/sra.*
+2018-03-17.10-56-25 git commit -a -m 'add samsung'
+2018-03-17.10-56-31 git push
+2018-03-17.10-59-34 sublime .
+2018-03-17.11-00-27 jekyll serve
