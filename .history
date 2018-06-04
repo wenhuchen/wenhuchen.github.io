@@ -159,3 +159,5 @@
 2018-06-03.00-10-08 git commit -a -m 'add naacl slides'
 2018-06-03.00-10-14 git push
 2018-06-03.23-05-41 cp ../Downloads/naacl2018.pptx images
+2018-06-03.23-05-44 git commit -a -m 'add naacl slides'
+2018-06-03.23-05-56 jekyll serve
