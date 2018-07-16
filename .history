@@ -218,3 +218,5 @@
 2018-07-15.22-00-36 l
 2018-07-15.22-01-02 scp ../Downloads/naacl_poster_GBN.pdf images
 2018-07-15.22-01-03 l
+2018-07-15.22-03-09 git commit -a -m 'change the website'
+2018-07-15.22-03-13 git add images/*
