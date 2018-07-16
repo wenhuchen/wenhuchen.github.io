@@ -225,3 +225,15 @@
 2018-07-15.22-03-47 jekyll serve
 2018-07-15.22-04-49 sublime .
 2018-07-15.22-05-37 jekyll serve
+2018-07-15.22-05-50 git commit -a -m 'remove banner'
+2018-07-15.22-05-57 git push
+2018-07-15.22-08-56 sublime .
+2018-07-15.22-22-40 jekyll serve
+2018-07-15.22-22-46 git diff
+2018-07-15.22-22-50 git diff
+2018-07-15.22-22-51 l
+2018-07-15.22-41-04 cp ../Downloads/TA-NMT.pptx images
+2018-07-15.22-41-18 sublime .
+2018-07-15.22-42-01 jekyll
+2018-07-15.22-42-24 jekyll serve
+2018-07-15.22-42-28 git add images/TA-NMT.pptx
