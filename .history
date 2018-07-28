@@ -237,3 +237,22 @@
 2018-07-15.22-42-01 jekyll
 2018-07-15.22-42-24 jekyll serve
 2018-07-15.22-42-28 git add images/TA-NMT.pptx
+2018-07-15.22-42-34 git commit -a -m 'add acl slides'
+2018-07-15.22-42-45 git push
+2018-07-15.22-43-31 sublime .
+2018-07-18.23-21-21 sublime .
+2018-07-19.21-21-11 sublime .
+2018-07-19.21-24-36 sublime .
+2018-07-19.21-24-36 sublime .
+2018-07-27.23-31-06 l
+2018-07-27.23-31-07 sublime .
+2018-07-27.23-34-25 l
+2018-07-27.23-34-35 scp ../Downloads/CV-wenhu.pdf images/
+2018-07-27.23-34-37 l images
+2018-07-27.23-35-48 l
+2018-07-27.23-35-52 jekyll serve
+2018-07-27.23-35-54 l
+2018-07-27.23-37-46 l
+2018-07-27.23-37-51 rm images/CV-wenhu.pdf
+2018-07-27.23-37-59 scp ../Downloads/CV_WENHU.pdf images
+2018-07-27.23-39-22 jekyll serve
