@@ -264,3 +264,8 @@
 2018-07-27.23-40-04 git push
 2018-07-27.23-42-13 scp ../Downloads/308_Poster.pdf images
 2018-07-27.23-43-02 jekyll serve
+2018-07-27.23-43-13 git commit -a -m 'add slides\'
+2018-07-27.23-43-17 git puhs
+2018-07-27.23-43-23 git push
+2018-07-28.10-15-38 git add images/CV_WENHU.pdf
+2018-07-28.10-15-41 git add images/308_Poster.pdf
