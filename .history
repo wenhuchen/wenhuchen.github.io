@@ -259,3 +259,8 @@
 2018-07-27.23-39-33 git commit -a -m 'add new CV'
 2018-07-27.23-39-36 git push
 2018-07-27.23-39-43 git pull
+2018-07-27.23-39-50 git commit -a -m 'add new CV'
+2018-07-27.23-39-53 git pull
+2018-07-27.23-40-04 git push
+2018-07-27.23-42-13 scp ../Downloads/308_Poster.pdf images
+2018-07-27.23-43-02 jekyll serve
