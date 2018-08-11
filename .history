@@ -282,3 +282,7 @@
 2018-08-11.00-07-38 l
 2018-08-11.00-09-52 l
 2018-08-11.00-09-59 scp ../Downloads/CV_WENHU.pdf images
+2018-08-11.00-10-04 git commit -a -m 'add CV'
+2018-08-11.00-10-11 git push
+2018-08-11.00-10-58 l
+2018-08-11.00-11-03 git add images/CV_WENHU.pdf
