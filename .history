@@ -341,3 +341,17 @@
 2018-12-20.18-16-38 l
 2018-12-20.18-16-40 sublime .
 2018-12-20.18-17-40 jekyll serve
+2018-12-20.18-17-56 git commit -a -m 'remove submission'
+2018-12-20.18-18-04 git push
+2019-01-05.14-33-56 l
+2019-01-05.14-34-11 sublime index.html
+2019-01-06.15-10-22 sshfs machine9:/scratch/home/wenhu/  ~/Documents/remote -ovolname=machine9
+2019-01-06.17-46-42 l
+2019-01-07.16-10-08 sshfs machine9:/scratch/home/wenhu/  ~/Documents/remote -ovolname=machine9
+2019-01-08.12-10-52 sshfs machine9:/scratch/home/wenhu/  ~/Documents/remote -ovolname=machine9
+2019-01-08.17-09-38 sshfs machine9:/scratch/home/wenhu/  ~/Documents/remote -ovolname=machine9
+2019-01-09.12-23-08 sshfs machine9:/scratch/home/wenhu/  ~/Documents/remote -ovolname=machine9
+2019-01-09.20-34-34 sshfs machine9:/scratch/home/wenhu/  ~/Documents/remote -ovolname=machine9
+2019-01-28.20-22-34 l
+2019-01-28.20-22-36 sublime .
+2019-01-28.20-23-56 l
