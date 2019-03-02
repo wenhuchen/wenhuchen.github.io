@@ -397,3 +397,7 @@
 2019-02-28.10-10-14 cat ~/.ssh/config
 2019-03-02.13-42-56 l
 2019-03-02.13-42-58 sublime .
+2019-03-02.13-44-11 git commit -a -m 'update service'
+2019-03-02.13-45-06 jekyll serve
+2019-03-02.13-45-09 sublime .
+2019-03-02.13-48-54 jekyll serve
