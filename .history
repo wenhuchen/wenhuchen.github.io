@@ -401,3 +401,16 @@
 2019-03-02.13-45-06 jekyll serve
 2019-03-02.13-45-09 sublime .
 2019-03-02.13-48-54 jekyll serve
+2019-03-02.13-48-57 git commit -a -m 'update service'
+2019-03-02.13-49-09 git push origin master
+2019-03-03.20-05-10 python /tmp/draw.py
+2019-03-04.10-42-51 sshfs william:/mnt/sshd/wenhuchen  ~/Documents/william -ovolname=william
+2019-03-04.18-07-01 sshfs william:/mnt/sshd/wenhuchen  ~/Documents/william -ovolname=william
+2019-03-04.19-08-46 sshfs william:/mnt/sshd/wenhuchen  ~/Documents/william -ovolname=william
+2019-03-06.13-33-1910103* exit
+2019-03-06.13-33-1910103* exit
+2019-03-07.09-41-18 l
+2019-03-16.11-42-32 l
+2019-03-16.11-42-38 sublime .
+2019-03-16.11-42-52 sublime .
+2019-03-16.11-48-18 jekyll serve
