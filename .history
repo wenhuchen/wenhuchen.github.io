@@ -422,3 +422,7 @@
 2019-03-16.20-00-48 wc -l input_file_yunkai.csv
 2019-03-16.20-01-18 jekyll serve
 2019-03-16.20-02-20 jekyll serve
+2019-03-16.20-02-39 git commit -a -m 'update '
+2019-03-16.20-02-49 git push origin master
+2019-03-20.22-05-55 sublime .
+2019-03-20.22-09-52 jekyll serve
