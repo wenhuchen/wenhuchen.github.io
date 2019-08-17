@@ -515,3 +515,9 @@
 2019-07-01.19-56-32 l
 2019-07-01.19-56-33 sublime .
 2019-07-01.19-59-47 jekyll serve
+2019-07-01.19-59-53 git commit -a -m 'update'
+2019-07-01.20-00-00 git push origin master
+2019-07-01.20-16-08 sshfs VM17:/datadrive/wenhu ~/Documents/remote -ovolname=VM17
+2019-08-16.19-58-30 l
+2019-08-16.19-58-31 sublime .
+2019-08-16.20-04-06 jekyll serve
