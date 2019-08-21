@@ -521,3 +521,15 @@
 2019-08-16.19-58-30 l
 2019-08-16.19-58-31 sublime .
 2019-08-16.20-04-06 jekyll serve
+2019-08-16.20-04-09 git commit -a -m 'update'
+2019-08-16.20-04-17 git push origin master
+2019-08-16.20-09-59 sshfs VM22:/datadrive_d/wenhu/ ~/Documents/VM22 -ovolname=VM22
+2019-08-16.20-10-16 diskutil umount ~/Documents/VM22
+2019-08-16.20-10-19 sshfs VM22:/datadrive_d/wenhu/ ~/Documents/VM22 -ovolname=VM22
+2019-08-16.20-10-25 sublime ~/Documents/VM22/GQA-Attention/
+2019-08-20.23-42-44 l
+2019-08-20.23-42-47 sublime index.html
+2019-08-20.23-43-52 jekyll serve
+2019-08-20.23-43-54 sublime index.html
+2019-08-20.23-45-09 jekyll serve
+2019-08-20.23-45-10 sublime index.html
