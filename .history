@@ -552,3 +552,10 @@
 2019-09-05.10-35-56 l
 2019-09-05.10-36-16 scp ../Downloads/CV_WENHU.pdf images/
 2019-09-05.10-37-00 jekyll serve
+2019-09-05.10-37-05 git commit -a -m 'update'
+2019-09-05.10-37-13 git push
+2019-09-05.11-25-15 sshfs VM17:/datadrive/wenhu/ ~/Documents/VM17 -ovolname=VM17
+2019-09-05.11-25-15 sshfs VM17:/datadrive/wenhu/ ~/Documents/VM17 -ovolname=VM17
+2019-09-05.11-31-10 which python
+2019-09-05.13-35-33 l
+2019-09-05.13-46-42 scp ../Downloads/CV_WENHU.pdf images
