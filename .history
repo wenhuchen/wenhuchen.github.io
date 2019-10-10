@@ -578,3 +578,19 @@
 2019-10-08.17-41-00 l
 2019-10-08.17-41-03 sublime .
 2019-10-08.17-43-16 jekyll serve
+2019-10-08.17-43-20 git commit -a -m 'update'
+2019-10-08.17-43-25 git push
+2019-10-08.19-00-13 wget http://nlp.stanford.edu/software/stanford-corenlp-full-2018-02-27.zip
+2019-10-08.19-00-23 wget --no-check-certificate http://nlp.stanford.edu/software/stanford-corenlp-full-2018-02-27.zip
+2019-10-08.19-00-27 rm stanford-corenlp-full-2018-02-27.zip
+2019-10-10.14-13-36 l
+2019-10-10.14-13-53 scp ~/Downloads/CV_WENHU.pdf images/CV_WENHU.pdf
+2019-10-10.14-14-24 jekyll serve
+2019-10-10.14-14-28 l
+2019-10-10.14-14-31 l images
+2019-10-10.14-14-35 \n
+2019-10-10.14-14-35 \n
+2019-10-10.14-31-16 jekyll serve
+2019-10-10.14-31-16 jekyll serve
+2019-10-10.14-31-17 l
+2019-10-10.14-31-21 git add images/CV_WENHU.pdf
