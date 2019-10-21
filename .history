@@ -617,3 +617,5 @@
 2019-10-21.15-43-51 cp ../Downloads/Wenhu\ Chen@MAE.pdf images/MAE.pdf
 2019-10-21.15-43-52 l
 2019-10-21.15-43-56 git add images/MAE.pdf
+2019-10-21.15-44-00 git commit -a -m 'update'
+2019-10-21.15-45-34 jekyll serve
