@@ -626,3 +626,12 @@
 2019-10-23.11-46-43 open images/CV_WENHU.pdf
 2019-10-23.11-47-21 cp ~/Downloads/CV_WENHU.pdf images
 2019-10-23.11-47-21 l
+2019-10-23.11-47-25 git commit -a -m 'update'
+2019-10-23.11-47-26 git pus
+2019-10-23.11-47-31 git push
+2019-11-05.09-03-30 l
+2019-11-05.09-03-54 scp ~/Downloads/FEVER-WORKSHOP.pptx images
+2019-11-05.09-03-55 l
+2019-11-05.09-04-53 l
+2019-11-05.09-04-55 sublime .
+2019-11-05.09-57-00 jekyll serve
