@@ -654,3 +654,5 @@
 2019-11-22.22-52-01 sublime .
 2019-11-22.22-53-27 scp ~/Downloads/structured.pptx images/
 2019-11-22.22-55-23 git add images/structured.pptx
+2019-11-22.22-55-31 git commit -a -m 'update'
+2019-11-22.22-56-15 jekyll serve
