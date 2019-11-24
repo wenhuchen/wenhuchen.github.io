@@ -664,3 +664,8 @@
 2019-11-23.15-19-26 scp rtx:/home/wenhu/GQA-Attention/questions.zip ~/Downloads
 2019-11-23.15-19-27 scp rtx:/home/wenhu/GQA-Attention/questions.zip ~/Downloads
 2019-11-23.15-23-04 scp rtx:/home/hustchenwenhu/GQA-Attention/questions.zip ~/Downloads/
+2019-11-24.11-29-21 git commit -a -m 'update CV'
+2019-11-24.11-29-27 git push
+2019-11-24.11-30-16 jekyll serve
+2019-11-24.11-30-16 jekyll serve
+2019-11-24.11-30-16 jekyll serve
