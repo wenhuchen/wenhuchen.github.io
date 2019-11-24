@@ -656,3 +656,11 @@
 2019-11-22.22-55-23 git add images/structured.pptx
 2019-11-22.22-55-31 git commit -a -m 'update'
 2019-11-22.22-56-15 jekyll serve
+2019-11-22.22-56-28 git commit -a -m 'update'
+2019-11-22.22-56-34 git push
+2019-11-23.00-03-17 python
+2019-11-23.15-19-09 scp rtx:~/GQA-Attention/question.zip ~/Downloads
+2019-11-23.15-19-21 scp rtx:/home/wenhu/GQA-Attention/question.zip ~/Downloads
+2019-11-23.15-19-26 scp rtx:/home/wenhu/GQA-Attention/questions.zip ~/Downloads
+2019-11-23.15-19-27 scp rtx:/home/wenhu/GQA-Attention/questions.zip ~/Downloads
+2019-11-23.15-23-04 scp rtx:/home/hustchenwenhu/GQA-Attention/questions.zip ~/Downloads/
