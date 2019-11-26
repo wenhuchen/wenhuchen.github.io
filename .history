@@ -669,3 +669,42 @@
 2019-11-24.11-30-16 jekyll serve
 2019-11-24.11-30-16 jekyll serve
 2019-11-24.11-30-16 jekyll serve
+2019-11-24.11-30-20 git commit -a -m 'update CV'
+2019-11-24.11-30-27 git push
+2019-11-24.13-12-28 sshfs rtx:/data/wenhu/ ~/Documents/rtx -ovolname=rtx
+2019-11-24.13-12-29 sshfs rtx:/data/wenhu/ ~/Documents/rtx -ovolname=rtx
+2019-11-24.13-12-35 sublime ~/Documents/rtx/TabLM
+2019-11-24.21-44-59 python
+2019-11-24.21-45-05 sublime /tmp/solution.py
+2019-11-24.21-45-33 sublime /tmp/solution.py
+2019-11-24.21-47-05 python /tmp/solution.py
+2019-11-24.21-50-34 python /tmp/solution.py
+2019-11-24.21-51-30 python /tmp/solution.py
+2019-11-24.21-52-07 python /tmp/solution.py
+2019-11-24.21-52-42 python /tmp/solution.py
+2019-11-24.21-52-55 python /tmp/solution.py
+2019-11-24.21-53-06 python /tmp/solution.py
+2019-11-24.21-53-50 python /tmp/solution.py
+2019-11-24.21-53-55 python /tmp/solution.py
+2019-11-24.21-54-11 python /tmp/solution.py
+2019-11-24.21-54-18 python /tmp/solution.py
+2019-11-24.21-54-29 python /tmp/solution.py
+2019-11-24.21-54-38 python /tmp/solution.py
+2019-11-24.21-55-29 python /tmp/solution.py
+2019-11-24.21-57-13 python /tmp/solution.py
+2019-11-24.21-58-13 python /tmp/solution.py
+2019-11-25.09-25-03 python
+2019-11-25.13-04-33 python
+2019-11-25.13-06-57 python
+2019-11-25.15-16-44 clear
+2019-11-25.15-16-44 l
+2019-11-25.16-06-14 python
+2019-11-25.19-02-47 sshfs rtx:/data/wenhu/ ~/Documents/rtx -ovolname=rtx
+2019-11-25.19-02-47 sshfs rtx:/data/wenhu/ ~/Documents/rtx -ovolname=rtx
+2019-11-25.19-02-57 diskutil umount ~/Documents/rtx
+2019-11-25.19-02-58 sshfs rtx:/data/wenhu/ ~/Documents/rtx -ovolname=rtx
+2019-11-25.19-03-03 sublime ~/Documents/rtx/TabLM
+2019-11-25.23-46-22 l
+2019-11-25.23-46-25 sublime .
+2019-11-25.23-48-56 jekyll serve
+2019-11-25.23-48-57 l
