@@ -708,3 +708,17 @@
 2019-11-25.23-46-25 sublime .
 2019-11-25.23-48-56 jekyll serve
 2019-11-25.23-48-57 l
+2019-11-25.23-49-02 git commit -a -m 'add one paper'
+2019-11-25.23-49-07 git push
+2019-11-26.00-14-50 l
+2019-11-26.10-11-51 sshfs rtx:/data/wenhu/ ~/Documents/rtx -ovolname=rtx
+2019-11-26.10-11-51 sshfs rtx:/data/wenhu/ ~/Documents/rtx -ovolname=rtx
+2019-11-26.10-11-58 diskutil umount ~/Documents/rtx
+2019-11-26.10-11-59 sshfs rtx:/data/wenhu/ ~/Documents/rtx -ovolname=rtx
+2019-11-26.10-12-04 diskutil umount force ~/Documents/rtx
+2019-11-26.10-12-05 sshfs rtx:/data/wenhu/ ~/Documents/rtx -ovolname=rtx
+2019-11-26.10-13-16 sublime ~/Documents/rtx
+2019-11-26.10-13-16 sublime ~/Documents/rtx
+2019-12-01.11-57-54 scp ~/Downloads/CV_WENHU.pdf images
+2019-12-01.11-57-55 l
+2019-12-01.11-58-36 jekyll serve
