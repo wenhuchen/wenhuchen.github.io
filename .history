@@ -722,3 +722,18 @@
 2019-12-01.11-57-54 scp ~/Downloads/CV_WENHU.pdf images
 2019-12-01.11-57-55 l
 2019-12-01.11-58-36 jekyll serve
+2019-12-01.11-58-41 git commit -a -m 'update CV'
+2019-12-01.11-58-46 git push
+2019-12-01.12-56-30 sshfs rtx:/data/wenhu/ ~/Documents/rtx -ovolname=rtx
+2019-12-01.12-56-30 sshfs rtx:/data/wenhu/ ~/Documents/rtx -ovolname=rtx
+2019-12-01.12-56-35 sublime ~/Documents/rtx/TabLM
+2019-12-01.22-10-03 sshfs rtx:/data/wenhu/ ~/Documents/rtx -ovolname=rtx
+2019-12-01.22-10-03 sshfs rtx:/data/wenhu/ ~/Documents/rtx -ovolname=rtx
+2019-12-01.22-10-11 diskutil umount force ~/Documents/rtx
+2019-12-01.22-10-12 sshfs rtx:/data/wenhu/ ~/Documents/rtx -ovolname=rtx
+2019-12-16.23-43-32 l
+2019-12-16.23-43-38 sublime index.html
+2019-12-16.23-44-11 jekyll serve
+2019-12-16.23-44-14 sublime .
+2019-12-16.23-46-33 l
+2019-12-16.23-46-41 cp ../Downloads/google_ai.png images
