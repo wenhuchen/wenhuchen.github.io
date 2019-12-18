@@ -740,3 +740,7 @@
 2019-12-16.23-49-53 git commit -a -m 'add cv'
 2019-12-16.23-49-57 git push
 2019-12-17.20-20-19 git add images/google_ai.png
+2019-12-17.20-20-25 git commit -a -m 'update'
+2019-12-17.20-20-33 git push
+2019-12-17.20-21-33 sublime .
+2019-12-17.20-22-03 jekyll serve
