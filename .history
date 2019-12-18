@@ -737,3 +737,6 @@
 2019-12-16.23-44-14 sublime .
 2019-12-16.23-46-33 l
 2019-12-16.23-46-41 cp ../Downloads/google_ai.png images
+2019-12-16.23-49-53 git commit -a -m 'add cv'
+2019-12-16.23-49-57 git push
+2019-12-17.20-20-19 git add images/google_ai.png
