@@ -30,75 +30,106 @@
     <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:10px;">
       <tbody>
         <tr style="padding:0px">
-        <td style="padding:0px">
+          <td style="padding:0px">
 
-        <ul class="menu">
-            <li><a href="index.html">Home</a></li>
-            <li class="active"><a href="publication.html">Publication</a></li>
-            <li><a href="teaching.html">Teaching</a></li>
-            <li><a href="lab.html">TIGER Lab</a></li>     
-            <li><a href="talks.html">Talks</a></li>                
-            <li><a href="miscellaneous.html">Miscellaneous</a></li>                
-        </ul>
-        <hr>
+            <ul class="menu">
+              <li><a href="index.html">Home</a></li>
+              <li class="active"><a href="publication.html">Publication</a></li>
+              <li><a href="teaching.html">Teaching</a></li>
+              <li><a href="lab.html">TIGER Lab</a></li>     
+              <li><a href="talks.html">Talks</a></li>                
+              <li><a href="miscellaneous.html">Miscellaneous</a></li>                
+            </ul>
 
-  <div class="container">
-    <ul class="nav nav-tabs" role="tablist">
-      <li class="nav-item">
-        <a class="nav-link active" data-toggle="tab" href="#last-author" onclick="loadPapers('last-author')">As the Principle Investigator</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" data-toggle="tab" href="#first-author" onclick="loadPapers('first-author')">As the First-Author</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" data-toggle="tab" href="#collaboration" onclick="loadPapers('collaboration')">As a Collaborator</a>
-      </li>
-    </ul>
+            <hr>
 
-    <!-- Tab Contents -->
-    <div class="tab-content">
-      <div id="last-author" class="container tab-pane active">
-        <!--<h3>Last-Author Papers</h3>-->
-        <ol id="last-author-list"></ol>
-      </div>
-      <div id="first-author" class="container tab-pane fade">
-        <!--<h3>First-Author Papers</h3>-->
-        <ol id="first-author-list"></ol>
-      </div>
-      <div id="collaboration" class="container tab-pane fade">
-        <!--<h3>Collaboration Papers</h3>-->
-        <ol id="collaboration-list"></ol>
-      </div>
-    </div>
-  </div>
+            <div class="container">
+              <ul class="nav nav-tabs" role="tablist">
+                <li class="nav-item">
+                  <a class="nav-link active" data-toggle="tab" href="#all" onclick="loadPapers('all')">All</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#last-author" onclick="loadPapers('last-author')">Principle Investigator</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#first-author" onclick="loadPapers('first-author')">First-Author</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#accepted" onclick="loadPapers('accepted')">Accepted</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#preprint" onclick="loadPapers('preprint')">Preprint</a>
+                </li>
+              </ul>
 
-  <!-- JavaScript to Load CSV and Display Data -->
-  <script>
-    function loadPapers(category) {
-      d3.csv("papers.csv").then(function(data) {
-        // Clear the current list
-        document.getElementById(category + "-list").innerHTML = "";
-        // Filter papers by the selected category
-        var filteredPapers = data.filter(function(paper) {
-          return paper.category.includes(category);
+              <!-- Tab Contents -->
+              <div class="tab-content">
+                <div id="all" class="container tab-pane active">
+                  <!--<h3>Collaboration Papers</h3>-->
+                  <ol id="all-list"></ol>
+                </div>
+                <div id="last-author" class="container tab-pane fade">
+                  <!--<h3>Last-Author Papers</h3>-->
+                  <ol id="last-author-list"></ol>
+                </div>
+                <div id="first-author" class="container tab-pane fade">
+                  <!--<h3>First-Author Papers</h3>-->
+                  <ol id="first-author-list"></ol>
+                </div>
+                <div id="accepted" class="container tab-pane fade">
+                  <!--<h3>First-Author Papers</h3>-->
+                  <ol id="accepted-list"></ol>
+                </div>
+                <div id="preprint" class="container tab-pane fade">
+                  <!--<h3>First-Author Papers</h3>-->
+                  <ol id="preprint-list"></ol>
+                </div>
+              </div>
+
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <!-- JavaScript to Load CSV and Display Data -->
+    <script>
+      function loadPapers(category) {
+        d3.csv("papers.csv").then(function(data) {
+          // Clear the current list
+          document.getElementById(category + "-list").innerHTML = "";
+
+          // Filter papers by the selected category
+          if (category == 'all') {
+            var filteredPapers = data
+          }
+          else if (category == 'accepted' | category == 'preprint') {
+            var filteredPapers = data.filter(function(paper) {
+              return paper.status.includes(category);
+            });
+          }
+          else {
+            var filteredPapers = data.filter(function(paper) {
+              return paper.category.includes(category);
+            });
+          }
+
+          // Populate the list with filtered papers
+          filteredPapers.forEach(function(paper) {
+            var listItem = document.createElement("li");
+            listItem.innerHTML = `<strong>${paper.title}</strong><br>
+                                  ${paper.authors}<br>
+                                  ${paper.links}`;
+            document.getElementById(category + "-list").appendChild(listItem);
+          });
         });
+      }
 
-        // Populate the list with filtered papers
-        filteredPapers.forEach(function(paper) {
-          var listItem = document.createElement("li");
-          listItem.innerHTML = `<strong>${paper.title}</strong><br>
-                                ${paper.authors}<br>
-                                ${paper.links}`;
-          document.getElementById(category + "-list").appendChild(listItem);
-        });
+      // Load first-author papers by default on page load
+      document.addEventListener("DOMContentLoaded", function() {
+        loadPapers('all');
       });
-    }
-
-    // Load first-author papers by default on page load
-    document.addEventListener("DOMContentLoaded", function() {
-      loadPapers('last-author');
-    });
-  </script>
+    </script>
 
 </body>
 
