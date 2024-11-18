@@ -66,26 +66,31 @@
 
     <div class="papers" style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:10px;">
       <ul class="nav nav-tabs nav-justified flex-wrap" role="tablist">
-        <li class="nav-item">
-          <a class="nav-link active" data-toggle="tab" href="#all" onclick="loadPapers('all')">All</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#last-author" onclick="loadPapers('last-author')">PI</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#first-author" onclick="loadPapers('first-author')">First-Author</a>
-        </li>
+        <!--<li class="nav-item"> <a class="nav-link active" data-toggle="tab" href="#all" onclick="loadPapers('all')">All</a></li>-->
+
         <li class="nav-item">
           <a class="nav-link" data-toggle="tab" href="#accepted" onclick="loadPapers('accepted')">Accepted</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" data-toggle="tab" href="#preprint" onclick="loadPapers('preprint')">Preprint</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" data-toggle="tab" href="#last-author" onclick="loadPapers('last-author')">Principle-Investigator</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" data-toggle="tab" href="#first-author" onclick="loadPapers('first-author')">First-Author</a>
+        </li>
+
       </ul>
 
       <div class="tab-content">
-        <div id="all" class="container tab-pane active">
-          <ol id="all-list"></ol>
+        <!--<div id="all" class="container tab-pane active"> <ol id="all-list"></ol> </div>-->
+
+        <div id="accepted" class="container tab-pane fade">
+          <ol id="accepted-list"></ol>
+        </div>
+        <div id="preprint" class="container tab-pane fade">
+          <ol id="preprint-list"></ol>
         </div>
         <div id="last-author" class="container tab-pane fade">
           <ol id="last-author-list"></ol>
@@ -93,12 +98,7 @@
         <div id="first-author" class="container tab-pane fade">
           <ol id="first-author-list"></ol>
         </div>
-        <div id="accepted" class="container tab-pane fade">
-          <ol id="accepted-list"></ol>
-        </div>
-        <div id="preprint" class="container tab-pane fade">
-          <ol id="preprint-list"></ol>
-        </div>
+
       </div>
     </div>
 
