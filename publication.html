@@ -105,37 +105,36 @@
     <!-- JavaScript to Load CSV and Display Data -->
     <script>
       function loadPapers(category) {
-        d3.csv("papers.csv").then(function(data) {
-          // Clear the current list
-          document.getElementById(category + "-list").innerHTML = "";
+        fetch('papers.json')
+          .then(response => response.json())
+          .then(data => {
+            // Clear the current list
+            document.getElementById(category + "-list").innerHTML = "";
 
-          // Filter papers by the selected category
-          if (category == 'all') {
-            var filteredPapers = data
-          }
-          else if (category == 'accepted' | category == 'preprint') {
-            var filteredPapers = data.filter(function(paper) {
-              return paper.status.includes(category);
-            });
-          }
-          else {
-            var filteredPapers = data.filter(function(paper) {
-              return paper.category.includes(category);
-            });
-          }
+            // Filter papers by the selected category
+            let filteredPapers;
+            if (category === 'all') {
+              filteredPapers = data;
+            } else if (category === 'accepted' || category === 'preprint') {
+              filteredPapers = data.filter(paper => paper.status.includes(category));
+            } else {
+              filteredPapers = data.filter(paper => paper.category.includes(category));
+            }
 
-          // Populate the list with filtered papers
-          filteredPapers.forEach(function(paper) {
-            var listItem = document.createElement("li");
-            listItem.innerHTML = `<strong>${paper.title}</strong><br>
-                                  ${paper.authors}<br>
-                                  ${paper.links}`;
-            document.getElementById(category + "-list").appendChild(listItem);
-          });
-        });
+            // console.log(filteredPapers)
+            // Populate the list with filtered papers
+            filteredPapers.forEach(paper => {
+              const listItem = document.createElement("li");
+              listItem.innerHTML = `<strong>${paper.title}</strong><br>
+                                    ${paper.authors}<br>
+                                    ${paper.links}`;
+              document.getElementById(category + "-list").appendChild(listItem);
+            });
+          })
+          .catch(error => console.error('Error loading papers:', error));
       }
 
-      // Load first-author papers by default on page load
+      // Load accepted papers by default on page load
       document.addEventListener("DOMContentLoaded", function() {
         loadPapers('accepted');
       });
