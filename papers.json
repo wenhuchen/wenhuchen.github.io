@@ -112,13 +112,6 @@
     "status": "preprint"
   },
   {
-    "title": "CodeEditorBench: Evaluating Code Editing Capability of Large Language Models",
-    "authors": "Jiawei Guo, Ziming Li, Xueling Liu, Kaijing Ma, Tianyu Zheng, Zhouliang Yu, Ding Pan, Yizhi LI, Ruibo Liu, Yue Wang, Shuyue Guo, Xingwei Qu, Xiang Yue, Ge Zhang, Wenhu Chen , Jie Fu",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2404.03543\">pdf</a>][<a href=\"https://codeeditorbench.github.io/\">Website</a>]",
-    "category": "collaboration",
-    "status": "preprint"
-  },
-  {
     "title": "VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by VIdeo SpatioTemporal Augmentation",
     "authors": "Weiming Ren, Huan Yang, Jie Min, Cong Wei, Wenhu Chen",
     "links": "<em>Proceedings of CVPR 2025, Nashville, US</em> [<a href=\"https://arxiv.org/abs/2412.00927\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VISTA/\">Website</a>]",
@@ -136,6 +129,13 @@
     "title": "UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models",
     "authors": "Sahel Sharifymoghaddam,\u00a0Shivani Upadhyay,\u00a0Wenhu Chen,\u00a0Jimmy Lin",
     "links": "<em>Findings of NAACL 2025, New Mexico</em> [<a href=\"https://arxiv.org/abs/2405.10311\">pdf</a>]",
+    "category": "collaboration",
+    "status": "accepted"
+  },
+  {
+    "title": "CodeEditorBench: Evaluating Code Editing Capability of Large Language Models",
+    "authors": "Jiawei Guo, Ziming Li, Xueling Liu, Kaijing Ma, Tianyu Zheng, Zhouliang Yu, Ding Pan, Yizhi LI, Ruibo Liu, Yue Wang, Shuyue Guo, Xingwei Qu, Xiang Yue, Ge Zhang, Wenhu Chen , Jie Fu",
+    "links": "<em>DA4C-ICLR2025, Singapore</em> [<a href=\"https://arxiv.org/abs/2404.03543\">pdf</a>][<a href=\"https://codeeditorbench.github.io/\">Website</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
@@ -191,7 +191,7 @@
   {
     "title": "Reward Guided Latent Consistency Distillation",
     "authors": "Jiachen Li, Weixi Feng, Wenhu Chen , William Yang Wang",
-    "links": "<em>TMLR 2024</em> [<a href=\"https://arxiv.org/abs/2403.11027\">pdf</a>][<a href=\"https://rg-lcd.github.io/\">Website</a>]<br/>\r\n<font color=\"red\">Featured Certification (Top 5% of accepted papers)</font>",
+    "links": "<em>TMLR 2024, Presented at ICLR 2025</em> [<a href=\"https://arxiv.org/abs/2403.11027\">pdf</a>][<a href=\"https://rg-lcd.github.io/\">Website</a>]<br/>\r\n<font color=\"red\">Featured Certification (Top 5% of accepted papers)</font>",
     "category": "collaboration",
     "status": "accepted"
   },
