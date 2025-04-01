@@ -1,5 +1,12 @@
 [
   {
+    "title": "MoCha: Towards Movie-Grade Talking Character Synthesis",
+    "authors": "Cong Wei, Bo Sun, Haoyu Ma, Ji Hou, Felix Juefei-Xu, Zecheng He, Xiaoliang Dai, Luxin Zhang, Kunpeng Li, Tingbo Hou, Animesh Sinha, Peter Vajda, Wenhu Chen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2503.23307\">pdf</a>][<a href=\"https://congwei1230.github.io/MoCha/\">Demo</a>]",
+    "category": "last-author",
+    "status": "preprint"
+  },
+  {
     "title": "Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers",
     "authors": "Weiming Ren, Wentao Ma, Huan Yang, Cong Wei, Ge Zhang, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2503.11579\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Vamba/\">Website</a>]",
