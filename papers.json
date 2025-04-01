@@ -1,5 +1,12 @@
 [
   {
+    "title": "Towards Trustworthy GUI Agents: A Survey",
+    "authors": "Yucheng Shi, Wenhao Yu, Wenlin Yao, Wenhu Chen, Ninghao Liu",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2503.23434\">pdf</a>]",
+    "category": "collaboration",
+    "status": "preprint"
+  },
+  {
     "title": "MoCha: Towards Movie-Grade Talking Character Synthesis",
     "authors": "Cong Wei, Bo Sun, Haoyu Ma, Ji Hou, Felix Juefei-Xu, Zecheng He, Xiaoliang Dai, Luxin Zhang, Kunpeng Li, Tingbo Hou, Animesh Sinha, Peter Vajda, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2503.23307\">pdf</a>][<a href=\"https://congwei1230.github.io/MoCha/\">Demo</a>]",
