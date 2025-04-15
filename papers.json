@@ -1,5 +1,12 @@
 [
   {
+    "title": "VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning",
+    "authors": "Haozhe Wang, Chao Qu, Zuming Huang, Wei Chu, Fangzhen Lin, Wenhu Chen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2504.08837\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VL-Rethinker\">Website</a>]",
+    "category": "last-author",
+    "status": "preprint"
+  },
+  {
     "title": "ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations",
     "authors": "Yubo Wang, Xueguang Ma, Ping Nie, Huaye Zeng, Zhiheng Lyu, Yuxuan Zhang, Benjamin Schneider, Yi Lu, Xiang Yue, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2504.00824\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/ScholarCopilot\">Github</a>]",
