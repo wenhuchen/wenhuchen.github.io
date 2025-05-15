@@ -56,20 +56,6 @@
     "status": "preprint"
   },
   {
-    "title": "TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding",
-    "authors": "Max Ku, Thomas Chong, Jonathan Leung, Krish Shah, Alvin Yu, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2502.19400\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/TheoremExplainAgent/\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
-    "title": "AceCoder: Acing Coder RL via Automated Test-Case Synthesis",
-    "authors": "Huaye Zeng, Dongfu Jiang, Haozhe Wang, Ping Nie, Xiaotong Chen, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2502.01718\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/AceCoder/\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
     "title": "PixelWorld: Towards Perceiving Everything as Pixels",
     "authors": "Zhiheng Lyu,Xueguang Ma,Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2501.19339\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/PixelWorld/\">Website</a>]",
@@ -87,27 +73,6 @@
     "title": "Aligning Instruction Tuning with Pre-training",
     "authors": "Yiming Liang, Tianyu Zheng, Xinrun Du, Ge Zhang, Xingwei Qu, Xiang Yue, Chujie Zheng, Jiaheng Liu, Lei Ma, Wenhu Chen, Guoyin Wang, Zhaoxiang Zhang, Wenhao Huang, Jiajun Zhang",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2501.09368\">pdf</a>]",
-    "category": "collaboration",
-    "status": "preprint"
-  },
-  {
-    "title": "VISA: Retrieval Augmented Generation with Visual Source Attribution",
-    "authors": "Xueguang Ma, Shengyao Zhuang, Bevan Koopman, Guido Zuccon, Wenhu Chen, Jimmy Lin",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2412.14457\">pdf</a>]",
-    "category": "collaboration",
-    "status": "preprint"
-  },
-  {
-    "title": "MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale",
-    "authors": "Jarvis Guo, Tuney Zheng, Yuelin Bai, Bo Li, Yubo Wang, King Zhu, Yizhi Li, Graham Neubig, Wenhu Chen, Xiang Yue",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2412.05237\">pdf</a>][<a href=\"https://mammoth-vl.github.io/\">Website</a>]",
-    "category": "collaboration",
-    "status": "preprint"
-  },
-  {
-    "title": "MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark",
-    "authors": "Xiang Yue, Tianyu Zheng, Yuansheng Ni, Yubo Wang, Kai Zhang, Shengbang Tong, Yuxuan Sun, Ming Yin, Botao Yu, Ge Zhang, Huan Sun, Yu Su, Wenhu Chen , Graham Neubig",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2409.02813\">pdf</a>][<a href=\"https://mmmu-benchmark.github.io/\">Website</a>]",
     "category": "collaboration",
     "status": "preprint"
   },
@@ -138,6 +103,48 @@
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2406.13923\">pdf</a>][<a href=\"https://huggingface.co/datasets/m-a-p/PIN-14M\">Dataset</a>]",
     "category": "last-author",
     "status": "preprint"
+  },
+  {
+    "title": "TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and Image-to-Video Generation",
+    "authors": "Weixi Feng, Jiachen Li, Michael Saxon, Tsu-jui Fu, Wenhu Chen, William Yang Wang",
+    "links": "<em>Findings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2406.08656\">pdf</a>],
+    "category": "last-author",
+    "status": "accepted"
+  },
+  {
+    "title": "TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding",
+    "authors": "Max Ku, Thomas Chong, Jonathan Leung, Krish Shah, Alvin Yu, Wenhu Chen",
+    "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2502.19400\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/TheoremExplainAgent/\">Website</a>]",
+    "category": "last-author",
+    "status": "accepted"
+  },
+  {
+    "title": "AceCoder: Acing Coder RL via Automated Test-Case Synthesis",
+    "authors": "Huaye Zeng, Dongfu Jiang, Haozhe Wang, Ping Nie, Xiaotong Chen, Wenhu Chen",
+    "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2502.01718\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/AceCoder/\">Website</a>]",
+    "category": "last-author",
+    "status": "accepted"
+  },
+  {
+    "title": "VISA: Retrieval Augmented Generation with Visual Source Attribution",
+    "authors": "Xueguang Ma, Shengyao Zhuang, Bevan Koopman, Guido Zuccon, Wenhu Chen, Jimmy Lin",
+    "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2412.14457\">pdf</a>]",
+    "category": "collaboration",
+    "status": "accepted"
+  },
+  {
+    "title": "MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale",
+    "authors": "Jarvis Guo, Tuney Zheng, Yuelin Bai, Bo Li, Yubo Wang, King Zhu, Yizhi Li, Graham Neubig, Wenhu Chen, Xiang Yue",
+    "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2412.05237\">pdf</a>][<a href=\"https://mammoth-vl.github.io/\">Website</a>]",
+    "category": "collaboration",
+    "status": "accepted"
+  },
+  {
+    "title": "MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark",
+    "authors": "Xiang Yue, Tianyu Zheng, Yuansheng Ni, Yubo Wang, Kai Zhang, Shengbang Tong, Yuxuan Sun, Ming Yin, Botao Yu, Ge Zhang, Huan Sun, Yu Su, Wenhu Chen , Graham Neubig",
+    "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2409.02813\">pdf</a>][<a href=\"https://mmmu-benchmark.github.io/\">Website</a>]",
+    "category": "collaboration",
+    "status": "accepted"
   },
   {
     "title": "VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by VIdeo SpatioTemporal Augmentation",
