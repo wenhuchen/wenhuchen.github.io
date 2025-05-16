@@ -105,13 +105,6 @@
     "status": "preprint"
   },
   {
-    "title": "TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and Image-to-Video Generation",
-    "authors": "Weixi Feng, Jiachen Li, Michael Saxon, Tsu-jui Fu, Wenhu Chen, William Yang Wang",
-    "links": "<em>Findings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2406.08656\">pdf</a>]",
-    "category": "last-author",
-    "status": "accepted"
-  },
-  {
     "title": "TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding",
     "authors": "Max Ku, Thomas Chong, Jonathan Leung, Krish Shah, Alvin Yu, Wenhu Chen",
     "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2502.19400\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/TheoremExplainAgent/\">Website</a>]",
@@ -144,6 +137,13 @@
     "authors": "Xiang Yue, Tianyu Zheng, Yuansheng Ni, Yubo Wang, Kai Zhang, Shengbang Tong, Yuxuan Sun, Ming Yin, Botao Yu, Ge Zhang, Huan Sun, Yu Su, Wenhu Chen , Graham Neubig",
     "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2409.02813\">pdf</a>][<a href=\"https://mmmu-benchmark.github.io/\">Website</a>]",
     "category": "collaboration",
+    "status": "accepted"
+  },
+  {
+    "title": "TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and Image-to-Video Generation",
+    "authors": "Weixi Feng, Jiachen Li, Michael Saxon, Tsu-jui Fu, Wenhu Chen, William Yang Wang",
+    "links": "<em>Findings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2406.08656\">pdf</a>]",
+    "category": "last-author",
     "status": "accepted"
   },
   {
