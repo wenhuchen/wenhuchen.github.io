@@ -1,5 +1,19 @@
 [
   {
+    "title": "VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation",
+    "authors": "Wentao Ma, Weiming Ren, Yiming Jia, Zhuofeng Li, Ping Nie, Ge Zhang, Wenhu Chen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2505.14640">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VideoEval-Pro">Website</a>]",
+    "category": "last-author",
+    "status": "preprint"
+  },
+  {
+    "title": "General-Reasoner: Advancing LLM Reasoning Across All Domains",
+    "authors": "Xueguang Ma, Qian Liu, Dongfu Jiang, Ge Zhang, Zejun Ma, Wenhu Chen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2505.14652\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/General-Reasoner/\">Website</a>]",
+    "category": "last-author",
+    "status": "preprint"
+  },
+  {
     "title": "Breaking the Batch Barrier (B3) of Contrastive Learning via Smart Batch Mining",
     "authors": "Raghuveer Thirukovalluru, Rui Meng, Ye Liu, Karthikeyan K, Mingyi Su, Ping Nie, Semih Yavuz, Yingbo Zhou, Wenhu Chen, Bhuwan Dhingra",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2505.11293\">pdf</a>]",
