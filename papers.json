@@ -1,5 +1,12 @@
 [
   {
+    "title": "Unleashing the Reasoning Potential of Pre-trained LLMs by Critique Fine-Tuning on One Problem",
+    "authors": "Yubo Wang, Ping Nie, Kai Zou, Lijun Wu, Wenhu Chen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2506.03295\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/One-Shot-CFT\">Website</a>]",
+    "category": "last-author",
+    "status": "preprint"
+  },
+  {
     "title": "StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs",
     "authors": "Jialin Yang, Dongfu Jiang, Lipeng He, Sherman Siu, Yuxuan Zhang, Disen Liao, Zhuofeng Li, Huaye Zeng, Yiming Jia, Haozhe Wang, Benjamin Schneider, Chi Ruan, Wentao Ma, Zhiheng Lyu, Yifei Wang, Yi Lu, Quy Duc Do, Ziyan Jiang, Ping Nie, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2505.20139\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/StructEval\">Website</a>]",
