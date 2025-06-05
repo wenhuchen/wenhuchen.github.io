@@ -1,5 +1,12 @@
 [
   {
+    "title": "VisCoder: Fine-Tuning LLMs for Executable Python Visualization Code Generation",
+    "authors": "Yuansheng Ni, Ping Nie, Kai Zou, Xiang Yue, Wenhu Chen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2506.03930\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisCoder/\">Website</a>]",
+    "category": "last-author",
+    "status": "preprint"
+  },
+  {
     "title": "Unleashing the Reasoning Potential of Pre-trained LLMs by Critique Fine-Tuning on One Problem",
     "authors": "Yubo Wang, Ping Nie, Kai Zou, Lijun Wu, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2506.03295\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/One-Shot-CFT\">Website</a>]",
