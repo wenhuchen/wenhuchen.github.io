@@ -170,7 +170,7 @@
   {
     "title": "TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding",
     "authors": "Max Ku, Thomas Chong, Jonathan Leung, Krish Shah, Alvin Yu, Wenhu Chen",
-    "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2502.19400\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/TheoremExplainAgent/\">Website</a>]",
+    "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2502.19400\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/TheoremExplainAgent/\">Website</a>]<br/>\r\n<font color=\"red\">Oral (243/8276 selected)</font>",
     "category": "last-author",
     "status": "accepted"
   },
