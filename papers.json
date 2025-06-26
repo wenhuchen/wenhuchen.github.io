@@ -91,13 +91,6 @@
     "status": "preprint"
   },
   {
-    "title": "Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers",
-    "authors": "Weiming Ren, Wentao Ma, Huan Yang, Cong Wei, Ge Zhang, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2503.11579\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Vamba/\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
     "title": "VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search",
     "authors": "Yiming Jia, Jiachen Li, Xiang Yue, Bo Li, Ping Nie, Kai Zou, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2503.10582\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisualWebInstruct/\">Website</a>]",
@@ -166,6 +159,13 @@
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2406.13923\">pdf</a>][<a href=\"https://huggingface.co/datasets/m-a-p/PIN-14M\">Dataset</a>]",
     "category": "last-author",
     "status": "preprint"
+  },
+  {
+    "title": "Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers",
+    "authors": "Weiming Ren, Wentao Ma, Huan Yang, Cong Wei, Ge Zhang, Wenhu Chen",
+    "links": "<em>Proceedings of ICCV 2025, Honolulu, Hawai'i</em> [<a href=\"https://arxiv.org/abs/2503.11579\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Vamba/\">Website</a>]",
+    "category": "last-author",
+    "status": "accepted"
   },
   {
     "title": "TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding",
