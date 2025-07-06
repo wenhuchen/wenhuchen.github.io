@@ -168,6 +168,13 @@
     "status": "accepted"
   },
   {
+    "title": "FineFineWeb: A Comprehensive Study on Fine-Grained Domain Web Corpus",
+    "authors": "Ge Zhang*, Xinrun Du*, Zhimiao Yu*, Zili Wang*, Zekun Wang, Shuyue Guo, Tianyu Zheng, Kang Zhu, Jerry Liu, Shawn Yue, Binbin Liu, Zhongyuan Peng, Yifan Yao, Jack Yang, Ziming Li, Bingni Zhang, Minghao Liu, Tianyu Liu, Yang Gao, Wenhu Chen, Xiaohuan Zhou, Qian Liu, Taifeng Wang+, Wenhao Huang",
+    "links": "<em>Dataset Release, 2025</em> [<a href=\"https://huggingface.co/datasets/m-a-p/FineFineWeb\">Dataset</a>]",
+    "category": "collaboration",
+    "status": "accepted"
+  },
+  {
     "title": "TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding",
     "authors": "Max Ku, Thomas Chong, Jonathan Leung, Krish Shah, Alvin Yu, Wenhu Chen",
     "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2502.19400\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/TheoremExplainAgent/\">Website</a>]<br/>\r\n<font color=\"red\">Oral (243/8276 selected)</font>",
