@@ -70,13 +70,6 @@
     "status": "preprint"
   },
   {
-    "title": "ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations",
-    "authors": "Yubo Wang, Xueguang Ma, Ping Nie, Huaye Zeng, Zhiheng Lyu, Yuxuan Zhang, Benjamin Schneider, Yi Lu, Xiang Yue, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2504.00824\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/ScholarCopilot\">Github</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
     "title": "Towards Trustworthy GUI Agents: A Survey",
     "authors": "Yucheng Shi, Wenhao Yu, Wenlin Yao, Wenhu Chen, Ninghao Liu",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2503.23434\">pdf</a>]",
@@ -119,13 +112,6 @@
     "status": "preprint"
   },
   {
-    "title": "Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate",
-    "authors": "Yubo Wang, Xiang Yue, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2501.17703\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/CritiqueFineTuning/\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
     "title": "Aligning Instruction Tuning with Pre-training",
     "authors": "Yiming Liang, Tianyu Zheng, Xinrun Du, Ge Zhang, Xingwei Qu, Xiang Yue, Chujie Zheng, Jiaheng Liu, Lei Ma, Wenhu Chen, Guoyin Wang, Zhaoxiang Zhang, Wenhao Huang, Jiajun Zhang",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2501.09368\">pdf</a>]",
@@ -159,6 +145,20 @@
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2406.13923\">pdf</a>][<a href=\"https://huggingface.co/datasets/m-a-p/PIN-14M\">Dataset</a>]",
     "category": "last-author",
     "status": "preprint"
+  },
+  {
+    "title": "Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate",
+    "authors": "Yubo Wang, Xiang Yue, Wenhu Chen",
+    "links": "<em>COLM 2025, Montreal, Canada</em> [<a href=\"https://arxiv.org/abs/2501.17703\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/CritiqueFineTuning/\">Website</a>]",
+    "category": "last-author",
+    "status": "accepted"
+  },
+  {
+    "title": "ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations",
+    "authors": "Yubo Wang, Xueguang Ma, Ping Nie, Huaye Zeng, Zhiheng Lyu, Yuxuan Zhang, Benjamin Schneider, Yi Lu, Xiang Yue, Wenhu Chen",
+    "links": "<em>COLM 2025, Montreal, Canada</em> [<a href=\"https://arxiv.org/abs/2504.00824\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/ScholarCopilot\">Github</a>]",
+    "category": "last-author",
+    "status": "accepted"
   },
   {
     "title": "Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers",
