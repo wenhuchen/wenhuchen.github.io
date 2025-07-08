@@ -156,14 +156,14 @@
   {
     "title": "Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate",
     "authors": "Yubo Wang, Xiang Yue, Wenhu Chen",
-    "links": "<em>COLM 2025, Montreal, Canada</em> [<a href=\"https://arxiv.org/abs/2501.17703\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/CritiqueFineTuning/\">Website</a>]",
+    "links": "<em>Proceedings of COLM 2025, Montreal, Canada</em> [<a href=\"https://arxiv.org/abs/2501.17703\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/CritiqueFineTuning/\">Website</a>]",
     "category": "last-author",
     "status": "accepted"
   },
   {
     "title": "ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations",
     "authors": "Yubo Wang, Xueguang Ma, Ping Nie, Huaye Zeng, Zhiheng Lyu, Yuxuan Zhang, Benjamin Schneider, Yi Lu, Xiang Yue, Wenhu Chen",
-    "links": "<em>COLM 2025, Montreal, Canada</em> [<a href=\"https://arxiv.org/abs/2504.00824\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/ScholarCopilot\">Github</a>]",
+    "links": "<em>Proceedings of COLM 2025, Montreal, Canada</em> [<a href=\"https://arxiv.org/abs/2504.00824\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/ScholarCopilot\">Github</a>]",
     "category": "last-author",
     "status": "accepted"
   },
