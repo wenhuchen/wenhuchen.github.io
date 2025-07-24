@@ -112,13 +112,6 @@
     "status": "preprint"
   },
   {
-    "title": "ABC: Achieving Better Control of Multimodal Embeddings using VLMs",
-    "authors": "Benjamin Schneider, Florian Kerschbaum, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2503.00329\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/ABC/\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
     "title": "PixelWorld: Towards Perceiving Everything as Pixels",
     "authors": "Zhiheng Lyu,Xueguang Ma,Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2501.19339\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/PixelWorld/\">Website</a>]",
@@ -159,6 +152,13 @@
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2406.13923\">pdf</a>][<a href=\"https://huggingface.co/datasets/m-a-p/PIN-14M\">Dataset</a>]",
     "category": "last-author",
     "status": "preprint"
+  },
+  {
+    "title": "ABC: Achieving Better Control of Multimodal Embeddings using VLMs",
+    "authors": "Benjamin Schneider, Florian Kerschbaum, Wenhu Chen",
+    "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2503.00329\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/ABC/\">Website</a>]",
+    "category": "last-author",
+    "status": "accepted"
   },
   {
     "title": "Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate",
