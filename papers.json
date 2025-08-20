@@ -21,20 +21,6 @@
     "status": "preprint"
   },
   {
-    "title": "VisCoder: Fine-Tuning LLMs for Executable Python Visualization Code Generation",
-    "authors": "Yuansheng Ni, Ping Nie, Kai Zou, Xiang Yue, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2506.03930\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VLM2Vec/\">Website</a>]",
-    "category": "collaboration",
-    "status": "preprint"
-  },
-  {
-    "title": "Unleashing the Reasoning Potential of Pre-trained LLMs by Critique Fine-Tuning on One Problem",
-    "authors": "Yubo Wang, Ping Nie, Kai Zou, Lijun Wu, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2506.03295\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/One-Shot-CFT\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
     "title": "StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs",
     "authors": "Jialin Yang, Dongfu Jiang, Lipeng He, Sherman Siu, Yuxuan Zhang, Disen Liao, Zhuofeng Li, Huaye Zeng, Yiming Jia, Haozhe Wang, Benjamin Schneider, Chi Ruan, Wentao Ma, Zhiheng Lyu, Yifei Wang, Yi Lu, Quy Duc Do, Ziyan Jiang, Ping Nie, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2505.20139\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/StructEval\">Website</a>]",
@@ -105,13 +91,6 @@
     "status": "preprint"
   },
   {
-    "title": "VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search",
-    "authors": "Yiming Jia, Jiachen Li, Xiang Yue, Bo Li, Ping Nie, Kai Zou, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2503.10582\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisualWebInstruct/\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
     "title": "YuE: Scaling Open Foundation Models for Long-Form Music Generation",
     "authors": "Ruibin Yuan, Hanfeng Lin, Shuyue Guo, Ge Zhang, Jiahao Pan, Yongyi Zang, Haohe Liu, Yiming Liang, Wenye Ma, Xingjian Du, Xinrun Du, Zhen Ye, Tianyu Zheng, Yinghao Ma, Minghao Liu, Zeyue Tian, Ziya Zhou, Liumeng Xue, Xingwei Qu, Yizhi Li, Shangda Wu, Tianhao Shen, Ziyang Ma, Jun Zhan, Chunhui Wang, Yatian Wang, Xiaowei Chi, Xinyue Zhang, Zhenzhu Yang, Xiangzhou Wang, Shansong Liu, Lingrui Mei, Peng Li, Junjie Wang, Jianwei Yu, Guojian Pang, Xu Li, Zihao Wang, Xiaohuan Zhou, Lijun Yu, Emmanouil Benetos, Yong Chen, Chenghua Lin, Xie Chen, Gus Xia, Zhaoxiang Zhang, Chao Zhang, Wenhu Chen, Xinyu Zhou, Xipeng Qiu, Roger Dannenberg, Jiaheng Liu, Jian Yang, Wenhao Huang, Wei Xue, Xu Tan, Yike Guo",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2503.08638\">pdf</a>][<a href=\"https://map-yue.github.io/\">Website</a>]",
@@ -145,6 +124,27 @@
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2406.13923\">pdf</a>][<a href=\"https://huggingface.co/datasets/m-a-p/PIN-14M\">Dataset</a>]",
     "category": "last-author",
     "status": "preprint"
+  },
+  {
+    "title": "VisCoder: Fine-Tuning LLMs for Executable Python Visualization Code Generation",
+    "authors": "Yuansheng Ni, Ping Nie, Kai Zou, Xiang Yue, Wenhu Chen",
+    "links": "<em>EMNLP 2025, Suzhou, China</em> [<a href=\"https://arxiv.org/abs/2506.03930\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VLM2Vec/\">Website</a>]",
+    "category": "last-author",
+    "status": "accepted"
+  },
+  {
+    "title": "VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search",
+    "authors": "Yiming Jia, Jiachen Li, Xiang Yue, Bo Li, Ping Nie, Kai Zou, Wenhu Chen",
+    "links": "<em>EMNLP 2025, Suzhou, China</em> [<a href=\"https://arxiv.org/abs/2503.10582\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisualWebInstruct/\">Website</a>]",
+    "category": "last-author",
+    "status": "accepted"
+  },
+  {
+    "title": "Unleashing the Reasoning Potential of Pre-trained LLMs by Critique Fine-Tuning on One Problem",
+    "authors": "Yubo Wang, Ping Nie, Kai Zou, Lijun Wu, Wenhu Chen",
+    "links": "<em>EMNLP 2025, Suzhou, China</em> [<a href=\"https://arxiv.org/abs/2506.03295\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/One-Shot-CFT\">Website</a>]",
+    "category": "last-author",
+    "status": "accepted"
   },
   {
     "title": "Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities",
