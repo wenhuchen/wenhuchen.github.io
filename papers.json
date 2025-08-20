@@ -128,7 +128,7 @@
   {
     "title": "VisCoder: Fine-Tuning LLMs for Executable Python Visualization Code Generation",
     "authors": "Yuansheng Ni, Ping Nie, Kai Zou, Xiang Yue, Wenhu Chen",
-    "links": "<em>EMNLP 2025, Suzhou, China</em> [<a href=\"https://arxiv.org/abs/2506.03930\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VLM2Vec/\">Website</a>]",
+    "links": "<em>Findings of EMNLP 2025, Suzhou, China</em> [<a href=\"https://arxiv.org/abs/2506.03930\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VLM2Vec/\">Website</a>]",
     "category": "last-author",
     "status": "accepted"
   },
