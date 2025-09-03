@@ -1,8 +1,15 @@
 [
   {
+    "title": "Verl-Tool: Towards Holistic Agentic Reinforcement Learning with Tool Use",
+    "authors": "Dongfu Jiang, Yi Lu, Zhuofeng Li, Zhiheng Lyu, Ping Nie, Haozhe Wang, Alex Su, Hui Chen, Kai Zou, Chao Du, Tianyu Pang, Wenhu Chen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.01055\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/verl-tool/\">Website</a>]",
+    "category": "last-author",
+    "status": "preprint"
+  },
+  {
     "title": "BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent",
     "authors": "Zijian Chen, Xueguang Ma, Shengyao Zhuang, Ping Nie, Kai Zou, Andrew Liu, Joshua Green, Kshama Patel, Ruoxi Meng, Mingyi Su, Sahel Sharifymoghaddam, Yanxi Li, Haoran Hong, Xinyu Shi, Xuye Liu, Nandan Thakur, Crystina Zhang, Luyu Gao, Wenhu Chen, Jimmy Lin",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2508.06600\">pdf</a>][<a href=\"https://texttron.github.io/BrowseComp-Plus//\">Website</a>]",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2508.06600\">pdf</a>][<a href=\"https://texttron.github.io/BrowseComp-Plus/\">Website</a>]",
     "category": "collaboration",
     "status": "preprint"
   },
