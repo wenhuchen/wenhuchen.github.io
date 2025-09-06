@@ -126,13 +126,6 @@
     "status": "preprint"
   },
   {
-    "title": "PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal Documents",
-    "authors": "Junjie Wang, Yin Zhang, Yatai Ji, Yuxiang Zhang, Chunyang Jiang, Yubo Wang, Kang Zhu, Zekun Wang, Tiezhen Wang, Wenhao Huang, Jie Fu, Bei Chen, Qunshu Lin, Minghao Liu, Ge Zhang, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2406.13923\">pdf</a>][<a href=\"https://huggingface.co/datasets/m-a-p/PIN-14M\">Dataset</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
     "title": "VisCoder: Fine-Tuning LLMs for Executable Python Visualization Code Generation",
     "authors": "Yuansheng Ni, Ping Nie, Kai Zou, Xiang Yue, Wenhu Chen",
     "links": "<em>Findings of EMNLP 2025, Suzhou, China</em> [<a href=\"https://arxiv.org/abs/2506.03930\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VLM2Vec/\">Website</a>]",
@@ -156,7 +149,7 @@
   {
     "title": "Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities",
     "authors": "Gheorghe Comanici, Eric Bieber, Mike Schaekermann, Ice Pasupat, Noveen Sachdeva, Inderjit Dhillon, Marcel Blistein, Ori Ram, Dan Zhang, Evan Rosen, Luke Marris, Sam Petulla, Colin Gaffney, Asaf Aharoni, Nathan Lintz, Tiago Cardal Pais, Henrik Jacobsson, Idan Szpektor, Nan-Jiang Jiang, Krishna Haridasan, Ahmed Omran, Nikunj Saunshi, Dara Bahri, ..., Wenhu Chen, ....",
-    "links": "<em>LLM Report, 2025</em> [<a href=\"https://arxiv.org/abs/2507.06261\">pdf</a>]",
+    "links": "<em>Tech Report, 2025</em> [<a href=\"https://arxiv.org/abs/2507.06261\">pdf</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
@@ -191,7 +184,7 @@
   {
     "title": "FineFineWeb: A Comprehensive Study on Fine-Grained Domain Web Corpus",
     "authors": "Ge Zhang*, Xinrun Du*, Zhimiao Yu*, Zili Wang*, Zekun Wang, Shuyue Guo, Tianyu Zheng, Kang Zhu, Jerry Liu, Shawn Yue, Binbin Liu, Zhongyuan Peng, Yifan Yao, Jack Yang, Ziming Li, Bingni Zhang, Minghao Liu, Tianyu Liu, Yang Gao, Wenhu Chen, Xiaohuan Zhou, Qian Liu, Taifeng Wang+, Wenhao Huang",
-    "links": "<em>Dataset Release, 2025</em> [<a href=\"https://huggingface.co/datasets/m-a-p/FineFineWeb\">Dataset</a>]",
+    "links": "<em>Tech Report, 2025</em> [<a href=\"https://huggingface.co/datasets/m-a-p/FineFineWeb\">Dataset</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
@@ -322,6 +315,13 @@
     "status": "accepted"
   },
   {
+    "title": "PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal Documents",
+    "authors": "Junjie Wang, Yin Zhang, Yatai Ji, Yuxiang Zhang, Chunyang Jiang, Yubo Wang, Kang Zhu, Zekun Wang, Tiezhen Wang, Wenhao Huang, Jie Fu, Bei Chen, Qunshu Lin, Minghao Liu, Ge Zhang, Wenhu Chen",
+    "links": "<em>Tech Report, 2024</em> [<a href=\"https://arxiv.org/abs/2406.13923\">pdf</a>][<a href=\"https://huggingface.co/datasets/m-a-p/PIN-14M\">Dataset</a>]",
+    "category": "last-author",
+    "status": "accepted"
+  },
+  {
     "title": "MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark",
     "authors": "Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, Weiming Ren, Aaran Arulraj, Xuan He, Ziyan Jiang, Tianle Li, Max Ku, Kai Wang, Alex Zhuang, Rongqi Fan, Xiang Yue, Wenhu Chen",
     "links": "<em>Proceedings of NeurIPS (dataset track) 2024, Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2406.01574\">pdf</a>][<a href=\"https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro\">Dataset</a>]<br/>\r\n<font color=\"red\">Spotlight (Top 10% of accepted papers)</font>",
@@ -380,7 +380,7 @@
   {
     "title": "MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series",
     "authors": "Ge Zhang, Scott Qu, Jiaheng Liu, Chenchen Zhang, Chenghua Lin, Chou Leuang Yu, Danny Pan, Esther Cheng, Jie Liu, Qunshu Lin, Raven Yuan, Tuney Zheng, Wei Pang, Xinrun Du, Yiming Liang, Yinghao Ma, Yizhi Li, Ziyang Ma, Bill Lin, Emmanouil Benetos, Huan Yang, Junting Zhou, Kaijing Ma, Minghao Liu, Morry Niu, Noah Wang, Quehry Que, Ruibo Liu, Sine Liu, Shawn Guo, Soren Gao, Wangchunshu Zhou, Xinyue Zhang, Yizhi Zhou, Yubo Wang, Yuelin Bai, Yuhan Zhang, Yuxiang Zhang, Zenith Wang, Zhenzhu Yang, Zijian Zhao, Jiajun Zhang, Wanli Ouyang, Wenhao Huang, Wenhu Chen",
-    "links": "<em>LLM Report, 2024</em> [<a href=\"https://arxiv.org/abs/2405.19327\">pdf</a>][<a href=\"https://map-neo.github.io/\">Website</a>]",
+    "links": "<em>Tech Report, 2024</em> [<a href=\"https://arxiv.org/abs/2405.19327\">pdf</a>][<a href=\"https://map-neo.github.io/\">Website</a>]",
     "category": "last-author",
     "status": "accepted"
   },
