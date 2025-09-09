@@ -1,5 +1,12 @@
 [
   {
+    "title": "WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents",
+    "authors": "Junteng Liu, Yunji Li, Chi Zhang, Jingyang Li, Aili Chen, Ke Ji, Weiyu Cheng, Zijia Wu, Chengyu Du, Qidi Xu, Jiayuan Song, Zhengmao Zhu, Wenhu Chen, Pengyu Zhao, Junxian He",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.06501\">pdf</a>][<a href=\"https://github.com/hkust-nlp/WebExplorer\">Code</a>]",
+    "category": "collaboration",
+    "status": "preprint"
+  },
+  {
     "title": "Verl-Tool: Towards Holistic Agentic Reinforcement Learning with Tool Use",
     "authors": "Dongfu Jiang, Yi Lu, Zhuofeng Li, Zhiheng Lyu, Ping Nie, Haozhe Wang, Alex Su, Hui Chen, Kai Zou, Chao Du, Tianyu Pang, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.01055\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/verl-tool/\">Website</a>]",
