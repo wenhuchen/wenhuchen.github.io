@@ -119,18 +119,18 @@
     "status": "preprint"
   },
   {
-    "title": "PixelWorld: Towards Perceiving Everything as Pixels",
-    "authors": "Zhiheng Lyu,Xueguang Ma,Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2501.19339\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/PixelWorld/\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
     "title": "Foundation Models for Music: A Survey",
     "authors": "Yinghao Ma, Anders \u00d8land, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elio Quinton, Elona Shatri, Fabio Morreale, Ge Zhang, Gy\u00f6rgy Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen , Wehhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2408.14340\">pdf</a>]",
     "category": "collaboration",
     "status": "preprint"
+  },
+  {
+    "title": "PixelWorld: Towards Perceiving Everything as Pixels",
+    "authors": "Zhiheng Lyu,Xueguang Ma,Wenhu Chen",
+    "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2501.19339\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/PixelWorld/\">Website</a>]",
+    "category": "last-author",
+    "status": "accepted"
   },
   {
     "title": "VisCoder: Fine-Tuning LLMs for Executable Python Visualization Code Generation",
