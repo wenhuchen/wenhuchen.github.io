@@ -133,13 +133,6 @@
     "status": "preprint"
   },
   {
-    "title": "LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs",
-    "authors": "Ziyan Jiang, Xueguang Ma, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2406.15319\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/LongRAG/\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
     "title": "VisCoder: Fine-Tuning LLMs for Executable Python Visualization Code Generation",
     "authors": "Yuansheng Ni, Ping Nie, Kai Zou, Xiang Yue, Wenhu Chen",
     "links": "<em>Findings of EMNLP 2025, Suzhou, China</em> [<a href=\"https://arxiv.org/abs/2506.03930\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VLM2Vec/\">Website</a>]",
@@ -381,6 +374,13 @@
     "title": "VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation",
     "authors": "Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni, Sherman Siu, Haonan Chen, Abhranil Chandra, Ziyan Jiang, Aaran Arulraj, Kai Wang, Quy Duc Do, Yuansheng Ni, Bohan Lyu, Yaswanth Narsupalli, Rongqi Fan, Zhiheng Lyu, Yuchen Lin, Wenhu Chen",
     "links": "<em>Proceedings of EMNLP 2024, Miami, USA</em> [<a href=\"https://arxiv.org/abs/2406.15252\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VideoScore/\">Website</a>]",
+    "category": "last-author",
+    "status": "accepted"
+  },
+  {
+    "title": "LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs",
+    "authors": "Ziyan Jiang, Xueguang Ma, Wenhu Chen",
+    "links": "<em>Technical Report, 2024</em> [<a href=\"https://arxiv.org/abs/2406.15319\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/LongRAG/\">Website</a>]",
     "category": "last-author",
     "status": "accepted"
   },
