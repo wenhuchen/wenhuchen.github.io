@@ -142,7 +142,7 @@
   {
     "title": "VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search",
     "authors": "Yiming Jia, Jiachen Li, Xiang Yue, Bo Li, Ping Nie, Kai Zou, Wenhu Chen",
-    "links": "<em>EMNLP 2025, Suzhou, China</em> [<a href=\"https://arxiv.org/abs/2503.10582\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisualWebInstruct/\">Website</a>]",
+    "links": "<em>EMNLP 2025, Suzhou, China</em> [<a href=\"https://arxiv.org/abs/2503.10582\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisualWebInstruct/\">Website</a>]\r\n<font color=\"red\">Oral (20% selected)</font>"",
     "category": "last-author",
     "status": "accepted"
   },
