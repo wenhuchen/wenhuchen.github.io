@@ -107,21 +107,21 @@
   {
     "title": "Breaking the Batch Barrier (B3) of Contrastive Learning via Smart Batch Mining",
     "authors": "Raghuveer Thirukovalluru, Rui Meng, Ye Liu, Karthikeyan K, Mingyi Su, Ping Nie, Semih Yavuz, Yingbo Zhou, Wenhu Chen, Bhuwan Dhingra",
-    "links": "<em>NeurIPS 2025, San Diego, US</em> [<a href=\"https://arxiv.org/abs/2505.11293\">pdf</a>]",
+    "links": "<em>NeurIPS 2025, San Diego, US</em> [<a href=\"https://arxiv.org/abs/2505.11293\">pdf</a>]<br/>\r\n<font color=\"red\">Spotlight (Top 10% of accepted papers)</font>",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning",
     "authors": "Haozhe Wang, Chao Qu, Zuming Huang, Wei Chu, Fangzhen Lin, Wenhu Chen",
-    "links": "<em>NeurIPS 2025, San Diego, US</em> [<a href=\"https://arxiv.org/abs/2504.08837\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VL-Rethinker\">Website</a>]",
+    "links": "<em>NeurIPS 2025, San Diego, US</em> [<a href=\"https://arxiv.org/abs/2504.08837\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VL-Rethinker\">Website</a>]<br/>\r\n<font color=\"red\">Spotlight (Top 10% of accepted papers)</font>",
     "category": "last-author",
     "status": "accepted"
   },
   {
     "title": "MoCha: Towards Movie-Grade Talking Character Synthesis",
     "authors": "Cong Wei, Bo Sun, Haoyu Ma, Ji Hou, Felix Juefei-Xu, Zecheng He, Xiaoliang Dai, Luxin Zhang, Kunpeng Li, Tingbo Hou, Animesh Sinha, Peter Vajda, Wenhu Chen",
-    "links": "<em>NeurIPS 2025, San Diego, US</em> [<a href=\"https://arxiv.org/abs/2503.23307\">pdf</a>][<a href=\"https://congwei1230.github.io/MoCha/\">Demo</a>]",
+    "links": "<em>NeurIPS 2025, San Diego, US</em> [<a href=\"https://arxiv.org/abs/2503.23307\">pdf</a>][<a href=\"https://congwei1230.github.io/MoCha/\">Demo</a>]<br/>\r\n<font color=\"red\">Spotlight (Top 10% of accepted papers)</font>",
     "category": "last-author",
     "status": "accepted"
   },
