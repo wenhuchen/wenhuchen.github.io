@@ -85,7 +85,7 @@
   },
   {
     "title": "Foundation Models for Music: A Survey",
-    "authors": "Yinghao Ma, Anders \u00d8land, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elio Quinton, Elona Shatri, Fabio Morreale, Ge Zhang, Gy\u00f6rgy Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen , Wehhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang",
+    "authors": "Yinghao Ma, Anders \u00d8land, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elio Quinton, Elona Shatri, Fabio Morreale, Ge Zhang, Gy\u00f6rgy Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wehhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2408.14340\">pdf</a>]",
     "category": "collaboration",
     "status": "preprint"
@@ -127,7 +127,7 @@
   },
   {
     "title": "PixelWorld: Towards Perceiving Everything as Pixels",
-    "authors": "Zhiheng Lyu,Xueguang Ma,Wenhu Chen",
+    "authors": "Zhiheng Lyu, Xueguang Ma, Wenhu Chen",
     "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2501.19339\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/PixelWorld/\">Website</a>]",
     "category": "last-author",
     "status": "accepted"
@@ -225,7 +225,7 @@
   },
   {
     "title": "MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark",
-    "authors": "Xiang Yue, Tianyu Zheng, Yuansheng Ni, Yubo Wang, Kai Zhang, Shengbang Tong, Yuxuan Sun, Ming Yin, Botao Yu, Ge Zhang, Huan Sun, Yu Su, Wenhu Chen , Graham Neubig",
+    "authors": "Xiang Yue, Tianyu Zheng, Yuansheng Ni, Yubo Wang, Kai Zhang, Shengbang Tong, Yuxuan Sun, Ming Yin, Botao Yu, Ge Zhang, Huan Sun, Yu Su, Wenhu Chen, Graham Neubig",
     "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2409.02813\">pdf</a>][<a href=\"https://mmmu-benchmark.github.io/\">Website</a>]",
     "category": "collaboration",
     "status": "accepted"
@@ -260,7 +260,7 @@
   },
   {
     "title": "CodeEditorBench: Evaluating Code Editing Capability of Large Language Models",
-    "authors": "Jiawei Guo, Ziming Li, Xueling Liu, Kaijing Ma, Tianyu Zheng, Zhouliang Yu, Ding Pan, Yizhi LI, Ruibo Liu, Yue Wang, Shuyue Guo, Xingwei Qu, Xiang Yue, Ge Zhang, Wenhu Chen , Jie Fu",
+    "authors": "Jiawei Guo, Ziming Li, Xueling Liu, Kaijing Ma, Tianyu Zheng, Zhouliang Yu, Ding Pan, Yizhi LI, Ruibo Liu, Yue Wang, Shuyue Guo, Xingwei Qu, Xiang Yue, Ge Zhang, Wenhu Chen, Jie Fu",
     "links": "<em>DA4C-ICLR2025, Singapore</em> [<a href=\"https://arxiv.org/abs/2404.03543\">pdf</a>][<a href=\"https://codeeditorbench.github.io/\">Website</a>]",
     "category": "collaboration",
     "status": "accepted"
@@ -316,7 +316,7 @@
   },
   {
     "title": "Reward Guided Latent Consistency Distillation",
-    "authors": "Jiachen Li, Weixi Feng, Wenhu Chen , William Yang Wang",
+    "authors": "Jiachen Li, Weixi Feng, Wenhu Chen, William Yang Wang",
     "links": "<em>TMLR 2024, Presented at ICLR 2025</em> [<a href=\"https://arxiv.org/abs/2403.11027\">pdf</a>][<a href=\"https://rg-lcd.github.io/\">Website</a>]<br/>\r\n<font color=\"red\">Featured Certification (Top 5% of accepted papers)</font>",
     "category": "collaboration",
     "status": "accepted"
@@ -331,21 +331,21 @@
   {
     "title": "MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark",
     "authors": "Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, Weiming Ren, Aaran Arulraj, Xuan He, Ziyan Jiang, Tianle Li, Max Ku, Kai Wang, Alex Zhuang, Rongqi Fan, Xiang Yue, Wenhu Chen",
-    "links": "<em>Proceedings of NeurIPS (dataset track) 2024, Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2406.01574\">pdf</a>][<a href=\"https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro\">Dataset</a>]<br/>\r\n<font color=\"red\">Spotlight (Top 10% of accepted papers)</font>",
+    "links": "<em>Proceedings of NeurIPS 2024 (dataset track), Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2406.01574\">pdf</a>][<a href=\"https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro\">Dataset</a>]<br/>\r\n<font color=\"red\">Spotlight (Top 10% of accepted papers)</font>",
     "category": "last-author",
     "status": "accepted"
   },
   {
     "title": "GenAI Arena: An Open Evaluation Platform for Generative Models",
     "authors": "Dongfu Jiang, Max Ku, Tianle Li, Yuansheng Ni, Shizhuo Sun, Rongqi Fan, Wenhu Chen",
-    "links": "<em>Proceedings of NeurIPS (dataset track) 2024, Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2406.04485\">pdf</a>][<a href=\"https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena\">Hugginface Space</a>]",
+    "links": "<em>Proceedings of NeurIPS 2024 (dataset track), Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2406.04485\">pdf</a>][<a href=\"https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena\">Hugginface Space</a>]",
     "category": "last-author",
     "status": "accepted"
   },
   {
     "title": "WildVision: Evaluating Vision-Language Models in the Wild with Human Preferences",
-    "authors": "Yujie Lu, Dongfu Jiang, Wenhu Chen , William Yang Wang, Yejin Choi, Bill Yuchen Lin",
-    "links": "<em>Proceedings of NeurIPS  (dataset track) 2024, Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2406.11069\">pdf</a>][<a href=\"https://huggingface.co/spaces/WildVision/vision-arena\">Huggingface Space</a>]",
+    "authors": "Yujie Lu, Dongfu Jiang, Wenhu Chen, William Yang Wang, Yejin Choi, Bill Yuchen Lin",
+    "links": "<em>Proceedings of NeurIPS 2024 (dataset track), Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2406.11069\">pdf</a>][<a href=\"https://huggingface.co/spaces/WildVision/vision-arena\">Huggingface Space</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
@@ -358,14 +358,14 @@
   },
   {
     "title": "T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback",
-    "authors": "Jiachen Li, Weixi Feng, Tsu-Jui Fu, Xinyi Wang, Sugato Basu, Wenhu Chen , William Yang Wang",
+    "authors": "Jiachen Li, Weixi Feng, Tsu-Jui Fu, Xinyi Wang, Sugato Basu, Wenhu Chen, William Yang Wang",
     "links": "<em>Proceedings of NeurIPS 2024, Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2405.18750\">pdf</a>][<a href=\"https://t2v-turbo.github.io/\">Website</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "Unifying Multimodal Retrieval via Document Screenshot Embedding",
-    "authors": "Xueguang Ma, Sheng-Chieh Lin, Minghan Li, Wenhu Chen , Jimmy Lin",
+    "authors": "Xueguang Ma, Sheng-Chieh Lin, Minghan Li, Wenhu Chen, Jimmy Lin",
     "links": "<em>Proceedings of EMNLP 2024, Miami, USA</em> [<a href=\"https://arxiv.org/abs/2406.11251\">pdf</a>][<a href=\"https://github.com/texttron/tevatron/\">Code</a>]",
     "category": "collaboration",
     "status": "accepted"
@@ -407,7 +407,7 @@
   },
   {
     "title": "Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model",
-    "authors": "Xinrun Du, Zhouliang Yu, Songyang Gao, Ding Pan, Yuyang Cheng, Ziyang Ma, Ruibin Yuan, Xingwei Qu, Jiaheng Liu, Tianyu Zheng, Xinchen Luo, Guorui Zhou, Binhang Yuan, Wenhu Chen , Jie Fu, Ge Zhang",
+    "authors": "Xinrun Du, Zhouliang Yu, Songyang Gao, Ding Pan, Yuyang Cheng, Ziyang Ma, Ruibin Yuan, Xingwei Qu, Jiaheng Liu, Tianyu Zheng, Xinchen Luo, Guorui Zhou, Binhang Yuan, Wenhu Chen, Jie Fu, Ge Zhang",
     "links": "<em>Proceedings of COLM 2024, Philadelphia, USA</em> [<a href=\"https://arxiv.org/abs/2404.04167\">pdf</a>][<a href=\"https://huggingface.co/datasets/m-a-p/MAP-CC\">Huggingface</a>]",
     "category": "collaboration",
     "status": "accepted"
@@ -435,35 +435,35 @@
   },
   {
     "title": "SciMMIR: Benchmarking Scientific Multi-modal Information Retrieval",
-    "authors": "Siwei Wu, Yizhi Li, Kang Zhu, Ge Zhang, Yiming Liang, Kaijing Ma, Chenghao Xiao, Haoran Zhang, Bohao Yang, Wenhu Chen , Wenhao Huang, Noura Al Moubayed, Jie Fu, Chenghua Lin",
+    "authors": "Siwei Wu, Yizhi Li, Kang Zhu, Ge Zhang, Yiming Liang, Kaijing Ma, Chenghao Xiao, Haoran Zhang, Bohao Yang, Wenhu Chen, Wenhao Huang, Noura Al Moubayed, Jie Fu, Chenghua Lin",
     "links": "<em>Findings of ACL 2024, Bangkok, Thailand</em> [<a href=\"https://arxiv.org/abs/2401.13478\">pdf</a>][<a href=\"https://github.com/Wusiwei0410/SciMMIR\">website</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "E^2-LLM: Efficient and Extreme Length Extension of Large Language Models",
-    "authors": "Jiaheng Liu, Zhiqi Bai, Yuanxing Zhang, Chenchen Zhang, Yu Zhang, Ge Zhang, Jiakai Wang, Haoran Que, Yukang Chen, Wenbo Su, Tiezheng Ge, Jie Fu, Wenhu Chen , Bo Zheng",
+    "authors": "Jiaheng Liu, Zhiqi Bai, Yuanxing Zhang, Chenchen Zhang, Yu Zhang, Ge Zhang, Jiakai Wang, Haoran Que, Yukang Chen, Wenbo Su, Tiezheng Ge, Jie Fu, Wenhu Chen, Bo Zheng",
     "links": "<em>Findings of ACL 2024, Bangkok, Thailand</em> [<a href=\"https://arxiv.org/abs/2401.06951\">pdf</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "ChatMusician: Fostering Intrinsic Musical Abilities Into LLM",
-    "authors": "Ruibin Yuan, Hanfeng Lin, Yi Wang, Zeyue Tian, Shangda Wu, Tianhao Shen, Ge Zhang, Yuhang Wu, Cong Liu, Ziya Zhou, Ziyang Ma, Liumeng Xue, Ziyu Wang, Qin Liu, Tianyu Zheng, Yizhi Li, Yinghao Ma, Yiming Liang, Xiaowei Chi, Ruibo Liu, Zili Wang, Pengfei Li, Jingcheng Wu, Chenghua Lin, Qifeng Liu, Tao Jiang, Wenhao Huang, Wenhu Chen , Emmanouil Benetos, Jie Fu, Gus Xia, Roger Dannenberg, Wei Xue, Shiyin Kang, Yike Guo",
+    "authors": "Ruibin Yuan, Hanfeng Lin, Yi Wang, Zeyue Tian, Shangda Wu, Tianhao Shen, Ge Zhang, Yuhang Wu, Cong Liu, Ziya Zhou, Ziyang Ma, Liumeng Xue, Ziyu Wang, Qin Liu, Tianyu Zheng, Yizhi Li, Yinghao Ma, Yiming Liang, Xiaowei Chi, Ruibo Liu, Zili Wang, Pengfei Li, Jingcheng Wu, Chenghua Lin, Qifeng Liu, Tao Jiang, Wenhao Huang, Wenhu Chen, Emmanouil Benetos, Jie Fu, Gus Xia, Roger Dannenberg, Wei Xue, Shiyin Kang, Yike Guo",
     "links": "<em>Findings of ACL 2024, Bangkok, Thailand</em> [<a href=\"https://arxiv.org/abs/2402.16153\">pdf</a>][<a href=\"https://shanghaicannon.github.io/ChatMusician/\">Website</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement",
-    "authors": "Tianyu Zheng, Ge Zhang, Tianhao Shen, Xueling Liu, Bill Yuchen Lin, Jie Fu, Wenhu Chen , Xiang Yue",
+    "authors": "Tianyu Zheng, Ge Zhang, Tianhao Shen, Xueling Liu, Bill Yuchen Lin, Jie Fu, Wenhu Chen, Xiang Yue",
     "links": "<em>Findings of ACL 2024, Bangkok, Thailand</em> [<a href=\"https://arxiv.org/abs/2402.14658\">pdf</a>][<a href=\"https://opencodeinterpreter.github.io/\">Website</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "Knowledge of Knowledge: Exploring Known-Unknowns Uncertainty with Large Language Models",
-    "authors": "Alfonso Amayuelas, Liangming Pan, Wenhu Chen , William Wang",
+    "authors": "Alfonso Amayuelas, Liangming Pan, Wenhu Chen, William Wang",
     "links": "<em>Findings of ACL 2024, Bangkok, Thailand</em> [<a href=\"https://arxiv.org/abs/2305.13712\">pdf</a>]",
     "category": "collaboration",
     "status": "accepted"
@@ -477,28 +477,28 @@
   },
   {
     "title": "Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation",
-    "authors": "Xinyi Wang, Alfonso Amayuelas, Kexun Zhang, Liangming Pan, Wenhu Chen, Wenhu Chen , William Yang Wang",
+    "authors": "Xinyi Wang, Alfonso Amayuelas, Kexun Zhang, Liangming Pan, Wenhu Chen, Wenhu Chen, William Yang Wang",
     "links": "<em>Proceedings of ICML 2024, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2402.03268\">pdf</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions",
-    "authors": "Kai Zhang, Yi Luan, Hexiang Hu, Kenton Lee, Siyuan Qiao, Wenhu Chen , Yu Su, Ming-Wei Chang",
+    "authors": "Kai Zhang, Yi Luan, Hexiang Hu, Kenton Lee, Siyuan Qiao, Wenhu Chen, Yu Su, Ming-Wei Chang",
     "links": "<em>Proceedings of ICML 2024, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2403.19651\">pdf</a>][<a href=\"https://open-vision-language.github.io/MagicLens/\">Website</a>]<br/>\r\n<font color=\"red\">Oral (144/9473 selected)</font>",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "MusiLingo: Bridging Music and Text with Pre-trained Language Models for Music Captioning and Query Response",
-    "authors": "Zihao Deng, Yinghao Ma, Yudong Liu, Rongchen Guo, Ge Zhang, Wenhu Chen , Wenhao Huang, Emmanouil Benetos",
+    "authors": "Zihao Deng, Yinghao Ma, Yudong Liu, Rongchen Guo, Ge Zhang, Wenhu Chen, Wenhao Huang, Emmanouil Benetos",
     "links": "<em>Findings of NAACL 2024, Mexico City, Mexico</em> [<a href=\"https://arxiv.org/abs/2309.08730\">pdf</a>][<a href=\"https://github.com/zihaod/MusiLingo\">code</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "Instruct-Imagen: Image Generation with Multi-modal Instruction",
-    "authors": "Hexiang Hu*, Kelvin C.K. Chan*, Yu-Chuan Su*, Wenhu Chen *, Yandong Li, Kihyuk Sohn, Yang Zhao, Xue Ben, Boqing Gong, William W. Cohen, Ming-Wei Chang, Xuhui Jia",
+    "authors": "Hexiang Hu*, Kelvin C.K. Chan*, Yu-Chuan Su*, Wenhu Chen*, Yandong Li, Kihyuk Sohn, Yang Zhao, Xue Ben, Boqing Gong, William W. Cohen, Ming-Wei Chang, Xuhui Jia",
     "links": "<em>Proceedings of CVPR 2024, Seattle, US</em> [<a href=\"https://arxiv.org/abs/2401.01952\">pdf</a>][<a href=\"https://instruct-imagen.github.io/\">website</a>]<br/>\r\n<font color=\"red\">Oral (90/11,532 selected)</font>",
     "category": "collaboration",
     "status": "accepted"
@@ -512,7 +512,7 @@
   },
   {
     "title": "Kosmos-G: Generating Images in Context with Multimodal Large Language Models",
-    "authors": "Xichen Pan, Li Dong, Shaohan Huang, Zhiliang Peng, Wenhu Chen , Furu Wei",
+    "authors": "Xichen Pan, Li Dong, Shaohan Huang, Zhiliang Peng, Wenhu Chen, Furu Wei",
     "links": "<em>Proceedings of ICLR 2024, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2310.02992\">pdf</a>][<a href=\"https://xichenpan.com/kosmosg/\">website</a>]",
     "category": "collaboration",
     "status": "accepted"
@@ -526,7 +526,7 @@
   },
   {
     "title": "MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised Training",
-    "authors": "Yizhi Li, Ruibin Yuan, Ge Zhang, Yinghao Ma, Xingran Chen, Hanzhi Yin, Chenghua Lin, Anton Ragni, Emmanouil Benetos, Norbert Gyenge, Roger Dannenberg, Ruibo Liu, Wenhu Chen , Gus Xia, Yemin Shi, Wenhao Huang, Yike Guo, Jie Fu",
+    "authors": "Yizhi Li, Ruibin Yuan, Ge Zhang, Yinghao Ma, Xingran Chen, Hanzhi Yin, Chenghua Lin, Anton Ragni, Emmanouil Benetos, Norbert Gyenge, Roger Dannenberg, Ruibo Liu, Wenhu Chen, Gus Xia, Yemin Shi, Wenhao Huang, Yike Guo, Jie Fu",
     "links": "<em>Proceedings of ICLR 2024, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2306.00107\">pdf</a>][<a href=\"https://github.com/yizhilll/MERT\">code and data</a>]",
     "category": "collaboration",
     "status": "accepted"
@@ -540,14 +540,14 @@
   },
   {
     "title": "Explanations from Large Language Models Make Small Reasoners Better",
-    "authors": "Shiyang Li, Jianshu Chen, yelong shen, Zhiyu Chen, Xinlu Zhang, Zekun Li, Hong Wang, Jing Qian, Baolin Peng, Yi Mao, Wenhu Chen , Xifeng Yan",
+    "authors": "Shiyang Li, Jianshu Chen, Yelong Shen, Zhiyu Chen, Xinlu Zhang, Zekun Li, Hong Wang, Jing Qian, Baolin Peng, Yi Mao, Wenhu Chen, Xifeng Yan",
     "links": "<em>SAI-AAAI 2024, Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2210.06726\">pdf</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "Interactive Natural Language Processing",
-    "authors": "Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen , Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu",
+    "authors": "Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu",
     "links": "<em>Survey Paper, 2024</em> [<a href=\"https://arxiv.org/abs/2305.13246\">pdf</a>][<a href=\"https://github.com/InteractiveNLP-Team/awesome-InteractiveNLP-papers\">Github</a>]",
     "category": "collaboration",
     "status": "accepted"
@@ -575,56 +575,56 @@
   },
   {
     "title": "On the Risk of Misinformation Pollution with Large Language Models",
-    "authors": "Yikang Pan, Liangming Pan, Wenhu Chen , Preslav Nakov, Min-Yen Kan, William Yang Wang",
+    "authors": "Yikang Pan, Liangming Pan, Wenhu Chen, Preslav Nakov, Min-Yen Kan, William Yang Wang",
     "links": "<em>Findings of EMNLP 2023, Singapore</em> [<a href=\"https://arxiv.org/abs/2305.13661\">pdf</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "EDIS: Entity-Driven Image Search over Multimodal Web Content",
-    "authors": "Siqi Liu, Weixi Feng, Wenhu Chen , William Yang Wang",
+    "authors": "Siqi Liu, Weixi Feng, Wenhu Chen, William Yang Wang",
     "links": "<em>Proceedings of EMNLP 2023, Singapore</em> [<a href=\"https://arxiv.org/abs/2305.13631\">pdf</a>][<a href=\"https://github.com/emerisly/EDIS\">code and data</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "TheoremQA: A Theorem-driven Question Answering dataset",
-    "authors": "Wenhu Chen , Ming Yin, Max Ku, Elaine Wan, Xueguang Ma, Jianyu Xu, Tony Xia, Xinyi Wang, Pan Lu",
+    "authors": "Wenhu Chen, Ming Yin, Max Ku, Elaine Wan, Xueguang Ma, Jianyu Xu, Tony Xia, Xinyi Wang, Pan Lu",
     "links": "<em>Proceedings of EMNLP 2023, Singapore</em> [<a href=\"https://arxiv.org/abs/2305.12524\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/TheoremQA\">code and data</a>]",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "Subject-driven Text-to-Image Generation via Apprenticeship Learning",
-    "authors": "Wenhu Chen , Hexiang Hu, Yandong Li, Nataniel Ruiz, Xuhui Jia, Ming-Wei Chang, William W. Cohen",
+    "authors": "Wenhu Chen, Hexiang Hu, Yandong Li, Nataniel Ruiz, Xuhui Jia, Ming-Wei Chang, William W. Cohen",
     "links": "<em>Proceedings of NeurIPS 2023, New Orleans, USA</em> [<a href=\"https://arxiv.org/abs/2304.00186\">pdf</a>][<a href=\"https://open-vision-language.github.io/suti/\">website</a>]",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "MARBLE: Music Audio Representation Benchmark for Universal Evaluation",
-    "authors": "Ruibin Yuan, Yinghao Ma, Yizhi Li, Ge Zhang, Xingran Chen, Hanzhi Yin, Le Zhuo, Yiqi Liu, Jiawen Huang, Zeyue Tian, Binyue Deng, Ningzhi Wang, Wenhu Chen , Gus Xia, Wei Xue, Si Liu, Shi Wang, Ruibo Liu, Yike Guo, Jie Fu",
-    "links": "<em>Proceedings of NeurIPS 2023, New Orleans, USA</em> [<a href=\"https://arxiv.org/abs/2306.10548\">pdf</a>][<a href=\"https://marble-bm.shef.ac.uk/\">benchmark</a>]",
+    "authors": "Ruibin Yuan, Yinghao Ma, Yizhi Li, Ge Zhang, Xingran Chen, Hanzhi Yin, Le Zhuo, Yiqi Liu, Jiawen Huang, Zeyue Tian, Binyue Deng, Ningzhi Wang, Wenhu Chen, Gus Xia, Wei Xue, Si Liu, Shi Wang, Ruibo Liu, Yike Guo, Jie Fu",
+    "links": "<em>Proceedings of NeurIPS 2023 (dataset track), New Orleans, USA</em> [<a href=\"https://arxiv.org/abs/2306.10548\">pdf</a>][<a href=\"https://marble-bm.shef.ac.uk/\">benchmark</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing",
-    "authors": "Kai Zhang, Lingbo Mo, Wenhu Chen , Huan Sun, Yu Su",
-    "links": "<em>Proceedings of NeurIPS 2023, New Orleans, USA</em> [<a href=\"https://arxiv.org/abs/2306.10012\">pdf</a>][<a href=\"https://osu-nlp-group.github.io/MagicBrush/\">website</a>]",
+    "authors": "Kai Zhang, Lingbo Mo, Wenhu Chen, Huan Sun, Yu Su",
+    "links": "<em>Proceedings of NeurIPS 2023 (dataset track), New Orleans, USA</em> [<a href=\"https://arxiv.org/abs/2306.10012\">pdf</a>][<a href=\"https://osu-nlp-group.github.io/MagicBrush/\">website</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "Attacking Open-domain Question Answering by Injecting Misinformation",
-    "authors": "Liangming Pan, Wenhu Chen , Min-Yen Kan, William Yang Wang",
+    "authors": "Liangming Pan, Wenhu Chen, Min-Yen Kan, William Yang Wang",
     "links": "<em>Proceedings of IJCNLP-AACL 2023, Bali, Indonesia</em> [<a href=\"https://arxiv.org/abs/2110.07803\">pdf</a>]<br/>\r\n<font color=\"red\">Area Chair Award in Question Answering Track</font>",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "DePlot: One-shot visual language reasoning by plot-to-table translation",
-    "authors": "Fangyu Liu, Julian Martin Eisenschlos, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Wenhu Chen , Nigel Collier, Yasemin Altun",
+    "authors": "Fangyu Liu, Julian Martin Eisenschlos, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Wenhu Chen, Nigel Collier, Yasemin Altun",
     "links": "<em>Findings of ACL 2023, Toronto, Canada</em> [<a href=\"https://arxiv.org/abs/2212.10505\">pdf</a>] [<a href=\"https://huggingface.co/google/deplot\">demo</a>]",
     "category": "collaboration",
     "status": "accepted"
@@ -645,70 +645,70 @@
   },
   {
     "title": "Augmenting Pre-trained Language Models with QA-Memory for Open-Domain Question Answering",
-    "authors": "Wenhu Chen , Pat Verga, Michiel de Jong, John Wieting, William W. Cohen",
+    "authors": "Wenhu Chen, Pat Verga, Michiel de Jong, John Wieting, William W. Cohen",
     "links": "<em>Proceedings of EACL 2023, Dubrovnik, Croatia</em> [<a href=\"https://arxiv.org/abs/2204.04581\">pdf</a>]",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "Re-Imagen: Retrieval-Augmented Text-to-Image Generator",
-    "authors": "Wenhu Chen ,Hexiang Hu, Chitwan Saharia, William W. Cohen",
+    "authors": "Wenhu Chen, Hexiang Hu, Chitwan Saharia, William W. Cohen",
     "links": "<em>Proceedings of ICLR 2023, Kigali, Rwanda </em> [<a href=\"https://arxiv.org/abs/2209.14491\">pdf</a>]",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "QA Is the New KR: Question-Answer Pairs as Knowledge Bases",
-    "authors": "William W. Cohen, Wenhu Chen , Michiel De Jong, Nitish Gupta, Alessandro Presta, Pat Verga, John Wieting (All Equal Contribution)",
+    "authors": "William W. Cohen, Wenhu Chen, Michiel De Jong, Nitish Gupta, Alessandro Presta, Pat Verga, John Wieting (All Equal Contribution)",
     "links": "<em>Proceedings of AAAI 2023, Senior Member Track</em> [<a href=\"https://arxiv.org/abs/2207.00630\">pdf</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text",
-    "authors": "Wenhu Chen , Hexiang Hu, Xi Chen, Pat Verga, William W. Cohen",
+    "authors": "Wenhu Chen, Hexiang Hu, Xi Chen, Pat Verga, William W. Cohen",
     "links": "<em>Proceedings of EMNLP 2022, Abu Dhabi </em> [<a href=\"https://arxiv.org/abs/2210.02928\">pdf</a>]",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "Controllable Dialogue Simulation with In-context Learning",
-    "authors": "Zekun Li, Wenhu Chen , Shiyang Li, Hong Wang, Jing Qian, Xifeng Yan",
+    "authors": "Zekun Li, Wenhu Chen, Shiyang Li, Hong Wang, Jing Qian, Xifeng Yan",
     "links": "<em>Findings of EMNLP 2022, Abu Dhabi </em> [<a href=\"https://arxiv.org/abs/2210.04185\">pdf</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data",
-    "authors": "Kai Nakamura, Sharon Levy, Yi-Lin Tuan, Wenhu Chen , William Yang Wang",
+    "authors": "Kai Nakamura, Sharon Levy, Yi-Lin Tuan, Wenhu Chen, William Yang Wang",
     "links": "<em>Findings of ACL 2022, Virtual</em> [<a href=\"https://arxiv.org/abs/2204.13243\">pdf</a>][<a href=\"https://github.com/entitize/HybridDialogue\">code</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "A Dataset for Answering Time-Sensitive Questions",
-    "authors": "Wenhu Chen , Xinyi Wang, William Yang Wang",
-    "links": "<em>Proceedings of NeurIPS 2021, Virtual</em> [<a href=\"http://arxiv.org/abs/2108.06314\">pdf</a>][<a href=\"https://github.com/wenhuchen/Time-Sensitive-QA\">code</a>]",
+    "authors": "Wenhu Chen, Xinyi Wang, William Yang Wang",
+    "links": "<em>Proceedings of NeurIPS 2021 (dataset track), Virtual</em> [<a href=\"http://arxiv.org/abs/2108.06314\">pdf</a>][<a href=\"https://github.com/wenhuchen/Time-Sensitive-QA\">code</a>]",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "Local Explanation of Dialogue Response Generation",
-    "authors": "Yi-Lin Tuan, Connor Pryor, Wenhu Chen , Lise Getoor, William Yang Wang",
+    "authors": "Yi-Lin Tuan, Connor Pryor, Wenhu Chen, Lise Getoor, William Yang Wang",
     "links": "<em>Proceedings of NeurIPS 2021, Virtual</em> [<a href=\"https://arxiv.org/abs/2106.06528\">pdf</a>][<a href=\"https://github.com/Pascalson/LERG\">code</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "Counterfactual Maximum Likelihood Estimation for Training Deep Networks",
-    "authors": "Xinyi Wang, Wenhu Chen , Michael Saxon, William Yang Wang",
+    "authors": "Xinyi Wang, Wenhu Chen, Michael Saxon, William Yang Wang",
     "links": "<em>Proceedings of NeurIPS 2021, Virtual</em> [<a href=\"https://arxiv.org/abs/2106.03831\">pdf</a>][<a href=\"https://github.com/WANGXinyiLinda/CMLE\">code</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "FinQA: A Dataset of Numerical Reasoning over Financial Data",
-    "authors": "Zhiyu Chen, Wenhu Chen , Charese Smiley, Sameena Shah, Iana Borova, Dylan Langdon, \\\\",
+    "authors": "Zhiyu Chen, Wenhu Chen, Charese Smiley, Sameena Shah, Iana Borova, Dylan Langdon, \\\\",
     "links": "Reema Moussa, Matt Beane, Ting-Hao Huang, Bryan R. Routledge, William Yang Wang <br/>\r\n<em>Proceedings of EMNLP 2021, Virtual</em> [<a href=\"https://arxiv.org/abs/2109.00122\">pdf</a>][<a href=\"https://github.com/czyssrs/finqa\">code</a>]",
     "category": "collaboration",
     "status": "accepted"
@@ -722,147 +722,147 @@
   },
   {
     "title": "Zero-shot Fact Verification by Claim Generation",
-    "authors": "Liangming Pan, Wenhu Chen , Wenhan Xiong, Min-Yen Kan, William Wang",
+    "authors": "Liangming Pan, Wenhu Chen, Wenhan Xiong, Min-Yen Kan, William Wang",
     "links": "<em>Proceedings of ACL 2021, Virtual</em> [<a href=\"https://arxiv.org/abs/2105.14682\">pdf</a>][<a href=\"https://github.com/teacherpeterpan/Zero-shot-Fact-Verification\">code</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "A Systematic Investigation of KB-Text Embedding Alignment at Scale",
-    "authors": "Vardaan Pahuja, Yu Gu, Wenhu Chen , Mehdi Bahrami, Lei Liu, Wei-Peng Chen, Yu Su",
+    "authors": "Vardaan Pahuja, Yu Gu, Wenhu Chen, Mehdi Bahrami, Lei Liu, Wei-Peng Chen, Yu Su",
     "links": "<em>Proceedings of ACL 2021, Virtual</em> [<a href=\"https://arxiv.org/pdf/2106.01586.pdf\">pdf</a>][<a href=\"https://github.com/dki-lab/joint-kb-text-embedding\">code</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "Unsupervised Multi-hop Question Answering by Question Generation",
-    "authors": "Liangming Pan, Wenhu Chen , Wenhan Xiong, Min-Yen Kan, William Wang",
+    "authors": "Liangming Pan, Wenhu Chen, Wenhan Xiong, Min-Yen Kan, William Wang",
     "links": "<em>Proceedings of NAACL 2021, Mexico City, Mexico</em> [<a href=\"https://arxiv.org/abs/2010.12623\">pdf</a>][<a href=\"https://github.com/teacherpeterpan/Unsupervised-Multi-hop-QA\">code</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "Open Question Answering over Tables and Text",
-    "authors": "Wenhu Chen , Ming-wei Chang, Eva Schlinger, William Wang, William Cohen",
+    "authors": "Wenhu Chen, Ming-wei Chang, Eva Schlinger, William Wang, William Cohen",
     "links": "<em>Proceedings of ICLR 2021, Virtual</em> [<a href=\"https://arxiv.org/abs/2010.10439\">pdf</a>][<a href=\"https://github.com/wenhuchen/OTT-QA\">data and code</a>] [<a href=\"https://competitions.codalab.org/competitions/27324\">codalab</a>][<a href=\"images/ott-qa.pptx\">slides</a>][<a href=\"images/ICLR-talk.pptx\">talk-slides</a>]",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "Meta Module Network for Compositional Visual Reasoning",
-    "authors": "Wenhu Chen , Zhe Gan, Linjie Li, Yu Cheng, William Wang, Jingjing Liu",
+    "authors": "Wenhu Chen, Zhe Gan, Linjie Li, Yu Cheng, William Wang, Jingjing Liu",
     "links": "<em>Proceedings of WACV 2021, Hawaii, USA </em> [<a href=\"https://arxiv.org/abs/1910.03230\">pdf</a>][<a href=\"https://github.com/wenhuchen/Meta-Module-Network\">code</a>]<br/>\r\n<font color=\"red\">Best Student Paper Honorable Mention</font>",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation",
-    "authors": "Wenhu Chen , Yu Su, Xifeng Yan, William Wang",
+    "authors": "Wenhu Chen, Yu Su, Xifeng Yan, William Wang",
     "links": "<em>Proceedings of EMNLP 2020, Punta Cana, Dominican</em> [<a href=\"https://arxiv.org/abs/2010.02307\">pdf</a>][<a href=\"https://github.com/wenhuchen/KGPT\">data and code</a>][<a href=\"images/EMNLP-Oral.pptx\">slides</a>]",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "HybridQA: A Dataset of Multi-Hop Question Answering over Tabular and Textual Data",
-    "authors": "Wenhu Chen , Hanwen Zha, Zhiyu Chen, Wenhan Xiong, Hong Wang, William Wang",
+    "authors": "Wenhu Chen, Hanwen Zha, Zhiyu Chen, Wenhan Xiong, Hong Wang, William Wang",
     "links": "<em>Findings of EMNLP 2020</em> [<a href=\"https://arxiv.org/abs/2004.07347\">pdf</a>][<a href=\"https://github.com/wenhuchen/HybridQA\">data and code</a>][<a href=\"https://competitions.codalab.org/competitions/24420\">codalab</a>][<a href=\"https://hybridqa.github.io/\">website</a>]",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "Logic2Text: High-Fidelity Natural Language Generation from Logical Forms",
-    "authors": "Zhiyu Chen, Wenhu Chen , Hanwen Zha, Xiyou Zhou, Yunkai Zhang, Sairam Sundaresan, William Wang",
+    "authors": "Zhiyu Chen, Wenhu Chen, Hanwen Zha, Xiyou Zhou, Yunkai Zhang, Sairam Sundaresan, William Wang",
     "links": "<em>Findings of EMNLP 2020</em> [<a href=\"https://arxiv.org/abs/2004.14579\">pdf</a>][<a href=\"https://github.com/czyssrs/Logic2Text\">data and code</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "Logical Natural Language Generation from Open-Domain Tables",
-    "authors": "Wenhu Chen , Jianshu Chen, Yu Su, Zhiyu Chen, William Wang",
+    "authors": "Wenhu Chen, Jianshu Chen, Yu Su, Zhiyu Chen, William Wang",
     "links": "<em>Proceedings of ACL 2020, Seattle, USA</em> [<a href=\"https://arxiv.org/abs/2004.10404\">pdf</a>][<a href=\"https://github.com/wenhuchen/LogicNLG\">data and code</a>][<a href=\"https://competitions.codalab.org/competitions/24527\">codalab</a>][<a href=\"images/ACL2020-Oral.pptx\">slides</a>]",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "Few-shot NLG with Pre-trained Language Model",
-    "authors": "Zhiyu Chen, Harini Eavani, Wenhu Chen , Yinyin Liu, William Wang",
+    "authors": "Zhiyu Chen, Harini Eavani, Wenhu Chen, Yinyin Liu, William Wang",
     "links": "<em>Proceedings of ACL 2020, Seattle, USA</em> [<a href=\"https://arxiv.org/abs/1904.09521\">pdf</a>][<a href=\"https://github.com/czyssrs/Few-Shot-NLG\">data and code</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "VIOLIN: A Large-Scale Dataset for Video-and-Language Inference",
-    "authors": "Jingzhou Liu, Wenhu Chen , Yu Cheng, Zhe Gan, Licheng Yu, Yiming Yang, Jingjing Liu",
+    "authors": "Jingzhou Liu, Wenhu Chen, Yu Cheng, Zhe Gan, Licheng Yu, Yiming Yang, Jingjing Liu",
     "links": "<em>Proceedings of CVPR 2020, Seattle, USA</em> [<a href=\"https://arxiv.org/abs/2003.11618\">pdf</a>][<a href=\"https://github.com/jimmy646/violin\">data and code</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "TabFact: A Large-scale Dataset for Table-based Fact Verification",
-    "authors": "Wenhu Chen , Hongmin Wang, Jianshu Chen, Yunkai Zhang, Hong Wang, Shiyang Li, Xiyou Zhou, William Wang",
+    "authors": "Wenhu Chen, Hongmin Wang, Jianshu Chen, Yunkai Zhang, Hong Wang, Shiyang Li, Xiyou Zhou, William Wang",
     "links": "<em>Proceedings of ICLR 2020, Addis Ababa, Ethiopia</em> [<a href=\"https://arxiv.org/abs/1909.02164\">pdf</a>][<a href=\"https://tabfact.github.io/\">website</a>]",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs",
-    "authors": "Pengda Qin, Xin Wang, Wenhu Chen , Chunyun Zhang, Weiran Xu, William Wang",
+    "authors": "Pengda Qin, Xin Wang, Wenhu Chen, Chunyun Zhang, Weiran Xu, William Wang",
     "links": "<em>Proceedings of AAAI 2020, New York, US</em> [<a href=\"https://arxiv.org/abs/2001.02332\">pdf</a>][<a href=\"https://blog.csdn.net/qq_38382642/article/details/104109825\">blog</a>][<a href=\"https://github.com/Panda0406/Zero-shot-knowledge-graph-relational-learning\">code</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting",
-    "authors": "Shiyang Li, Xiaoyong Jin, Yao Xuan, Xiyou Zhou, Wenhu Chen , Yu-Xiang Wang, Xifeng Yan",
+    "authors": "Shiyang Li, Xiaoyong Jin, Yao Xuan, Xiyou Zhou, Wenhu Chen, Yu-Xiang Wang, Xifeng Yan",
     "links": "<em>Proceedings of NeurIPS 2019, Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/1907.00235\">pdf</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "Interpreting and Improving Deep Neural SLU Models via Vocabulary Importance",
-    "authors": "Yilin Shen, Wenhu Chen , Hongxia Jin",
+    "authors": "Yilin Shen, Wenhu Chen, Hongxia Jin",
     "links": "<em>Proceedings of INTERSPEECH 2019, Graz, Austria</em> [<a href=\"https://www.isca-archive.org/interspeech_2019/shen19_interspeech.pdf\">pdf</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "Semantically Conditioned Dialog Response Generation via Hierarchical Disentangled Self-Attention",
-    "authors": "Wenhu Chen , Jianshu Chen, Pengda Qin, Xifeng Yan, William Wang",
+    "authors": "Wenhu Chen, Jianshu Chen, Pengda Qin, Xifeng Yan, William Wang",
     "links": "<em>Proceedings of ACL 2019, Florence, Italy</em> [<a href=\"https://arxiv.org/abs/1905.12866\">pdf</a>][<a href=\"https://github.com/wenhuchen/HDSA-Dialog\">code</a>]",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "Global Textual Relation Embedding for Relational Understanding",
-    "authors": "Zhiyu Chen, Hanwen Zha, Honglei Liu, Wenhu Chen , Xifeng Yan, Yu Su",
+    "authors": "Zhiyu Chen, Hanwen Zha, Honglei Liu, Wenhu Chen, Xifeng Yan, Yu Su",
     "links": "<em>Proceedings of ACL 2019, Florence, Italy </em> [<a href=\"https://arxiv.org/abs/1906.00550\">pdf</a>][<a href=\"https://github.com/czyssrs/GloREPlus\">code</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "Mining Algorithm Roadmap in Scientific Publications",
-    "authors": "Hanwen Zha, Wenhu Chen , Keqian Li, Xifeng Yan",
+    "authors": "Hanwen Zha, Wenhu Chen, Keqian Li, Xifeng Yan",
     "links": "<em>Proceedings of KDD 2019, Alaska, USA</em> [<a href=\"https://dl.acm.org/citation.cfm?id=3330913\">pdf</a>][<a href=\"https://www.aminer.cn/research_report/5d70705aba8f0e1dd32ca39a?download=false\">blog</a>][<a href=\"https://github.com/zhw12/AlgMap\">code</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "How Large A Vocabulary Does Text Classification Need? A Variational Approach on Vocabulary Selection",
-    "authors": "Wenhu Chen , Yu Su, Yilin Shen, Zhiyu Chen, Xifeng Yan, William Wang",
+    "authors": "Wenhu Chen, Yu Su, Yilin Shen, Zhiyu Chen, Xifeng Yan, William Wang",
     "links": "<em>Proceedings of NAACL 2019, Minneapolis, USA</em> [<a href=\"https://arxiv.org/abs/1902.10339\">pdf</a>][<a href=\"https://github.com/wenhuchen/Variational-Vocabulary-Selection.git\">code</a>][<a href=\"images/naacl2019.pptx\">slides</a>]",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "XL-NBT: A cross-lingual Neural Belief Tracking Framework",
-    "authors": "Wenhu Chen , Jianshu Chen, Yu Su, Xin Wang, Dong Yu, Xifeng Yan, William Wang.",
+    "authors": "Wenhu Chen, Jianshu Chen, Yu Su, Xin Wang, Dong Yu, Xifeng Yan, William Wang.",
     "links": "<em>Proceedings of EMNLP 2018, Brussels, Belgium </em> [<a href=\"https://arxiv.org/abs/1808.06244\">pdf</a>][<a href=\"https://github.com/wenhuchen/Cross-Lingual-NBT\">code</a>][<a href=\"https://www.jiqizhixin.com/articles/2018-10-25-4\">blog</a>]",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "Triangular Architecture for Rare Language Translation",
-    "authors": "Shuo Ren, Wenhu Chen , Shujie Liu, Mu Li, Ming Zhou, Shuai Ma.",
+    "authors": "Shuo Ren, Wenhu Chen, Shujie Liu, Mu Li, Ming Zhou, Shuai Ma.",
     "links": "<em>Proceedings of ACL 2018, Melbourne, Australia</em> [<a href=\"https://arxiv.org/abs/1805.04813\">pdf</a>][<a href=\"images/TA-NMT.pptx\">slides</a>][<a href=\"https://www.msra.cn/zh-cn/news/features/acl-2018-ta-nmt\">blog</a>]",
     "category": "collaboration",
     "status": "accepted"
@@ -876,28 +876,28 @@
   },
   {
     "title": "Variational Knowledge Graph Reasoning",
-    "authors": "Wenhu Chen , Wenhan Xiong, Xifeng Yan, William Wang.",
+    "authors": "Wenhu Chen, Wenhan Xiong, Xifeng Yan, William Wang.",
     "links": "<em>Proceedings of NAACL 2018, New Orleans, CA </em> [<a href=\"https://arxiv.org/abs/1803.06581\">pdf</a>][<a href=\"images/naacl2018.pptx\">slides</a>][<a href=\"https://github.com/wenhuchen/KB-Reasoning-Data\">data</a>]",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "Generative Bridging Network in Neural Sequence Prediction",
-    "authors": "Wenhu Chen , Guanlin Li, Shuo Ren, Shujie Liu, Zhirui Zhang, Mu Li, Ming Zhou.",
+    "authors": "Wenhu Chen, Guanlin Li, Shuo Ren, Shujie Liu, Zhirui Zhang, Mu Li, Ming Zhou.",
     "links": "<em>Proceedings of NAACL 2018, New Orleans, CA </em> [<a href=\"https://arxiv.org/abs/1706.09152\">pdf</a>][<a href=\"images/naacl_poster_GBN.pdf\">poster</a>]",
     "category": "first-author",
     "status": "accepted"
   },
   {
     "title": "Video Captioning via Hierarchical Reinforcement Learning",
-    "authors": "Xin Wang, Wenhu Chen , Jiawei Wu, Yuan-fang Wang, William Wang.",
+    "authors": "Xin Wang, Wenhu Chen, Jiawei Wu, Yuan-fang Wang, William Wang.",
     "links": "<em>Proceedings of CVPR 2018, Salt Lake City, UTAH </em> [<a href=\"https://arxiv.org/pdf/1711.11135.pdf\">pdf</a>][<a href=\"https://cloud.tencent.com/developer/article/1092810\">blog</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "Guided alignment training for topic-aware neural machine translation",
-    "authors": "Wenhu Chen , Evgeny Matusov, Shahram Khadivi, JT Peter.",
+    "authors": "Wenhu Chen, Evgeny Matusov, Shahram Khadivi, JT Peter.",
     "links": "<em>Proceedings of AMTA 2016, Austin, TX </em> [<a href=\"https://arxiv.org/pdf/1607.01628.pdf\">pdf</a>][<a href=\"https://github.com/harvardnlp/seq2seq-attn\">openNMT</a>]",
     "category": "first-author",
     "status": "accepted"
