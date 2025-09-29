@@ -1,5 +1,12 @@
 [
   {
+    "title": "Language Models Can Learn from Verbal Feedback Without Scalar Rewards",
+    "authors": "Renjie Luo, Zichen Liu, Xiangyan Liu, Chao Du, Min Lin, Wenhu Chen, Wei Lu, Tianyu Pang",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.22638\">pdf</a>][<a href=\"https://github.com/sail-sg/feedback-conditional-policy\">Code</a>]",
+    "category": "collaboration",
+    "status": "preprint"
+  },
+  {
     "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
     "authors": "Haozhe Wang, Qixin Xu, Che Liu, Junhong Wu, Fangzhen Lin, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.03646\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Hierarchical-Reasoner/\">Website</a>]",
