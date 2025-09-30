@@ -1,8 +1,15 @@
 [
   {
+    "title": "VideoScore2: Think before You Score in Generative Video Evaluation",
+    "authors": "Xuan He, Dongfu Jiang, Ping Nie, Minghao Liu, Zhengxuan Jiang, Mingyi Su, Wentao Ma, Junru Lin, Chun Ye, Yi Lu, Keming Wu, Benjamin Schneider, Quy Duc Do, Zhuofeng Li, Yiming Jia, Yuxuan Zhang, Guo Cheng, Haozhe Wang, Wangchunshu Zhou, Qunshu Lin, Yuanxing Zhang, Ge Zhang, Wenhao Huang, Wenhu Chen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.22799\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VideoScore2/\">Website</a>]",
+    "category": "last-author",
+    "status": "preprint"
+  },
+  {
     "title": "Critique-Coder: Enhancing Coder Models by Critique Reinforcement Learning",
     "authors": "Chi Ruan, Dongfu Jiang, Yubo Wang, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.22824\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Critique-Coder\">Code</a>]",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.22824\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Critique-Coder\">Website</a>]",
     "category": "last-author",
     "status": "preprint"
   },
