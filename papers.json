@@ -1,5 +1,12 @@
 [
   {
+    "title": "EditReward: A Human-Aligned Reward Model for Instruction-Guided Image Editing",
+    "authors": "Keming Wu, Sicong Jiang, Max Ku, Ping Nie, Minghao Liu, Wenhu Chen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.26346\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/EditReward/\">Website</a>]",
+    "category": "last-author",
+    "status": "preprint"
+  },
+  {
     "title": "VideoScore2: Think before You Score in Generative Video Evaluation",
     "authors": "Xuan He, Dongfu Jiang, Ping Nie, Minghao Liu, Zhengxuan Jiang, Mingyi Su, Wentao Ma, Junru Lin, Chun Ye, Yi Lu, Keming Wu, Benjamin Schneider, Quy Duc Do, Zhuofeng Li, Yiming Jia, Yuxuan Zhang, Guo Cheng, Haozhe Wang, Wangchunshu Zhou, Qunshu Lin, Yuanxing Zhang, Ge Zhang, Wenhao Huang, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.22799\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VideoScore2/\">Website</a>]",
