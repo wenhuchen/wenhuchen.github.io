@@ -121,7 +121,7 @@
   {
     "title": "Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning",
     "authors": "Alex Su, Haozhe Wang, Weimin Ren, Fangzhen Lin, Wenhu Chen",
-    "links": "<em>NeurIPS 2025</em> [<a href=\"https://arxiv.org/abs/2505.15966\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Pixel-Reasoner\">Website</a>]",
+    "links": "<em>Proceedings of NeurIPS 2025</em> [<a href=\"https://arxiv.org/abs/2505.15966\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Pixel-Reasoner\">Website</a>]",
     "category": "last-author",
     "status": "accepted"
   },  
@@ -289,7 +289,7 @@
   {
     "title": "CodeEditorBench: Evaluating Code Editing Capability of Large Language Models",
     "authors": "Jiawei Guo, Ziming Li, Xueling Liu, Kaijing Ma, Tianyu Zheng, Zhouliang Yu, Ding Pan, Yizhi LI, Ruibo Liu, Yue Wang, Shuyue Guo, Xingwei Qu, Xiang Yue, Ge Zhang, Wenhu Chen, Jie Fu",
-    "links": "<em>DA4C-ICLR2025, Singapore</em> [<a href=\"https://arxiv.org/abs/2404.03543\">pdf</a>][<a href=\"https://codeeditorbench.github.io/\">Website</a>]",
+    "links": "<em>ICLR Workshop 2025, Singapore</em> [<a href=\"https://arxiv.org/abs/2404.03543\">pdf</a>][<a href=\"https://codeeditorbench.github.io/\">Website</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
@@ -569,7 +569,7 @@
   {
     "title": "Explanations from Large Language Models Make Small Reasoners Better",
     "authors": "Shiyang Li, Jianshu Chen, Yelong Shen, Zhiyu Chen, Xinlu Zhang, Zekun Li, Hong Wang, Jing Qian, Baolin Peng, Yi Mao, Wenhu Chen, Xifeng Yan",
-    "links": "<em>SAI-AAAI 2024, Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2210.06726\">pdf</a>]",
+    "links": "<em>AAAI Workshop 2024, Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2210.06726\">pdf</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
