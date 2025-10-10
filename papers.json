@@ -1,5 +1,12 @@
 [
   {
+    "title": "UniVideo: Unified Understanding, Generation, and Editing for Videos",
+    "authors": "Cong Wei, Quande Liu, Zixuan Ye, Qiulin Wang, Xintao Wang, Pengfei Wan, Kun Gai, Wenhu Chen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2510.08377\">pdf</a>][<a href=\"https://congwei1230.github.io/UniVideo/\">Website</a>]",
+    "category": "last-author",
+    "status": "preprint"
+  },
+  {
     "title": "EditReward: A Human-Aligned Reward Model for Instruction-Guided Image Editing",
     "authors": "Keming Wu, Sicong Jiang, Max Ku, Ping Nie, Minghao Liu, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.26346\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/EditReward/\">Website</a>]",
