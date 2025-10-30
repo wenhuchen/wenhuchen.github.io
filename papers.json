@@ -1,5 +1,12 @@
 [
   {
+    "title": "VisCoder2: Building Multi-Language Visualization Coding Agents",
+    "authors": "Yuansheng Ni, Songcheng Cai, Xiangchao Chen, Jiarong Liang, Zhiheng Lyu, Jiaqi Deng, Kai Zou, Ping Nie, Fei Yuan, Xiang Yue, Wenhu Chen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2510.23642\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisCoder2/\">Website</a>]",
+    "category": "last-author",
+    "status": "preprint"
+  },
+  {
     "title": "BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions",
     "authors": "Tao Yu, Zhengbo Zhang, Zhiheng Lyu, Junhao Gong, Hongzhu Yi, Xinming Wang, Yuxuan Zhou, Jiabing Yang, Ping Nie, Yan Huang, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2510.10666\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/BrowserAgent/\">Website</a>]",
