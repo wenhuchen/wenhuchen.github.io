@@ -1,5 +1,12 @@
 [
   {
+    "title": "TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models",
+    "authors": "Zhiheng Liu, Weiming Ren, Haozhe Liu, Zijian Zhou, Shoufa Chen, Haonan Qiu, Xiaoke Huang, Zhaochong An, Fanny Yang, Aditya Patel, Viktar Atliha, Tony Ng, Xiao Han, Chuyan Zhu, Chenyang Zhang, Ding Liu, Juan-Manuel Perez-Rua, Sen He, Jürgen Schmidhuber, Wenhu Chen, Ping Luo, Wei Liu, Tao Xiang, Jonas Schult, Yuren Cong",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2512.02014\">pdf</a>][<a href=\"https://tuna-ai.org/\">Website</a>]",
+    "category": "collaboration",
+    "status": "preprint"
+  },
+  {
     "title": "VisCoder2: Building Multi-Language Visualization Coding Agents",
     "authors": "Yuansheng Ni, Songcheng Cai, Xiangchao Chen, Jiarong Liang, Zhiheng Lyu, Jiaqi Deng, Kai Zou, Ping Nie, Fei Yuan, Xiang Yue, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2510.23642\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisCoder2/\">Website</a>]",
