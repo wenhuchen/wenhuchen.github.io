@@ -98,13 +98,6 @@
     "status": "preprint"
   },
   {
-    "title": "StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs",
-    "authors": "Jialin Yang, Dongfu Jiang, Lipeng He, Sherman Siu, Yuxuan Zhang, Disen Liao, Zhuofeng Li, Huaye Zeng, Yiming Jia, Haozhe Wang, Benjamin Schneider, Chi Ruan, Wentao Ma, Zhiheng Lyu, Yifei Wang, Yi Lu, Quy Duc Do, Ziyan Jiang, Ping Nie, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2505.20139\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/StructEval\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
     "title": "PhyX: Does Your Model Have the \"Wits\" for Physical Reasoning?",
     "authors": "Hui Shen, Taiqiang Wu, Qi Han, Yunta Hsieh, Jizhou Wang, Yuyue Zhang, Yuxin Cheng, Zijian Hao, Yuansheng Ni, Xin Wang, Zhongwei Wan, Kai Zhang, Wendong Xu, Jing Xiong, Ping Luo, Wenhu Chen, Chaofan Tao, Zhuoqing Mao, Ngai Wong",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2505.15929\">pdf</a>]",
@@ -144,6 +137,13 @@
     "authors": "Yinghao Ma, Anders \u00d8land, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elio Quinton, Elona Shatri, Fabio Morreale, Ge Zhang, Gy\u00f6rgy Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wehhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2408.14340\">pdf</a>]",
     "category": "collaboration",
+    "status": "preprint"
+  },
+  {
+    "title": "StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs",
+    "authors": "Jialin Yang, Dongfu Jiang, Lipeng He, Sherman Siu, Yuxuan Zhang, Disen Liao, Zhuofeng Li, Huaye Zeng, Yiming Jia, Haozhe Wang, Benjamin Schneider, Chi Ruan, Wentao Ma, Zhiheng Lyu, Yifei Wang, Yi Lu, Quy Duc Do, Ziyan Jiang, Ping Nie, Wenhu Chen",
+    "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2505.20139\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/StructEval\">Website</a>]",
+    "category": "last-author",
     "status": "preprint"
   },
   {
