@@ -140,6 +140,20 @@
     "status": "preprint"
   },
   {
+    "title": "Explanations from Large Language Models Make Small Reasoners Better",
+    "authors": "Shiyang Li, Jianshu Chen, Yelong Shen, Zhiyu Chen, Xinlu Zhang, Zekun Li, Hong Wang, Jing Qian, Baolin Peng, Yi Mao, Wenhu Chen, Xifeng Yan",
+    "links": "<em>AAAI Workshop 2024, Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2210.06726\">pdf</a>]",
+    "category": "collaboration",
+    "status": "preprint"
+  },
+  {
+    "title": "CodeEditorBench: Evaluating Code Editing Capability of Large Language Models",
+    "authors": "Jiawei Guo, Ziming Li, Xueling Liu, Kaijing Ma, Tianyu Zheng, Zhouliang Yu, Ding Pan, Yizhi LI, Ruibo Liu, Yue Wang, Shuyue Guo, Xingwei Qu, Xiang Yue, Ge Zhang, Wenhu Chen, Jie Fu",
+    "links": "<em>ICLR Workshop 2025, Singapore</em> [<a href=\"https://arxiv.org/abs/2404.03543\">pdf</a>][<a href=\"https://codeeditorbench.github.io/\">Website</a>]",
+    "category": "collaboration",
+    "status": "preprint"
+  },
+  {
     "title": "StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs",
     "authors": "Jialin Yang, Dongfu Jiang, Lipeng He, Sherman Siu, Yuxuan Zhang, Disen Liao, Zhuofeng Li, Huaye Zeng, Yiming Jia, Haozhe Wang, Benjamin Schneider, Chi Ruan, Wentao Ma, Zhiheng Lyu, Yifei Wang, Yi Lu, Quy Duc Do, Ziyan Jiang, Ping Nie, Wenhu Chen",
     "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2505.20139\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/StructEval\">Website</a>]",
@@ -311,13 +325,6 @@
     "title": "UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models",
     "authors": "Sahel Sharifymoghaddam,\u00a0Shivani Upadhyay,\u00a0Wenhu Chen,\u00a0Jimmy Lin",
     "links": "<em>Findings of NAACL 2025, New Mexico</em> [<a href=\"https://arxiv.org/abs/2405.10311\">pdf</a>]",
-    "category": "collaboration",
-    "status": "accepted"
-  },
-  {
-    "title": "CodeEditorBench: Evaluating Code Editing Capability of Large Language Models",
-    "authors": "Jiawei Guo, Ziming Li, Xueling Liu, Kaijing Ma, Tianyu Zheng, Zhouliang Yu, Ding Pan, Yizhi LI, Ruibo Liu, Yue Wang, Shuyue Guo, Xingwei Qu, Xiang Yue, Ge Zhang, Wenhu Chen, Jie Fu",
-    "links": "<em>ICLR Workshop 2025, Singapore</em> [<a href=\"https://arxiv.org/abs/2404.03543\">pdf</a>][<a href=\"https://codeeditorbench.github.io/\">Website</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
@@ -592,13 +599,6 @@
     "authors": "Xiang Yue*, Xingwei Qu, Ge Zhang, Yao Fu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen *",
     "links": "<em>Proceedings of ICLR 2024, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2309.05653\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/MAmmoTH/\">website</a>]<br/>\r\n<font color=\"red\">Spotlight (366/7304 selected)</font>",
     "category": "last-author",
-    "status": "accepted"
-  },
-  {
-    "title": "Explanations from Large Language Models Make Small Reasoners Better",
-    "authors": "Shiyang Li, Jianshu Chen, Yelong Shen, Zhiyu Chen, Xinlu Zhang, Zekun Li, Hong Wang, Jing Qian, Baolin Peng, Yi Mao, Wenhu Chen, Xifeng Yan",
-    "links": "<em>AAAI Workshop 2024, Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2210.06726\">pdf</a>]",
-    "category": "collaboration",
     "status": "accepted"
   },
   {
