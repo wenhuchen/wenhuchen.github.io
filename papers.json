@@ -107,9 +107,9 @@
   {
     "title": "QuickVideo: Real-Time Long Video Understanding with System Algorithm Co-Design",
     "authors": "Benjamin Schneider, Dongfu Jiang, Chao Du, Tianyu Pang, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2505.16175\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/QuickVideo\">Website</a>]",
+    "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2505.16175\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/QuickVideo\">Website</a>]",
     "category": "last-author",
-    "status": "preprint"
+    "status": "accepted"
   },
   {
     "title": "VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation",
