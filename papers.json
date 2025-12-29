@@ -259,13 +259,6 @@
     "status": "accepted"
   },
   {
-    "title": "FineFineWeb: A Comprehensive Study on Fine-Grained Domain Web Corpus",
-    "authors": "Ge Zhang*, Xinrun Du*, Zhimiao Yu*, Zili Wang*, Zekun Wang, Shuyue Guo, Tianyu Zheng, Kang Zhu, Jerry Liu, Shawn Yue, Binbin Liu, Zhongyuan Peng, Yifan Yao, Jack Yang, Ziming Li, Bingni Zhang, Minghao Liu, Tianyu Liu, Yang Gao, Wenhu Chen, Xiaohuan Zhou, Qian Liu, Taifeng Wang+, Wenhao Huang",
-    "links": "<em>Tech Report, 2025</em> [<a href=\"https://huggingface.co/datasets/m-a-p/FineFineWeb\">Dataset</a>]",
-    "category": "collaboration",
-    "status": "accepted"
-  },
-  {
     "title": "TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding",
     "authors": "Max Ku, Thomas Chong, Jonathan Leung, Krish Shah, Alvin Yu, Wenhu Chen",
     "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2502.19400\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/TheoremExplainAgent/\">Website</a>]",
@@ -382,13 +375,6 @@
     "authors": "Jiachen Li, Weixi Feng, Wenhu Chen, William Yang Wang",
     "links": "<em>TMLR 2024, Presented at ICLR 2025</em> [<a href=\"https://arxiv.org/abs/2403.11027\">pdf</a>][<a href=\"https://rg-lcd.github.io/\">Website</a>]<br/>\r\n<font color=\"red\">Featured Certification (Top 5% of accepted papers)</font>",
     "category": "collaboration",
-    "status": "accepted"
-  },
-  {
-    "title": "PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal Documents",
-    "authors": "Junjie Wang, Yin Zhang, Yatai Ji, Yuxiang Zhang, Chunyang Jiang, Yubo Wang, Kang Zhu, Zekun Wang, Tiezhen Wang, Wenhao Huang, Jie Fu, Bei Chen, Qunshu Lin, Minghao Liu, Ge Zhang, Wenhu Chen",
-    "links": "<em>Tech Report, 2024</em> [<a href=\"https://arxiv.org/abs/2406.13923\">pdf</a>][<a href=\"https://huggingface.co/datasets/m-a-p/PIN-14M\">Dataset</a>]",
-    "category": "last-author",
     "status": "accepted"
   },
   {
