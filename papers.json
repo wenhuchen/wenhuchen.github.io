@@ -359,7 +359,7 @@
   {
     "title": "MANTIS: Interleaved Multi-Image Instruction Tuning",
     "authors": "Dongfu Jiang, Xuan He, Huaye Zeng, Cong Wei, Max Ku, Qian Liu, Wenhu Chen",
-    "links": "<em>TMLR 2024</em> [<a href=\"https://arxiv.org/abs/2405.01483\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Mantis/\">Website</a>][<a href=\"https://huggingface.co/spaces/TIGER-Lab/Mantis\">Demo</a>]<br>\r\n<font color=\"red\">Outstanding Paper Award</font>",
+    "links": "<em>TMLR 2024</em> [<a href=\"https://arxiv.org/abs/2405.01483\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Mantis/\">Website</a>][<a href=\"https://huggingface.co/spaces/TIGER-Lab/Mantis\">Demo</a>]<br>\r\n<font color=\"red\">Outstanding Paper Award (Best Paper of the 2024-2025 Cycle)</font>",
     "category": "last-author",
     "status": "accepted"
   },
