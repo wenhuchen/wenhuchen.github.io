@@ -142,7 +142,7 @@
   {
     "title": "BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions",
     "authors": "Tao Yu, Zhengbo Zhang, Zhiheng Lyu, Junhao Gong, Hongzhu Yi, Xinming Wang, Yuxuan Zhou, Jiabing Yang, Ping Nie, Yan Huang, Wenhu Chen",
-    "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2510.10666\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/BrowserAgent/\">Website</a>]",
+    "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2510.10666\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/BrowserAgent/\">Website</a>]<br>\r\n<font color=\"red\">J2C Certification</font>",
     "category": "last-author",
     "status": "accepted"
   },
