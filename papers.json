@@ -142,7 +142,7 @@
   {
     "title": "BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions",
     "authors": "Tao Yu, Zhengbo Zhang, Zhiheng Lyu, Junhao Gong, Hongzhu Yi, Xinming Wang, Yuxuan Zhou, Jiabing Yang, Ping Nie, Yan Huang, Wenhu Chen",
-    "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2510.10666\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/BrowserAgent/\">Website</a>]<br>\r\n<font color=\"red\">J2C Certification</font>",
+    "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2510.10666\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/BrowserAgent/\">Website</a>]<br>\r\n<font color=\"red\">J2C Certification (Present at ICML/NeuripS/ICLR)</font>",
     "category": "last-author",
     "status": "accepted"
   },
@@ -156,7 +156,7 @@
   {
     "title": "StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs",
     "authors": "Jialin Yang, Dongfu Jiang, Lipeng He, Sherman Siu, Yuxuan Zhang, Disen Liao, Zhuofeng Li, Huaye Zeng, Yiming Jia, Haozhe Wang, Benjamin Schneider, Chi Ruan, Wentao Ma, Zhiheng Lyu, Yifei Wang, Yi Lu, Quy Duc Do, Ziyan Jiang, Ping Nie, Wenhu Chen",
-    "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2505.20139\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/StructEval\">Website</a>]<br>\r\n<font color=\"red\">J2C Certification</font>",
+    "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2505.20139\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/StructEval\">Website</a>]<br>\r\n<font color=\"red\">J2C Certification (Present at ICML/NeuripS/ICLR)</font>",
     "category": "last-author",
     "status": "accepted"
   },
@@ -177,7 +177,7 @@
   {
     "title": "Breaking the Batch Barrier (B3) of Contrastive Learning via Smart Batch Mining",
     "authors": "Raghuveer Thirukovalluru, Rui Meng, Ye Liu, Karthikeyan K, Mingyi Su, Ping Nie, Semih Yavuz, Yingbo Zhou, Wenhu Chen, Bhuwan Dhingra",
-    "links": "<em>Proceedings of NeurIPS 2025, San Diego, US</em> [<a href=\"https://arxiv.org/abs/2505.11293\">pdf</a>]<br/>\r\n<font color=\"red\">Spotlight (Top 10% of accepted papers)</font>",
+    "links": "<em>Proceedings of NeurIPS 2025, San Diego, US</em> [<a href=\"https://arxiv.org/abs/2505.11293\">pdf</a>][<a href=\"https://github.com/raghavlite/B3\">code</a>]<br/>\r\n<font color=\"red\">Spotlight (Top 10% of accepted papers)</font>",
     "category": "collaboration",
     "status": "accepted"
   },
@@ -275,7 +275,7 @@
   {
     "title": "VISA: Retrieval Augmented Generation with Visual Source Attribution",
     "authors": "Xueguang Ma, Shengyao Zhuang, Bevan Koopman, Guido Zuccon, Wenhu Chen, Jimmy Lin",
-    "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2412.14457\">pdf</a>]",
+    "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2412.14457\">pdf</a>][<a href=\"https://github.com/castorini/visa\">Code</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
