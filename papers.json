@@ -65,56 +65,56 @@
   {
     "title": "ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks",
     "authors": "Samin_Mahdizadeh_Sani1, Max Ku, Nima Jamali, Matina Mahdizadeh Sani, Paria Khoshtab, Wei-Chieh Sun, Parnian Fazel, Zhi Rui Tam, Thomas Chong, Edisy Kin Wai Chan, Donald Wai Tong Tsang, Chiao-Wei Hsu, Lam Ting Wai, Ho Yin Sam Ng, Chiafeng Chu, Chak-Wing Mak, Keming Wu, Hiu Tung Wong, Yik Chun Ho, Chi Ruan, Zhuofeng Li, I-Sheng Fang, Shih-Ying Yeh, Ho Kei Cheng, Ping Nie, Wenhu Chen",
-    "links": "<em>ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"#\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/ImagenWorld/\">Website</a>]",
+    "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"#\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/ImagenWorld/\">Website</a>]",
     "category": "last-author",
     "status": "accepted"
   },
   {
     "title": "Critique-Coder: Enhancing Coder Models by Critique Reinforcement Learning",
     "authors": "Chi Ruan, Dongfu Jiang, Yubo Wang, Wenhu Chen",
-    "links": "<em>ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2509.22824\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Critique-Coder\">Website</a>]",
+    "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2509.22824\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Critique-Coder\">Website</a>]",
     "category": "last-author",
     "status": "accepted"
   },
   {
     "title": "VisCoder2: Building Multi-Language Visualization Coding Agents",
     "authors": "Yuansheng Ni, Songcheng Cai, Xiangchao Chen, Jiarong Liang, Zhiheng Lyu, Jiaqi Deng, Kai Zou, Ping Nie, Fei Yuan, Xiang Yue, Wenhu Chen",
-    "links": "<em>ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2510.23642\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisCoder2/\">Website</a>]",
+    "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2510.23642\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisCoder2/\">Website</a>]",
     "category": "last-author",
     "status": "accepted"
   },
   {
     "title": "UniVideo: Unified Understanding, Generation, and Editing for Videos",
     "authors": "Cong Wei, Quande Liu, Zixuan Ye, Qiulin Wang, Xintao Wang, Pengfei Wan, Kun Gai, Wenhu Chen",
-    "links": "<em>ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2510.08377\">pdf</a>][<a href=\"https://congwei1230.github.io/UniVideo/\">Website</a>]",
+    "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2510.08377\">pdf</a>][<a href=\"https://congwei1230.github.io/UniVideo/\">Website</a>]",
     "category": "last-author",
     "status": "accepted"
   },
   {
     "title": "EditReward: A Human-Aligned Reward Model for Instruction-Guided Image Editing",
     "authors": "Keming Wu, Sicong Jiang, Max Ku, Ping Nie, Minghao Liu, Wenhu Chen",
-    "links": "<em>ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2509.26346\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/EditReward/\">Website</a>]",
+    "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2509.26346\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/EditReward/\">Website</a>]",
     "category": "last-author",
     "status": "accepted"
   },
   {
     "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
     "authors": "Haozhe Wang, Qixin Xu, Che Liu, Junhong Wu, Fangzhen Lin, Wenhu Chen",
-    "links": "<em>ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2509.03646\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Hierarchical-Reasoner/\">Website</a>]",
+    "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2509.03646\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Hierarchical-Reasoner/\">Website</a>]",
     "category": "last-author",
     "status": "accepted"
   },
   {
     "title": "NeuralOS: Towards Simulating Operating Systems via Neural Generative Models",
     "authors": "Luke Rivard, Sun Sun, Hongyu Guo, Wenhu Chen, Yuntian Deng",
-    "links": "<em>ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2507.08800\">pdf</a>][<a href=\"https://neural-os.com/\">Demo</a>]",
+    "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2507.08800\">pdf</a>][<a href=\"https://neural-os.com/\">Demo</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
   {
     "title": "YuE: Scaling Open Foundation Models for Long-Form Music Generation",
     "authors": "Ruibin Yuan, Hanfeng Lin, Shuyue Guo, Ge Zhang, Jiahao Pan, Yongyi Zang, Haohe Liu, Yiming Liang, Wenye Ma, Xingjian Du, Xinrun Du, Zhen Ye, Tianyu Zheng, Yinghao Ma, Minghao Liu, Zeyue Tian, Ziya Zhou, Liumeng Xue, Xingwei Qu, Yizhi Li, Shangda Wu, Tianhao Shen, Ziyang Ma, Jun Zhan, Chunhui Wang, Yatian Wang, Xiaowei Chi, Xinyue Zhang, Zhenzhu Yang, Xiangzhou Wang, Shansong Liu, Lingrui Mei, Peng Li, Junjie Wang, Jianwei Yu, Guojian Pang, Xu Li, Zihao Wang, Xiaohuan Zhou, Lijun Yu, Emmanouil Benetos, Yong Chen, Chenghua Lin, Xie Chen, Gus Xia, Zhaoxiang Zhang, Chao Zhang, Wenhu Chen, Xinyu Zhou, Xipeng Qiu, Roger Dannenberg, Jiaheng Liu, Jian Yang, Wenhao Huang, Wei Xue, Xu Tan, Yike Guo",
-    "links": "<em>ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2503.08638\">pdf</a>][<a href=\"https://map-yue.github.io/\">Website</a>]",
+    "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2503.08638\">pdf</a>][<a href=\"https://map-yue.github.io/\">Website</a>]",
     "category": "collaboration",
     "status": "accepted"
   },
