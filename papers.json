@@ -7,37 +7,9 @@
     "status": "preprint"
   },
   {
-    "title": "VisCoder2: Building Multi-Language Visualization Coding Agents",
-    "authors": "Yuansheng Ni, Songcheng Cai, Xiangchao Chen, Jiarong Liang, Zhiheng Lyu, Jiaqi Deng, Kai Zou, Ping Nie, Fei Yuan, Xiang Yue, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2510.23642\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisCoder2/\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
-    "title": "UniVideo: Unified Understanding, Generation, and Editing for Videos",
-    "authors": "Cong Wei, Quande Liu, Zixuan Ye, Qiulin Wang, Xintao Wang, Pengfei Wan, Kun Gai, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2510.08377\">pdf</a>][<a href=\"https://congwei1230.github.io/UniVideo/\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
-    "title": "EditReward: A Human-Aligned Reward Model for Instruction-Guided Image Editing",
-    "authors": "Keming Wu, Sicong Jiang, Max Ku, Ping Nie, Minghao Liu, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.26346\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/EditReward/\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
     "title": "VideoScore2: Think before You Score in Generative Video Evaluation",
     "authors": "Xuan He, Dongfu Jiang, Ping Nie, Minghao Liu, Zhengxuan Jiang, Mingyi Su, Wentao Ma, Junru Lin, Chun Ye, Yi Lu, Keming Wu, Benjamin Schneider, Quy Duc Do, Zhuofeng Li, Yiming Jia, Yuxuan Zhang, Guo Cheng, Haozhe Wang, Wangchunshu Zhou, Qunshu Lin, Yuanxing Zhang, Ge Zhang, Wenhao Huang, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.22799\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VideoScore2/\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
-    "title": "Critique-Coder: Enhancing Coder Models by Critique Reinforcement Learning",
-    "authors": "Chi Ruan, Dongfu Jiang, Yubo Wang, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.22824\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Critique-Coder\">Website</a>]",
     "category": "last-author",
     "status": "preprint"
   },
@@ -46,13 +18,6 @@
     "authors": "Renjie Luo, Zichen Liu, Xiangyan Liu, Chao Du, Min Lin, Wenhu Chen, Wei Lu, Tianyu Pang",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.22638\">pdf</a>][<a href=\"https://github.com/sail-sg/feedback-conditional-policy\">Code</a>]",
     "category": "collaboration",
-    "status": "preprint"
-  },
-  {
-    "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
-    "authors": "Haozhe Wang, Qixin Xu, Che Liu, Junhong Wu, Fangzhen Lin, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.03646\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Hierarchical-Reasoner/\">Website</a>]",
-    "category": "last-author",
     "status": "preprint"
   },
   {
@@ -73,13 +38,6 @@
     "title": "BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent",
     "authors": "Zijian Chen, Xueguang Ma, Shengyao Zhuang, Ping Nie, Kai Zou, Andrew Liu, Joshua Green, Kshama Patel, Ruoxi Meng, Mingyi Su, Sahel Sharifymoghaddam, Yanxi Li, Haoran Hong, Xinyu Shi, Xuye Liu, Nandan Thakur, Crystina Zhang, Luyu Gao, Wenhu Chen, Jimmy Lin",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2508.06600\">pdf</a>][<a href=\"https://texttron.github.io/BrowseComp-Plus/\">Website</a>]",
-    "category": "collaboration",
-    "status": "preprint"
-  },
-  {
-    "title": "NeuralOS: Towards Simulating Operating Systems via Neural Generative Models",
-    "authors": "Luke Rivard, Sun Sun, Hongyu Guo, Wenhu Chen, Yuntian Deng",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2507.08800\">pdf</a>][<a href=\"https://neural-os.com/\">Demo</a>]",
     "category": "collaboration",
     "status": "preprint"
   },
@@ -105,11 +63,60 @@
     "status": "preprint"
   },
   {
+    "title": "ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks",
+    "authors": "Samin_Mahdizadeh_Sani1, Max Ku, Nima Jamali, Matina Mahdizadeh Sani, Paria Khoshtab, Wei-Chieh Sun, Parnian Fazel, Zhi Rui Tam, Thomas Chong, Edisy Kin Wai Chan, Donald Wai Tong Tsang, Chiao-Wei Hsu, Lam Ting Wai, Ho Yin Sam Ng, Chiafeng Chu, Chak-Wing Mak, Keming Wu, Hiu Tung Wong, Yik Chun Ho, Chi Ruan, Zhuofeng Li, I-Sheng Fang, Shih-Ying Yeh, Ho Kei Cheng, Ping Nie, Wenhu Chen",
+    "links": "<em>ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"#\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/ImagenWorld/\">Website</a>]",
+    "category": "last-author",
+    "status": "accepted"
+  },
+  {
+    "title": "Critique-Coder: Enhancing Coder Models by Critique Reinforcement Learning",
+    "authors": "Chi Ruan, Dongfu Jiang, Yubo Wang, Wenhu Chen",
+    "links": "<em>ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2509.22824\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Critique-Coder\">Website</a>]",
+    "category": "last-author",
+    "status": "accepted"
+  },
+  {
+    "title": "VisCoder2: Building Multi-Language Visualization Coding Agents",
+    "authors": "Yuansheng Ni, Songcheng Cai, Xiangchao Chen, Jiarong Liang, Zhiheng Lyu, Jiaqi Deng, Kai Zou, Ping Nie, Fei Yuan, Xiang Yue, Wenhu Chen",
+    "links": "<em>ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2510.23642\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisCoder2/\">Website</a>]",
+    "category": "last-author",
+    "status": "accepted"
+  },
+  {
+    "title": "UniVideo: Unified Understanding, Generation, and Editing for Videos",
+    "authors": "Cong Wei, Quande Liu, Zixuan Ye, Qiulin Wang, Xintao Wang, Pengfei Wan, Kun Gai, Wenhu Chen",
+    "links": "<em>ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2510.08377\">pdf</a>][<a href=\"https://congwei1230.github.io/UniVideo/\">Website</a>]",
+    "category": "last-author",
+    "status": "accepted"
+  },
+  {
+    "title": "EditReward: A Human-Aligned Reward Model for Instruction-Guided Image Editing",
+    "authors": "Keming Wu, Sicong Jiang, Max Ku, Ping Nie, Minghao Liu, Wenhu Chen",
+    "links": "<em>ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2509.26346\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/EditReward/\">Website</a>]",
+    "category": "last-author",
+    "status": "accepted"
+  },
+  {
+    "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
+    "authors": "Haozhe Wang, Qixin Xu, Che Liu, Junhong Wu, Fangzhen Lin, Wenhu Chen",
+    "links": "<em>ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2509.03646\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Hierarchical-Reasoner/\">Website</a>]",
+    "category": "last-author",
+    "status": "accepted"
+  },
+  {
+    "title": "NeuralOS: Towards Simulating Operating Systems via Neural Generative Models",
+    "authors": "Luke Rivard, Sun Sun, Hongyu Guo, Wenhu Chen, Yuntian Deng",
+    "links": "<em>ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2507.08800\">pdf</a>][<a href=\"https://neural-os.com/\">Demo</a>]",
+    "category": "collaboration",
+    "status": "accepted"
+  },
+  {
     "title": "YuE: Scaling Open Foundation Models for Long-Form Music Generation",
     "authors": "Ruibin Yuan, Hanfeng Lin, Shuyue Guo, Ge Zhang, Jiahao Pan, Yongyi Zang, Haohe Liu, Yiming Liang, Wenye Ma, Xingjian Du, Xinrun Du, Zhen Ye, Tianyu Zheng, Yinghao Ma, Minghao Liu, Zeyue Tian, Ziya Zhou, Liumeng Xue, Xingwei Qu, Yizhi Li, Shangda Wu, Tianhao Shen, Ziyang Ma, Jun Zhan, Chunhui Wang, Yatian Wang, Xiaowei Chi, Xinyue Zhang, Zhenzhu Yang, Xiangzhou Wang, Shansong Liu, Lingrui Mei, Peng Li, Junjie Wang, Jianwei Yu, Guojian Pang, Xu Li, Zihao Wang, Xiaohuan Zhou, Lijun Yu, Emmanouil Benetos, Yong Chen, Chenghua Lin, Xie Chen, Gus Xia, Zhaoxiang Zhang, Chao Zhang, Wenhu Chen, Xinyu Zhou, Xipeng Qiu, Roger Dannenberg, Jiaheng Liu, Jian Yang, Wenhao Huang, Wei Xue, Xu Tan, Yike Guo",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2503.08638\">pdf</a>][<a href=\"https://map-yue.github.io/\">Website</a>]",
+    "links": "<em>ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2503.08638\">pdf</a>][<a href=\"https://map-yue.github.io/\">Website</a>]",
     "category": "collaboration",
-    "status": "preprint"
+    "status": "accepted"
   },
   {
     "title": "Foundation Models for Music: A Survey",
