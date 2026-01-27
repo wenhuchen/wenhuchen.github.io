@@ -1,5 +1,12 @@
 [
   {
+    "title": "CogDoc: Towards Unified thinking in Documents",
+    "authors": "Qixin Xu, Haozhe Wang, Che Liu, Fangzhen Lin, Wenhu Chen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2512.12658\">pdf</a>]",
+    "category": "last-author",
+    "status": "preprint"
+  },
+  {
     "title": "Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following",
     "authors": "Tianyi Xiong, Yi Ge, Ming Li, Zuolong Zhang, Pranav Kulkarni, Kaishen Wang, Qi He, Zeying Zhu, Chenxi Liu, Ruibo Chen, Tong Zheng, Yanshuo Chen, Xiyao Wang, Renrui Zhang, Wenhu Chen, Heng Huang",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2511.21662\">pdf</a>][<a href=\"https://multi-crit.github.io/\">Website</a>]",
