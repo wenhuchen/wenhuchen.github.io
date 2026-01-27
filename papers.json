@@ -1,5 +1,19 @@
 [
   {
+    "title": "Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following",
+    "authors": "Tianyi Xiong, Yi Ge, Ming Li, Zuolong Zhang, Pranav Kulkarni, Kaishen Wang, Qi He, Zeying Zhu, Chenxi Liu, Ruibo Chen, Tong Zheng, Yanshuo Chen, Xiyao Wang, Renrui Zhang, Wenhu Chen, Heng Huang",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2511.21662\">pdf</a>][<a href=\"https://multi-crit.github.io/\">Website</a>]",
+    "category": "collaboration",
+    "status": "preprint"
+  },
+  {
+    "title": "RTGen: Real-Time Generative Detection Transformer",
+    "authors": "Chi Ruan, Jiying Zhao, Wenhu Chen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2502.20622\">pdf</a>],
+    "category": "last-author",
+    "status": "preprint"
+  },
+  {
     "title": "TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models",
     "authors": "Zhiheng Liu, Weiming Ren, Haozhe Liu, Zijian Zhou, Shoufa Chen, Haonan Qiu, Xiaoke Huang, Zhaochong An, Fanny Yang, Aditya Patel, Viktar Atliha, Tony Ng, Xiao Han, Chuyan Zhu, Chenyang Zhang, Ding Liu, Juan-Manuel Perez-Rua, Sen He, Jürgen Schmidhuber, Wenhu Chen, Ping Luo, Wei Liu, Tao Xiang, Jonas Schult, Yuren Cong",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2512.02014\">pdf</a>][<a href=\"https://tuna-ai.org/\">Website</a>]",
