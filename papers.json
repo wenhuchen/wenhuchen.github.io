@@ -135,7 +135,7 @@
   {
     "title": "Foundation Models for Music: A Survey",
     "authors": "Yinghao Ma, Anders \u00d8land, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elio Quinton, Elona Shatri, Fabio Morreale, Ge Zhang, Gy\u00f6rgy Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wehhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2408.14340\">pdf</a>]",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2408.14340\">pdf</a>][<a href=\"https://github.com/nicolaus625/FM4Music\">website</a>]",
     "category": "collaboration",
     "status": "preprint"
   },
