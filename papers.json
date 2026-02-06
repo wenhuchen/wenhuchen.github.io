@@ -1,5 +1,12 @@
 [
   {
+    "title": "Context Forcing: Consistent Autoregressive Video Generation with Long Context",
+    "authors": "Shuo Chen, Cong Wei, Sun Sun, Ping Nie, Kai Zhou, Ge Zhang, Ming-Hsuan Yang, Wenhu Chen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2602.06028\">pdf</a>][<a href=\"https://chenshuo20.github.io/Context_Forcing/\">website</a>]",
+    "category": "last-author",
+    "status": "preprint"
+  },
+  {
     "title": "CogDoc: Towards Unified thinking in Documents",
     "authors": "Qixin Xu, Haozhe Wang, Che Liu, Fangzhen Lin, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2512.12658\">pdf</a>]",
