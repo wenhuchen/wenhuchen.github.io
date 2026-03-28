@@ -1,5 +1,12 @@
 [
   {
+    "title": "OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis",
+    "authors": "Zhuofeng Li, Dongfu Jiang, Xueguang Ma, Haoxiang Zhang, Ping Nie, Yuyu Zhang, Kai Zou, Jianwen Xie, Yu Zhang, Wenhu Chen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2603.20278\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/OpenResearcher\">website</a>]",
+    "category": "last-author",
+    "status": "preprint"
+  },
+  {
     "title": "VisPhyWorld: Probing Physical Reasoning via Code-Driven Video Reconstruction",
     "authors": "Jiarong Liang, Max Ku, Ka-Hei Hui, Ping Nie, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2602.13294\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisPhyWorld/\">website</a>]",
