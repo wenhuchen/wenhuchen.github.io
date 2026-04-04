@@ -14,13 +14,6 @@
     "status": "preprint"
   },
   {
-    "title": "Quantifying the Gap between Understanding and Generation within Unified Multimodal Models",
-    "authors": "Chenlong Wang, Yuhang Chen, Zhihan Hu, Dongping Chen, Wenhu Chen, Sarah Wiegreffe, Tianyi Zhou",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2602.02140\">pdf</a>]",
-    "category": "collaboration",
-    "status": "preprint"
-  },
-  {
     "title": "OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis",
     "authors": "Zhuofeng Li, Dongfu Jiang, Xueguang Ma, Haoxiang Zhang, Ping Nie, Yuyu Zhang, Kai Zou, Jianwen Xie, Yu Zhang, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2603.20278\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/OpenResearcher\">website</a>]",
@@ -110,6 +103,13 @@
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2503.23434\">pdf</a>]",
     "category": "collaboration",
     "status": "preprint"
+  },
+  {
+    "title": "Quantifying the Gap between Understanding and Generation within Unified Multimodal Models",
+    "authors": "Chenlong Wang, Yuhang Chen, Zhihan Hu, Dongping Chen, Wenhu Chen, Sarah Wiegreffe, Tianyi Zhou",
+    "links": "<em>Findings of CVPR 2026, Denver, US</em> [<a href=\"https://arxiv.org/abs/2602.02140\">pdf</a>]",
+    "category": "collaboration",
+    "status": "accepted"
   },
   {
     "title": "Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following",
