@@ -101,7 +101,7 @@
     "title": "SWE-QA-Pro: A Representative Benchmark and Scalable Training Recipe for Repository-Level Code Understanding",
     "authors": "Songcheng Cai, Zhiheng Lyu, Yuansheng Ni, Xiangchao Chen, Baichuan Zhou, Shenzhe Zhu, Yi Lu, Haozhe Wang, Chi Ruan, Benjamin Schneider, Weixu Zhang, Xiang Li, Andy Zheng, Yuyu Zhang, Ping Nie, Wenhu Chen",
     "links": "<em>Findings of ACL 2026, San Diego, California</em> [<a href=\"https://arxiv.org/abs/2603.16124\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/SWE-QA-Pro\">Website</a>]",
-    "category": "collaboration",
+    "category": "last-author",
     "status": "accepted"
   },
   {
