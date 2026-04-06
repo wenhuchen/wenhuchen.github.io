@@ -77,13 +77,6 @@
     "status": "preprint"
   },
   {
-    "title": "BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent",
-    "authors": "Zijian Chen, Xueguang Ma, Shengyao Zhuang, Ping Nie, Kai Zou, Andrew Liu, Joshua Green, Kshama Patel, Ruoxi Meng, Mingyi Su, Sahel Sharifymoghaddam, Yanxi Li, Haoran Hong, Xinyu Shi, Xuye Liu, Nandan Thakur, Crystina Zhang, Luyu Gao, Wenhu Chen, Jimmy Lin",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2508.06600\">pdf</a>][<a href=\"https://texttron.github.io/BrowseComp-Plus/\">Website</a>]",
-    "category": "collaboration",
-    "status": "preprint"
-  },
-  {
     "title": "PhyX: Does Your Model Have the \"Wits\" for Physical Reasoning?",
     "authors": "Hui Shen, Taiqiang Wu, Qi Han, Yunta Hsieh, Jizhou Wang, Yuyue Zhang, Yuxin Cheng, Zijian Hao, Yuansheng Ni, Xin Wang, Zhongwei Wan, Kai Zhang, Wendong Xu, Jing Xiong, Ping Luo, Wenhu Chen, Chaofan Tao, Zhuoqing Mao, Ngai Wong",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2505.15929\">pdf</a>]",
@@ -103,6 +96,20 @@
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2503.23434\">pdf</a>]",
     "category": "collaboration",
     "status": "preprint"
+  },
+  {
+    "title": "SWE-QA-Pro: A Representative Benchmark and Scalable Training Recipe for Repository-Level Code Understanding",
+    "authors": "Songcheng Cai, Zhiheng Lyu, Yuansheng Ni, Xiangchao Chen, Baichuan Zhou, Shenzhe Zhu, Yi Lu, Haozhe Wang, Chi Ruan, Benjamin Schneider, Weixu Zhang, Xiang Li, Andy Zheng, Yuyu Zhang, Ping Nie, Wenhu Chen",
+    "links": "<em>Findings of ACL 2026, San Diego, California</em> [<a href=\"https://arxiv.org/abs/2603.16124\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/SWE-QA-Pro\">Website</a>]",
+    "category": "collaboration",
+    "status": "accepted"
+  },
+  {
+    "title": "BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent",
+    "authors": "Zijian Chen, Xueguang Ma, Shengyao Zhuang, Ping Nie, Kai Zou, Andrew Liu, Joshua Green, Kshama Patel, Ruoxi Meng, Mingyi Su, Sahel Sharifymoghaddam, Yanxi Li, Haoran Hong, Xinyu Shi, Xuye Liu, Nandan Thakur, Crystina Zhang, Luyu Gao, Wenhu Chen, Jimmy Lin",
+    "links": "<em>ACL 2026, San Diego, California</em> [<a href=\"https://arxiv.org/abs/2508.06600\">pdf</a>][<a href=\"https://texttron.github.io/BrowseComp-Plus/\">Website</a>]",
+    "category": "collaboration",
+    "status": "accepted"
   },
   {
     "title": "Quantifying the Gap between Understanding and Generation within Unified Multimodal Models",
