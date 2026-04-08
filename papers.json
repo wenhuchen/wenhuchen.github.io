@@ -133,13 +133,6 @@
     "status": "accepted"
   },
   {
-    "title": "WorldBench: A Challenging and Visually Diverse Multimodal Benchmark",
-    "authors": "Yida Yin, Harish Krishnakumar, Chung Peng Lee, Boya Zeng, Wenhao Chai, Shengbang Tong, Wenhu Chen, Hu Xu, Xingyu Fu, Gabriel Herbert Sarch, Aleksandra Korolova, Zhuang Liu",
-    "links": "<em>Proceedings of CVPR 2026, Denver, US</em> [<a href=\"#\">pdf</a>]",
-    "category": "collaboration",
-    "status": "accepted"
-  },
-  {
     "title": "ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks",
     "authors": "Samin_Mahdizadeh_Sani1, Max Ku, Nima Jamali, Matina Mahdizadeh Sani, Paria Khoshtab, Wei-Chieh Sun, Parnian Fazel, Zhi Rui Tam, Thomas Chong, Edisy Kin Wai Chan, Donald Wai Tong Tsang, Chiao-Wei Hsu, Lam Ting Wai, Ho Yin Sam Ng, Chiafeng Chu, Chak-Wing Mak, Keming Wu, Hiu Tung Wong, Yik Chun Ho, Chi Ruan, Zhuofeng Li, I-Sheng Fang, Shih-Ying Yeh, Ho Kei Cheng, Ping Nie, Wenhu Chen",
     "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2603.27862\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/ImagenWorld/\">Website</a>]",
