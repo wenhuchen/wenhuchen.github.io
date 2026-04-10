@@ -1,5 +1,12 @@
 [
   {
+    "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
+    "authors": "Yuxuan Zhang, Yubo Wang, Yipeng Zhu, Penghui Du, Junwen Miao, Xuan Lu, Wendong Xu, Yunzhuo Hao, Songcheng Cai, Xiaochen Wang, Huaisong Zhang, Xian Wu, Yi Lu, Minyi Lei, Kai Zou, Huifeng Yin, Ping Nie, Liang Chen, Dongfu Jiang, Wenhu Chen, Kelsey R. Allen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2604.08523\">pdf</a>][<a href=\"https://claw-bench.com/\">website</a>]",
+    "category": "collaboration",
+    "status": "preprint"
+  },
+  {
     "title": "SWE-Next: Scalable Real-World Software Engineering Tasks for Agents",
     "authors": "Jiarong Liang, Zhiheng Lyu, Zijie Liu, Xiangchao Chen, Ping Nie, Kai Zou, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2603.20691\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/SWE-Next/\">website</a>]",
