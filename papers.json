@@ -1,5 +1,12 @@
 [
   {
+    "title": "RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time",
+    "authors": "Haozhe Wang, Cong Wei, Weiming Ren, Jiaming Liu, Fangzhen Lin, Wenhu Chen",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2604.11626\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/RationalRewards/\">website</a>]",
+    "category": "last-author",
+    "status": "preprint"
+  },
+  {
     "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
     "authors": "Yuxuan Zhang, Yubo Wang, Yipeng Zhu, Penghui Du, Junwen Miao, Xuan Lu, Wendong Xu, Yunzhuo Hao, Songcheng Cai, Xiaochen Wang, Huaisong Zhang, Xian Wu, Yi Lu, Minyi Lei, Kai Zou, Huifeng Yin, Ping Nie, Liang Chen, Dongfu Jiang, Wenhu Chen, Kelsey R. Allen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2604.08523\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/ClawBench\">website</a>]",
