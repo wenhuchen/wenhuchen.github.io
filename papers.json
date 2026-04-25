@@ -84,13 +84,6 @@
     "status": "preprint"
   },
   {
-    "title": "Verl-Tool: Towards Holistic Agentic Reinforcement Learning with Tool Use",
-    "authors": "Dongfu Jiang, Yi Lu, Zhuofeng Li, Zhiheng Lyu, Ping Nie, Haozhe Wang, Alex Su, Hui Chen, Kai Zou, Chao Du, Tianyu Pang, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.01055\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/verl-tool/\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
     "title": "PhyX: Does Your Model Have the \"Wits\" for Physical Reasoning?",
     "authors": "Hui Shen, Taiqiang Wu, Qi Han, Yunta Hsieh, Jizhou Wang, Yuyue Zhang, Yuxin Cheng, Zijian Hao, Yuansheng Ni, Xin Wang, Zhongwei Wan, Kai Zhang, Wendong Xu, Jing Xiong, Ping Luo, Wenhu Chen, Chaofan Tao, Zhuoqing Mao, Ngai Wong",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2505.15929\">pdf</a>]",
@@ -110,6 +103,13 @@
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2503.23434\">pdf</a>]",
     "category": "collaboration",
     "status": "preprint"
+  },
+  {
+    "title": "VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use",
+    "authors": "Dongfu Jiang, Yi Lu, Zhuofeng Li, Zhiheng Lyu, Ping Nie, Haozhe Wang, Alex Su, Hui Chen, Kai Zou, Chao Du, Tianyu Pang, Wenhu Chen",
+    "links": "<em>TMLR 2026</em> [<a href=\"https://arxiv.org/abs/2509.01055\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/verl-tool/\">Website</a>]\r\n<font color=\"red\">Best Paper Award on SPOT@ICLR26</font>",
+    "category": "last-author",
+    "status": "accepted"
   },
   {
     "title": "SWE-QA-Pro: A Representative Benchmark and Scalable Training Recipe for Repository-Level Code Understanding",
