@@ -1,5 +1,19 @@
 [
   {
+    "title": "Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation",
+    "authors": "Zhiheng Liu, Weiming Ren, Xiaoke Huang, Shoufa Chen, Tianhong Li, Mengzhao Chen, Yatai Ji, Sen He, Jonas Schult, Belinda Zeng, Tao Xiang, Wenhu Chen, Ping Luo, Luke Zettlemoyer, Yuren Cong",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2604.24763\">pdf</a>][<a href=\"https://tuna-ai.org/tuna-2/\">website</a>]",
+    "category": "collaboration",
+    "status": "preprint"
+  },
+  {
+    "title": "ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning",
+    "authors": "Yiming Zhang, Jiacheng Chen, Jiaqi Tan, Yongsen Mao, Wenhu Chen, Angel X. Chang",
+    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2604.24300\">pdf</a>][<a href=\"https://3dlg-hcvc.github.io/revsi/\">website</a>]",
+    "category": "collaboration",
+    "status": "preprint"
+  },
+  {
     "title": "RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time",
     "authors": "Haozhe Wang, Cong Wei, Weiming Ren, Jiaming Liu, Fangzhen Lin, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2604.11626\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/RationalRewards/\">website</a>]",
