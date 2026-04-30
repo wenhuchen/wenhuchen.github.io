@@ -7,13 +7,6 @@
     "status": "preprint"
   },
   {
-    "title": "ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning",
-    "authors": "Yiming Zhang, Jiacheng Chen, Jiaqi Tan, Yongsen Mao, Wenhu Chen, Angel X. Chang",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2604.24300\">pdf</a>][<a href=\"https://3dlg-hcvc.github.io/revsi/\">website</a>]",
-    "category": "collaboration",
-    "status": "preprint"
-  },
-  {
     "title": "RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time",
     "authors": "Haozhe Wang, Cong Wei, Weiming Ren, Jiaming Liu, Fangzhen Lin, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2604.11626\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/RationalRewards/\">website</a>]",
@@ -52,13 +45,6 @@
     "title": "VisPhyWorld: Probing Physical Reasoning via Code-Driven Video Reconstruction",
     "authors": "Jiarong Liang, Max Ku, Ka-Hei Hui, Ping Nie, Wenhu Chen",
     "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2602.13294\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisPhyWorld/\">website</a>]",
-    "category": "last-author",
-    "status": "preprint"
-  },
-  {
-    "title": "Context Forcing: Consistent Autoregressive Video Generation with Long Context",
-    "authors": "Shuo Chen, Cong Wei, Sun Sun, Ping Nie, Kai Zhou, Ge Zhang, Ming-Hsuan Yang, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2602.06028\">pdf</a>][<a href=\"https://chenshuo20.github.io/Context_Forcing/\">website</a>]",
     "category": "last-author",
     "status": "preprint"
   },
@@ -119,6 +105,27 @@
     "status": "preprint"
   },
   {
+    "title": "Bad Seeing or Bad Thinking? Rewarding Perception-Reasoning Synergy for Scalable Vision-Language Reasoning",
+    "authors": "Haozhe Wang, Qixin Xu, Changpeng Wang, Taofeng Xue, Chong Peng, Wenhu Chen, Fangzhen Lin",
+    "links": "<em>Proceedings of ICML 2026, Seoul, South Korea</em> [<a href=\"#\">pdf</a>]",
+    "category": "last-author",
+    "status": "accepted"
+  },
+  {
+    "title": "Context Forcing: Consistent Autoregressive Video Generation with Long Context",
+    "authors": "Shuo Chen, Cong Wei, Sun Sun, Ping Nie, Kai Zhou, Ge Zhang, Ming-Hsuan Yang, Wenhu Chen",
+    "links": "<em>Proceedings of ICML 2026, Seoul, South Korea</em> [<a href=\"https://arxiv.org/abs/2602.06028\">pdf</a>][<a href=\"https://chenshuo20.github.io/Context_Forcing/\">website</a>]",
+    "category": "last-author",
+    "status": "accepted"
+  },
+  {
+    "title": "ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning",
+    "authors": "Yiming Zhang, Jiacheng Chen, Jiaqi Tan, Yongsen Mao, Wenhu Chen, Angel X. Chang",
+    "links": "<em>Proceedings of ICML 2026, Seoul, South Korea</em> [<a href=\"https://arxiv.org/abs/2604.24300\">pdf</a>][<a href=\"https://3dlg-hcvc.github.io/revsi/\">website</a>]",
+    "category": "collaboration",
+    "status": "accepted"
+  },
+  {
     "title": "VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use",
     "authors": "Dongfu Jiang, Yi Lu, Zhuofeng Li, Zhiheng Lyu, Ping Nie, Haozhe Wang, Alex Su, Hui Chen, Kai Zou, Chao Du, Tianyu Pang, Wenhu Chen",
     "links": "<em>TMLR 2026</em> [<a href=\"https://arxiv.org/abs/2509.01055\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/verl-tool/\">Website</a>]<br/>\n<font color=\"red\">Best Paper Award on SPOT@ICLR26</font>",
@@ -156,7 +163,7 @@
   {
     "title": "TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models",
     "authors": "Zhiheng Liu, Weiming Ren, Haozhe Liu, Zijian Zhou, Shoufa Chen, Haonan Qiu, Xiaoke Huang, Zhaochong An, Fanny Yang, Aditya Patel, Viktar Atliha, Tony Ng, Xiao Han, Chuyan Zhu, Chenyang Zhang, Ding Liu, Juan-Manuel Perez-Rua, Sen He, Jürgen Schmidhuber, Wenhu Chen, Ping Luo, Wei Liu, Tao Xiang, Jonas Schult, Yuren Cong",
-    "links": "<em>Proceedings of CVPR 2026, Denver, US</em> [<a href=\"https://arxiv.org/abs/2512.02014\">pdf</a>][<a href=\"https://tuna-ai.org/\">Website</a>]",
+    "links": "<em>Proceedings of CVPR 2026, Denver, US</em> [<a href=\"https://arxiv.org/abs/2512.02014\">pdf</a>][<a href=\"https://tuna-ai.org/\">Website</a>]<br>\r\n<font color=\"red\">CVPR Highlight</font>",
     "category": "collaboration",
     "status": "accepted"
   },
