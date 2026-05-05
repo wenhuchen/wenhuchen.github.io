@@ -11,10 +11,10 @@
 
   <title>Wenhu Chen</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  
+
   <meta name="author" content="Wenhu Chen">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
+
   <link rel="stylesheet" type="text/css" href="style/stylesheet.css">
   <link rel="stylesheet" type="text/css" href="style/orig.css" media="all" />
   <link rel="icon" type="image/png" href="images/waterloo-logo.png">
@@ -22,20 +22,161 @@
   <style>
     @media (max-width: 576px) {
       .nav-justified .nav-item {
-        flex-basis: 100%; /* Make each tab take the full width */
-        text-align: center; /* Optional: Center the text */
+        flex-basis: 100%;
+        text-align: center;
+      }
+      .paper-item {
+        padding: 10px;
+      }
+      .venue-line {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 4px;
+      }
+      .venue-badge {
+        font-size: 10.5px;
+      }
+      .venue-line a {
+        font-size: 11px;
+        padding: 1px 7px;
+        margin-left: 0;
       }
     }
     .papers {
       font-family: 'Lato', Verdana, Helvetica, sans-serif;
-      text-align: left; /* Ensures left alignment */
-      font-size: 14px; /* Set font size for all content inside this div */
+      text-align: left;
+      font-size: 14px;
     }
     .tab-content .tab-pane {
-      padding: 0;      /* Reset any padding */
-      margin: 0;       /* Reset any margin */
-      text-align: left; /* Ensures left alignment */
+      padding: 0;
+      margin: 0;
+      text-align: left;
     }
+
+    .paper-item {
+      padding: 12px 14px;
+      margin-bottom: 8px;
+      border-left: 4px solid #ddd;
+      background: #fafafa;
+      border-radius: 0 6px 6px 0;
+      transition: box-shadow 0.2s, border-color 0.2s;
+      list-style: none;
+    }
+    .paper-item:hover {
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      border-left-color: #888;
+    }
+    .paper-title {
+      font-weight: 700;
+      font-size: 14.5px;
+      color: #222;
+      margin-bottom: 4px;
+    }
+    .paper-authors {
+      color: #555;
+      margin-bottom: 5px;
+      line-height: 1.5;
+    }
+    .paper-authors .me {
+      font-weight: 700;
+      color: #1772d0;
+    }
+    .paper-links {
+      margin-bottom: 4px;
+    }
+    .venue-line a {
+      display: inline-block;
+      padding: 2px 10px;
+      margin-left: 5px;
+      margin-bottom: 3px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 600;
+      text-decoration: none;
+      background: #fff;
+      color: #1772d0;
+      border: 1.5px solid #1772d0;
+      transition: background 0.15s, color 0.15s;
+      vertical-align: middle;
+    }
+    .venue-line a:hover {
+      background: #1772d0;
+      color: #fff;
+    }
+
+    .venue-badge {
+      display: inline-block;
+      padding: 2px 9px;
+      border-radius: 4px;
+      font-size: 11.5px;
+      font-weight: 700;
+      letter-spacing: 0.3px;
+      color: #fff;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+    .venue-line {
+      margin-bottom: 4px;
+    }
+
+    .award-badge {
+      display: inline-block;
+      padding: 2px 9px;
+      border-radius: 4px;
+      font-size: 11.5px;
+      font-weight: 700;
+      background: #fff3e0;
+      color: #e65100;
+      border: 1px solid #ffcc80;
+      margin-top: 2px;
+    }
+    .award-badge::before {
+      content: "\1F3C6 ";
+    }
+
+    .paper-list {
+      padding-left: 0;
+      counter-reset: paper-counter;
+    }
+    .paper-list .paper-item {
+      counter-increment: paper-counter;
+    }
+    .paper-number {
+      display: inline-block;
+      min-width: 26px;
+      height: 22px;
+      line-height: 22px;
+      text-align: center;
+      border-radius: 11px;
+      background: #e0e0e0;
+      color: #555;
+      font-size: 11px;
+      font-weight: 700;
+      margin-right: 8px;
+      vertical-align: middle;
+    }
+
+    /* Conference colors */
+    .venue-neurips   { background: #7b1fa2; }
+    .venue-icml      { background: #c62828; }
+    .venue-iclr      { background: #1565c0; }
+    .venue-acl       { background: #2e7d32; }
+    .venue-emnlp     { background: #00838f; }
+    .venue-naacl     { background: #558b2f; }
+    .venue-cvpr      { background: #e65100; }
+    .venue-iccv      { background: #ef6c00; }
+    .venue-eccv      { background: #f57c00; }
+    .venue-wacv      { background: #ff8f00; }
+    .venue-aaai      { background: #4527a0; }
+    .venue-colm      { background: #6a1b9a; }
+    .venue-tmlr      { background: #00695c; }
+    .venue-kdd       { background: #ad1457; }
+    .venue-eacl      { background: #388e3c; }
+    .venue-aacl      { background: #43a047; }
+    .venue-findings  { background: #78909c; }
+    .venue-workshop  { background: #8d6e63; }
+    .venue-preprint  { background: #757575; }
+    .venue-other     { background: #9e9e9e; }
   </style>
 
   <!-- Latest Bootstrap JavaScript -->
@@ -46,7 +187,7 @@
 </head>
 
 <body class="blue light">
-    <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:10px;">
+    <table style="width:100%;max-width:950px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:10px;">
       <tbody>
         <tr style="padding:0px">
           <td style="padding:0px">
@@ -55,19 +196,17 @@
               <li><a href="index.html">Home</a></li>
               <li class="active"><a href="publication.html">Publication</a></li>
               <li><a href="teaching.html">Teaching</a></li>
-              <li><a href="lab.html">TIGER Lab</a></li>     
-              <li><a href="talks.html">Talks</a></li>                
-              <li><a href="miscellaneous.html">Miscellaneous</a></li>                
+              <li><a href="lab.html">TIGER Lab</a></li>
+              <li><a href="talks.html">Talks</a></li>
+              <li><a href="miscellaneous.html">Miscellaneous</a></li>
             </ul>
           </td>
         </tr>
       </tbody>
     </table>
 
-    <div class="papers" style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:10px;">
+    <div class="papers" style="width:100%;max-width:950px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:10px;">
       <ul class="nav nav-tabs nav-justified flex-wrap" role="tablist">
-        <!--<li class="nav-item"> <a class="nav-link active" data-toggle="tab" href="#all" onclick="loadPapers('all')">All</a></li>-->
-
         <li class="nav-item">
           <a class="nav-link active" data-toggle="tab" href="#accepted" onclick="loadPapers('accepted')">Accepted</a>
         </li>
@@ -80,59 +219,152 @@
         <li class="nav-item">
           <a class="nav-link" data-toggle="tab" href="#first-author" onclick="loadPapers('first-author')">First-Author</a>
         </li>
-
       </ul>
 
       <div class="tab-content">
         <div id="accepted" class="container tab-pane active">
-          <ol id="accepted-list"></ol>
+          <div id="accepted-list" class="paper-list"></div>
         </div>
         <div id="preprint" class="container tab-pane fade">
-          <ol id="preprint-list"></ol>
+          <div id="preprint-list" class="paper-list"></div>
         </div>
         <div id="last-author" class="container tab-pane fade">
-          <ol id="last-author-list"></ol>
+          <div id="last-author-list" class="paper-list"></div>
         </div>
         <div id="first-author" class="container tab-pane fade">
-          <ol id="first-author-list"></ol>
+          <div id="first-author-list" class="paper-list"></div>
         </div>
-
       </div>
     </div>
 
-    <!-- JavaScript to Load CSV and Display Data -->
     <script>
+      function getCategory(authors) {
+        const list = authors.split(',').map(a => a.trim());
+        const clean = n => n.replace(/[\s*()]+/g, '').replace(/Equal/gi, '');
+        if (clean(list[0]) === 'WenhuChen') return 'first-author';
+        if (clean(list[list.length - 1]) === 'WenhuChen') return 'last-author';
+        const starred = list.filter(a => a.includes('*'));
+        if (starred.length > 0 && starred.some(a => clean(a) === 'WenhuChen')) return 'first-author';
+        return 'collaboration';
+      }
+
+      function getVenueClass(venue) {
+        const v = venue.toLowerCase();
+        if (v.includes('findings'))    return 'venue-findings';
+        if (v.includes('workshop'))    return 'venue-workshop';
+        if (v.includes('manuscript'))  return 'venue-preprint';
+        if (v.includes('tech report')) return 'venue-preprint';
+        if (v.includes('neurips'))     return 'venue-neurips';
+        if (v.includes('icml'))        return 'venue-icml';
+        if (v.includes('iclr'))        return 'venue-iclr';
+        if (v.includes('acl 2') || v.match(/acl\s/)) return 'venue-acl';
+        if (v.includes('emnlp'))       return 'venue-emnlp';
+        if (v.includes('naacl'))       return 'venue-naacl';
+        if (v.includes('cvpr'))        return 'venue-cvpr';
+        if (v.includes('iccv'))        return 'venue-iccv';
+        if (v.includes('eccv'))        return 'venue-eccv';
+        if (v.includes('wacv'))        return 'venue-wacv';
+        if (v.includes('aaai'))        return 'venue-aaai';
+        if (v.includes('colm'))        return 'venue-colm';
+        if (v.includes('tmlr'))        return 'venue-tmlr';
+        if (v.includes('kdd'))         return 'venue-kdd';
+        if (v.includes('eacl'))        return 'venue-eacl';
+        if (v.includes('aacl') || v.includes('ijcnlp')) return 'venue-aacl';
+        return 'venue-other';
+      }
+
+      function getVenueLabel(venue) {
+        const v = venue.toLowerCase();
+        if (v.includes('manuscript') || v.includes('tech report')) return 'Preprint';
+        const patterns = [
+          [/findings\s+of\s+(\w+)\s+(\d{4})/, (m) => m[1].toUpperCase() + ' ' + m[2] + ' (Findings)'],
+          [/(\w+)\s+workshop/i, (m) => m[1].toUpperCase() + ' Workshop'],
+          [/(neurips|icml|iclr|emnlp|naacl|cvpr|iccv|eccv|wacv|aaai|colm|kdd|eacl|interspeech|amta)\s*(\d{4})/i,
+            (m) => m[1].toUpperCase() + ' ' + m[2]],
+          [/(acl)\s+(\d{4})/i, (m) => 'ACL ' + m[2]],
+          [/tmlr\s*(\d{4})/i, (m) => 'TMLR ' + m[1]],
+          [/ijcnlp-aacl\s*(\d{4})/i, (m) => 'AACL ' + m[1]],
+        ];
+        for (const [pat, fn] of patterns) {
+          const m = venue.match(pat);
+          if (m) return fn(m);
+        }
+        const yearMatch = venue.match(/\d{4}/);
+        return yearMatch ? venue.replace(/<[^>]+>/g, '').trim() : venue;
+      }
+
+      function getYear(paper) {
+        const venueMatch = paper.venue.match(/(\d{4})/);
+        if (venueMatch) return parseInt(venueMatch[1]);
+        const arxivMatch = (paper.paper_link || '').match(/(\d{2})(\d{2})\.\d+/);
+        if (arxivMatch) return 2000 + parseInt(arxivMatch[1]);
+        return 0;
+      }
+
+      function highlightMe(authors) {
+        return authors.replace(/Wenhu Chen/g, '<span class="me">Wenhu Chen</span>');
+      }
+
       function loadPapers(category) {
         fetch('papers.json')
           .then(response => response.json())
           .then(data => {
-            // Clear the current list
-            document.getElementById(category + "-list").innerHTML = "";
+            data.forEach((p, i) => p._idx = i);
 
-            // Filter papers by the selected category
+            const container = document.getElementById(category + "-list");
+            container.innerHTML = "";
+
             let filteredPapers;
             if (category === 'all') {
               filteredPapers = data;
             } else if (category === 'accepted' || category === 'preprint') {
               filteredPapers = data.filter(paper => paper.status.includes(category));
             } else {
-              filteredPapers = data.filter(paper => paper.category.includes(category));
+              filteredPapers = data.filter(paper => getCategory(paper.authors) === category);
             }
 
-            // console.log(filteredPapers)
-            // Populate the list with filtered papers
-            filteredPapers.forEach(paper => {
-              const listItem = document.createElement("li");
-              listItem.innerHTML = `<strong>${paper.title}</strong><br>
-                                    ${paper.authors}<br>
-                                    ${paper.links}`;
-              document.getElementById(category + "-list").appendChild(listItem);
+            filteredPapers.sort((a, b) => {
+              const yearDiff = getYear(b) - getYear(a);
+              return yearDiff !== 0 ? yearDiff : a._idx - b._idx;
+            });
+
+            filteredPapers.forEach((paper, idx) => {
+              const div = document.createElement("div");
+              div.className = "paper-item";
+
+              const venueClass = getVenueClass(paper.venue);
+              const venueLabel = getVenueLabel(paper.venue);
+
+              let linksHtml = '';
+              if (paper.paper_link) linksHtml += `<a href="${paper.paper_link}">pdf</a>`;
+              if (paper.website) linksHtml += `<a href="${paper.website}">website</a>`;
+              if (paper.extra_links) {
+                for (const [label, url] of Object.entries(paper.extra_links)) {
+                  linksHtml += `<a href="${url}">${label}</a>`;
+                }
+              }
+
+              const awardHtml = paper.award
+                ? `<div><span class="award-badge">${paper.award}</span></div>`
+                : '';
+
+              div.innerHTML = `
+                <div class="paper-title">
+                  <span class="paper-number">${idx + 1}</span>${paper.title}
+                </div>
+                <div class="paper-authors">${highlightMe(paper.authors)}</div>
+                <div class="venue-line">
+                  <span class="venue-badge ${venueClass}">${venueLabel}</span>${linksHtml}
+                </div>
+                ${awardHtml}
+              `;
+
+              container.appendChild(div);
             });
           })
           .catch(error => console.error('Error loading papers:', error));
       }
 
-      // Load accepted papers by default on page load
       document.addEventListener("DOMContentLoaded", function() {
         loadPapers('accepted');
       });

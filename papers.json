@@ -1,1059 +1,1397 @@
 [
   {
+    "title": "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling",
+    "authors": "Keming Wu, Zuhao Yang, Kaichen Zhang, Shizun Wang, Haowei Zhu, Sicong Leng, Zhongyu Yang, Qijie Wang, Sudong Wang, Ziting Wang, Zili Wang, Hui Zhang, Haonan Wang, Hang Zhou, Yifan Pu, Xingxuan Li, Fangneng Zhan, Bo Li, Lidong Bing, Yuxin Song, Ziwei Liu, Wenhu Chen, Jingdong Wang, Xinchao Wang, Xiaojuan Qi, Shijian Lu, Bin Wang",
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2604.28185",
+    "website": "https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation"
+  },
+  {
     "title": "Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation",
     "authors": "Zhiheng Liu, Weiming Ren, Xiaoke Huang, Shoufa Chen, Tianhong Li, Mengzhao Chen, Yatai Ji, Sen He, Jonas Schult, Belinda Zeng, Tao Xiang, Wenhu Chen, Ping Luo, Luke Zettlemoyer, Yuren Cong",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2604.24763\">pdf</a>][<a href=\"https://tuna-ai.org/tuna-2/\">website</a>]",
-    "category": "collaboration",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2604.24763",
+    "website": "https://tuna-ai.org/tuna-2/"
   },
   {
     "title": "RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time",
     "authors": "Haozhe Wang, Cong Wei, Weiming Ren, Jiaming Liu, Fangzhen Lin, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2604.11626\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/RationalRewards/\">website</a>]",
-    "category": "last-author",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2604.11626",
+    "website": "https://tiger-ai-lab.github.io/RationalRewards/"
   },
   {
     "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
     "authors": "Yuxuan Zhang, Yubo Wang, Yipeng Zhu, Penghui Du, Junwen Miao, Xuan Lu, Wendong Xu, Yunzhuo Hao, Songcheng Cai, Xiaochen Wang, Huaisong Zhang, Xian Wu, Yi Lu, Minyi Lei, Kai Zou, Huifeng Yin, Ping Nie, Liang Chen, Dongfu Jiang, Wenhu Chen, Kelsey R. Allen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2604.08523\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/ClawBench\">website</a>]",
-    "category": "collaboration",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2604.08523",
+    "website": "https://github.com/TIGER-AI-Lab/ClawBench"
   },
   {
     "title": "SWE-Next: Scalable Real-World Software Engineering Tasks for Agents",
     "authors": "Jiarong Liang, Zhiheng Lyu, Zijie Liu, Xiangchao Chen, Ping Nie, Kai Zou, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2603.20691\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/SWE-Next/\">website</a>]",
-    "category": "last-author",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2603.20691",
+    "website": "https://tiger-ai-lab.github.io/SWE-Next/"
   },
   {
     "title": "EvolveCoder: Evolving Test Cases via Adversarial Verification for Code Reinforcement Learning",
     "authors": "Chi Ruan, Dongfu Jiang, Huaye Zeng, Ping Nie, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2603.12698\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/EvolveCoder\">code</a>]",
-    "category": "last-author",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2603.12698",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/TIGER-AI-Lab/EvolveCoder"
+    }
   },
   {
     "title": "OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis",
     "authors": "Zhuofeng Li, Dongfu Jiang, Xueguang Ma, Haoxiang Zhang, Ping Nie, Yuyu Zhang, Kai Zou, Jianwen Xie, Yu Zhang, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2603.20278\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/OpenResearcher\">website</a>]",
-    "category": "last-author",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2603.20278",
+    "website": "https://github.com/TIGER-AI-Lab/OpenResearcher"
   },
   {
     "title": "VisPhyWorld: Probing Physical Reasoning via Code-Driven Video Reconstruction",
     "authors": "Jiarong Liang, Max Ku, Ka-Hei Hui, Ping Nie, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2602.13294\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisPhyWorld/\">website</a>]",
-    "category": "last-author",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2602.13294",
+    "website": "https://tiger-ai-lab.github.io/VisPhyWorld/"
   },
   {
     "title": "CogDoc: Towards Unified thinking in Documents",
     "authors": "Qixin Xu, Haozhe Wang, Che Liu, Fangzhen Lin, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2512.12658\">pdf</a>]",
-    "category": "last-author",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2512.12658",
+    "website": ""
   },
   {
     "title": "RTGen: Real-Time Generative Detection Transformer",
     "authors": "Chi Ruan, Jiying Zhao, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2502.20622\">pdf</a>]",
-    "category": "last-author",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2502.20622",
+    "website": ""
   },
   {
     "title": "VideoScore2: Think before You Score in Generative Video Evaluation",
     "authors": "Xuan He, Dongfu Jiang, Ping Nie, Minghao Liu, Zhengxuan Jiang, Mingyi Su, Wentao Ma, Junru Lin, Chun Ye, Yi Lu, Keming Wu, Benjamin Schneider, Quy Duc Do, Zhuofeng Li, Yiming Jia, Yuxuan Zhang, Guo Cheng, Haozhe Wang, Wangchunshu Zhou, Qunshu Lin, Yuanxing Zhang, Ge Zhang, Wenhao Huang, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.22799\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VideoScore2/\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2509.22799",
+    "website": "https://tiger-ai-lab.github.io/VideoScore2/"
   },
   {
     "title": "Language Models Can Learn from Verbal Feedback Without Scalar Rewards",
     "authors": "Renjie Luo, Zichen Liu, Xiangyan Liu, Chao Du, Min Lin, Wenhu Chen, Wei Lu, Tianyu Pang",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.22638\">pdf</a>][<a href=\"https://github.com/sail-sg/feedback-conditional-policy\">Code</a>]",
-    "category": "collaboration",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2509.22638",
+    "website": "",
+    "extra_links": {
+      "Code": "https://github.com/sail-sg/feedback-conditional-policy"
+    }
   },
   {
     "title": "WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents",
     "authors": "Junteng Liu, Yunji Li, Chi Zhang, Jingyang Li, Aili Chen, Ke Ji, Weiyu Cheng, Zijia Wu, Chengyu Du, Qidi Xu, Jiayuan Song, Zhengmao Zhu, Wenhu Chen, Pengyu Zhao, Junxian He",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2509.06501\">pdf</a>][<a href=\"https://github.com/hkust-nlp/WebExplorer\">Code</a>]",
-    "category": "collaboration",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2509.06501",
+    "website": "",
+    "extra_links": {
+      "Code": "https://github.com/hkust-nlp/WebExplorer"
+    }
   },
   {
     "title": "PhyX: Does Your Model Have the \"Wits\" for Physical Reasoning?",
     "authors": "Hui Shen, Taiqiang Wu, Qi Han, Yunta Hsieh, Jizhou Wang, Yuyue Zhang, Yuxin Cheng, Zijian Hao, Yuansheng Ni, Xin Wang, Zhongwei Wan, Kai Zhang, Wendong Xu, Jing Xiong, Ping Luo, Wenhu Chen, Chaofan Tao, Zhuoqing Mao, Ngai Wong",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2505.15929\">pdf</a>]",
-    "category": "collaboration",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2505.15929",
+    "website": ""
   },
   {
     "title": "VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation",
     "authors": "Wentao Ma, Weiming Ren, Yiming Jia, Zhuofeng Li, Ping Nie, Ge Zhang, Wenhu Chen",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2505.14640\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VideoEval-Pro\">Website</a>]",
-    "category": "last-author",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2505.14640",
+    "website": "https://tiger-ai-lab.github.io/VideoEval-Pro"
   },
   {
     "title": "Towards Trustworthy GUI Agents: A Survey",
     "authors": "Yucheng Shi, Wenhao Yu, Wenlin Yao, Wenhu Chen, Ninghao Liu",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2503.23434\">pdf</a>]",
-    "category": "collaboration",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2503.23434",
+    "website": ""
   },
   {
     "title": "Bad Seeing or Bad Thinking? Rewarding Perception-Reasoning Synergy for Scalable Vision-Language Reasoning",
     "authors": "Haozhe Wang, Qixin Xu, Changpeng Wang, Taofeng Xue, Chong Peng, Wenhu Chen, Fangzhen Lin",
-    "links": "<em>Proceedings of ICML 2026, Seoul, South Korea</em> [<a href=\"#\">pdf</a>]<br/>\r\n<font color=\"red\">Spotlight (Top 10% of accepted papers)</font>",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Spotlight (Top 10% of accepted papers)",
+    "venue": "Proceedings of ICML 2026, Seoul, South Korea",
+    "paper_link": "#",
+    "website": ""
   },
   {
     "title": "Context Forcing: Consistent Autoregressive Video Generation with Long Context",
     "authors": "Shuo Chen, Cong Wei, Sun Sun, Ping Nie, Kai Zhou, Ge Zhang, Ming-Hsuan Yang, Wenhu Chen",
-    "links": "<em>Proceedings of ICML 2026, Seoul, South Korea</em> [<a href=\"https://arxiv.org/abs/2602.06028\">pdf</a>][<a href=\"https://chenshuo20.github.io/Context_Forcing/\">website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICML 2026, Seoul, South Korea",
+    "paper_link": "https://arxiv.org/abs/2602.06028",
+    "website": "https://chenshuo20.github.io/Context_Forcing/"
   },
   {
     "title": "ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning",
     "authors": "Yiming Zhang, Jiacheng Chen, Jiaqi Tan, Yongsen Mao, Wenhu Chen, Angel X. Chang",
-    "links": "<em>Proceedings of ICML 2026, Seoul, South Korea</em> [<a href=\"https://arxiv.org/abs/2604.24300\">pdf</a>][<a href=\"https://3dlg-hcvc.github.io/revsi/\">website</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICML 2026, Seoul, South Korea",
+    "paper_link": "https://arxiv.org/abs/2604.24300",
+    "website": "https://3dlg-hcvc.github.io/revsi/"
   },
   {
     "title": "VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use",
     "authors": "Dongfu Jiang, Yi Lu, Zhuofeng Li, Zhiheng Lyu, Ping Nie, Haozhe Wang, Alex Su, Hui Chen, Kai Zou, Chao Du, Tianyu Pang, Wenhu Chen",
-    "links": "<em>TMLR 2026</em> [<a href=\"https://arxiv.org/abs/2509.01055\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/verl-tool/\">Website</a>]<br/>\n<font color=\"red\">Best Paper Award on SPOT@ICLR26</font>",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Best Paper Award on SPOT@ICLR26",
+    "venue": "TMLR 2026",
+    "paper_link": "https://arxiv.org/abs/2509.01055",
+    "website": "https://github.com/TIGER-AI-Lab/verl-tool/"
   },
   {
     "title": "SWE-QA-Pro: A Representative Benchmark and Scalable Training Recipe for Repository-Level Code Understanding",
     "authors": "Songcheng Cai, Zhiheng Lyu, Yuansheng Ni, Xiangchao Chen, Baichuan Zhou, Shenzhe Zhu, Yi Lu, Haozhe Wang, Chi Ruan, Benjamin Schneider, Weixu Zhang, Xiang Li, Andy Zheng, Yuyu Zhang, Ping Nie, Wenhu Chen",
-    "links": "<em>Findings of ACL 2026, San Diego, California</em> [<a href=\"https://arxiv.org/abs/2603.16124\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/SWE-QA-Pro\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of ACL 2026, San Diego, California",
+    "paper_link": "https://arxiv.org/abs/2603.16124",
+    "website": "https://github.com/TIGER-AI-Lab/SWE-QA-Pro"
   },
   {
     "title": "BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent",
     "authors": "Zijian Chen, Xueguang Ma, Shengyao Zhuang, Ping Nie, Kai Zou, Andrew Liu, Joshua Green, Kshama Patel, Ruoxi Meng, Mingyi Su, Sahel Sharifymoghaddam, Yanxi Li, Haoran Hong, Xinyu Shi, Xuye Liu, Nandan Thakur, Crystina Zhang, Luyu Gao, Wenhu Chen, Jimmy Lin",
-    "links": "<em>ACL 2026, San Diego, California</em> [<a href=\"https://arxiv.org/abs/2508.06600\">pdf</a>][<a href=\"https://texttron.github.io/BrowseComp-Plus/\">Website</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "ACL 2026, San Diego, California",
+    "paper_link": "https://arxiv.org/abs/2508.06600",
+    "website": "https://texttron.github.io/BrowseComp-Plus/"
   },
   {
     "title": "Quantifying the Gap between Understanding and Generation within Unified Multimodal Models",
     "authors": "Chenlong Wang, Yuhang Chen, Zhihan Hu, Dongping Chen, Wenhu Chen, Sarah Wiegreffe, Tianyi Zhou",
-    "links": "<em>Findings of CVPR 2026, Denver, US</em> [<a href=\"https://arxiv.org/abs/2602.02140\">pdf</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of CVPR 2026, Denver, US",
+    "paper_link": "https://arxiv.org/abs/2602.02140",
+    "website": ""
   },
   {
     "title": "Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following",
     "authors": "Tianyi Xiong, Yi Ge, Ming Li, Zuolong Zhang, Pranav Kulkarni, Kaishen Wang, Qi He, Zeying Zhu, Chenxi Liu, Ruibo Chen, Tong Zheng, Yanshuo Chen, Xiyao Wang, Renrui Zhang, Wenhu Chen, Heng Huang",
-    "links": "<em>Proceedings of CVPR 2026, Denver, US</em> [<a href=\"https://arxiv.org/abs/2511.21662\">pdf</a>][<a href=\"https://multi-crit.github.io/\">Website</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of CVPR 2026, Denver, US",
+    "paper_link": "https://arxiv.org/abs/2511.21662",
+    "website": "https://multi-crit.github.io/"
   },
   {
     "title": "TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models",
     "authors": "Zhiheng Liu, Weiming Ren, Haozhe Liu, Zijian Zhou, Shoufa Chen, Haonan Qiu, Xiaoke Huang, Zhaochong An, Fanny Yang, Aditya Patel, Viktar Atliha, Tony Ng, Xiao Han, Chuyan Zhu, Chenyang Zhang, Ding Liu, Juan-Manuel Perez-Rua, Sen He, Jürgen Schmidhuber, Wenhu Chen, Ping Luo, Wei Liu, Tao Xiang, Jonas Schult, Yuren Cong",
-    "links": "<em>Proceedings of CVPR 2026, Denver, US</em> [<a href=\"https://arxiv.org/abs/2512.02014\">pdf</a>][<a href=\"https://tuna-ai.org/\">Website</a>]<br>\r\n<font color=\"red\">Highlights (Top 10% of accepted papers)</font>",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Highlights (Top 10% of accepted papers)",
+    "venue": "Proceedings of CVPR 2026, Denver, US",
+    "paper_link": "https://arxiv.org/abs/2512.02014",
+    "website": "https://tuna-ai.org/"
   },
   {
     "title": "ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks",
     "authors": "Samin_Mahdizadeh_Sani1, Max Ku, Nima Jamali, Matina Mahdizadeh Sani, Paria Khoshtab, Wei-Chieh Sun, Parnian Fazel, Zhi Rui Tam, Thomas Chong, Edisy Kin Wai Chan, Donald Wai Tong Tsang, Chiao-Wei Hsu, Lam Ting Wai, Ho Yin Sam Ng, Chiafeng Chu, Chak-Wing Mak, Keming Wu, Hiu Tung Wong, Yik Chun Ho, Chi Ruan, Zhuofeng Li, I-Sheng Fang, Shih-Ying Yeh, Ho Kei Cheng, Ping Nie, Wenhu Chen",
-    "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2603.27862\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/ImagenWorld/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2026, Rio de Janeiro, Brazil",
+    "paper_link": "https://arxiv.org/abs/2603.27862",
+    "website": "https://tiger-ai-lab.github.io/ImagenWorld/"
   },
   {
     "title": "Critique-Coder: Enhancing Coder Models by Critique Reinforcement Learning",
     "authors": "Chi Ruan, Dongfu Jiang, Yubo Wang, Wenhu Chen",
-    "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2509.22824\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Critique-Coder\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2026, Rio de Janeiro, Brazil",
+    "paper_link": "https://arxiv.org/abs/2509.22824",
+    "website": "https://tiger-ai-lab.github.io/Critique-Coder"
   },
   {
     "title": "VisCoder2: Building Multi-Language Visualization Coding Agents",
     "authors": "Yuansheng Ni, Songcheng Cai, Xiangchao Chen, Jiarong Liang, Zhiheng Lyu, Jiaqi Deng, Kai Zou, Ping Nie, Fei Yuan, Xiang Yue, Wenhu Chen",
-    "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2510.23642\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisCoder2/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2026, Rio de Janeiro, Brazil",
+    "paper_link": "https://arxiv.org/abs/2510.23642",
+    "website": "https://tiger-ai-lab.github.io/VisCoder2/"
   },
   {
     "title": "UniVideo: Unified Understanding, Generation, and Editing for Videos",
     "authors": "Cong Wei, Quande Liu, Zixuan Ye, Qiulin Wang, Xintao Wang, Pengfei Wan, Kun Gai, Wenhu Chen",
-    "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2510.08377\">pdf</a>][<a href=\"https://congwei1230.github.io/UniVideo/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2026, Rio de Janeiro, Brazil",
+    "paper_link": "https://arxiv.org/abs/2510.08377",
+    "website": "https://congwei1230.github.io/UniVideo/"
   },
   {
     "title": "EditReward: A Human-Aligned Reward Model for Instruction-Guided Image Editing",
     "authors": "Keming Wu, Sicong Jiang, Max Ku, Ping Nie, Minghao Liu, Wenhu Chen",
-    "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2509.26346\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/EditReward/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2026, Rio de Janeiro, Brazil",
+    "paper_link": "https://arxiv.org/abs/2509.26346",
+    "website": "https://tiger-ai-lab.github.io/EditReward/"
   },
   {
     "title": "Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning",
     "authors": "Haozhe Wang, Qixin Xu, Che Liu, Junhong Wu, Fangzhen Lin, Wenhu Chen",
-    "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2509.03646\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Hierarchical-Reasoner/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2026, Rio de Janeiro, Brazil",
+    "paper_link": "https://arxiv.org/abs/2509.03646",
+    "website": "https://tiger-ai-lab.github.io/Hierarchical-Reasoner/"
   },
   {
     "title": "NeuralOS: Towards Simulating Operating Systems via Neural Generative Models",
     "authors": "Luke Rivard, Sun Sun, Hongyu Guo, Wenhu Chen, Yuntian Deng",
-    "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2507.08800\">pdf</a>][<a href=\"https://neural-os.com/\">Demo</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2026, Rio de Janeiro, Brazil",
+    "paper_link": "https://arxiv.org/abs/2507.08800",
+    "website": "",
+    "extra_links": {
+      "Demo": "https://neural-os.com/"
+    }
   },
   {
     "title": "YuE: Scaling Open Foundation Models for Long-Form Music Generation",
     "authors": "Ruibin Yuan, Hanfeng Lin, Shuyue Guo, Ge Zhang, Jiahao Pan, Yongyi Zang, Haohe Liu, Yiming Liang, Wenye Ma, Xingjian Du, Xinrun Du, Zhen Ye, Tianyu Zheng, Yinghao Ma, Minghao Liu, Zeyue Tian, Ziya Zhou, Liumeng Xue, Xingwei Qu, Yizhi Li, Shangda Wu, Tianhao Shen, Ziyang Ma, Jun Zhan, Chunhui Wang, Yatian Wang, Xiaowei Chi, Xinyue Zhang, Zhenzhu Yang, Xiangzhou Wang, Shansong Liu, Lingrui Mei, Peng Li, Junjie Wang, Jianwei Yu, Guojian Pang, Xu Li, Zihao Wang, Xiaohuan Zhou, Lijun Yu, Emmanouil Benetos, Yong Chen, Chenghua Lin, Xie Chen, Gus Xia, Zhaoxiang Zhang, Chao Zhang, Wenhu Chen, Xinyu Zhou, Xipeng Qiu, Roger Dannenberg, Jiaheng Liu, Jian Yang, Wenhao Huang, Wei Xue, Xu Tan, Yike Guo",
-    "links": "<em>Proceedings of ICLR 2026, Rio de Janeiro, Brazil</em> [<a href=\"https://arxiv.org/abs/2503.08638\">pdf</a>][<a href=\"https://map-yue.github.io/\">Website</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2026, Rio de Janeiro, Brazil",
+    "paper_link": "https://arxiv.org/abs/2503.08638",
+    "website": "https://map-yue.github.io/"
   },
   {
     "title": "Foundation Models for Music: A Survey",
-    "authors": "Yinghao Ma, Anders \u00d8land, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elio Quinton, Elona Shatri, Fabio Morreale, Ge Zhang, Gy\u00f6rgy Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wehhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang",
-    "links": "<em>Manuscript</em> [<a href=\"https://arxiv.org/abs/2408.14340\">pdf</a>][<a href=\"https://github.com/nicolaus625/FM4Music\">website</a>]",
-    "category": "collaboration",
-    "status": "preprint"
+    "authors": "Yinghao Ma, Anders Øland, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elio Quinton, Elona Shatri, Fabio Morreale, Ge Zhang, György Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wehhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang",
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2408.14340",
+    "website": "https://github.com/nicolaus625/FM4Music"
   },
   {
     "title": "Explanations from Large Language Models Make Small Reasoners Better",
     "authors": "Shiyang Li, Jianshu Chen, Yelong Shen, Zhiyu Chen, Xinlu Zhang, Zekun Li, Hong Wang, Jing Qian, Baolin Peng, Yi Mao, Wenhu Chen, Xifeng Yan",
-    "links": "<em>AAAI Workshop 2024, Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2210.06726\">pdf</a>]",
-    "category": "collaboration",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "AAAI Workshop 2024, Vancouver, Canada",
+    "paper_link": "https://arxiv.org/abs/2210.06726",
+    "website": ""
   },
   {
     "title": "CodeEditorBench: Evaluating Code Editing Capability of Large Language Models",
     "authors": "Jiawei Guo, Ziming Li, Xueling Liu, Kaijing Ma, Tianyu Zheng, Zhouliang Yu, Ding Pan, Yizhi LI, Ruibo Liu, Yue Wang, Shuyue Guo, Xingwei Qu, Xiang Yue, Ge Zhang, Wenhu Chen, Jie Fu",
-    "links": "<em>ICLR Workshop 2025, Singapore</em> [<a href=\"https://arxiv.org/abs/2404.03543\">pdf</a>][<a href=\"https://codeeditorbench.github.io/\">Website</a>]",
-    "category": "collaboration",
-    "status": "preprint"
+    "status": "preprint",
+    "venue": "ICLR Workshop 2025, Singapore",
+    "paper_link": "https://arxiv.org/abs/2404.03543",
+    "website": "https://codeeditorbench.github.io/"
   },
   {
     "title": "VLM2Vec-V2: Advancing Multimodal Embedding for Videos, Images, and Visual Documents",
     "authors": "Rui Meng, Ziyan Jiang, Ye Liu, Mingyi Su, Xinyi Yang, Yuepeng Fu, Can Qin, Zeyuan Chen, Ran Xu, Caiming Xiong, Yingbo Zhou, Wenhu Chen, Semih Yavuz",
-    "links": "<em>TMLR 2026</em> [<a href=\"https://arxiv.org/abs/2507.04590\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VLM2Vec/\">Website</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "TMLR 2026",
+    "paper_link": "https://arxiv.org/abs/2507.04590",
+    "website": "https://tiger-ai-lab.github.io/VLM2Vec/"
   },
   {
     "title": "BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions",
     "authors": "Tao Yu, Zhengbo Zhang, Zhiheng Lyu, Junhao Gong, Hongzhu Yi, Xinming Wang, Yuxuan Zhou, Jiabing Yang, Ping Nie, Yan Huang, Wenhu Chen",
-    "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2510.10666\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/BrowserAgent/\">Website</a>]<br>\r\n<font color=\"red\">J2C Certification (Present at ICML/NeuripS/ICLR)</font>",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "J2C Certification (Present at ICML/NeuripS/ICLR)",
+    "venue": "TMLR 2025",
+    "paper_link": "https://arxiv.org/abs/2510.10666",
+    "website": "https://tiger-ai-lab.github.io/BrowserAgent/"
   },
   {
     "title": "QuickVideo: Real-Time Long Video Understanding with System Algorithm Co-Design",
     "authors": "Benjamin Schneider, Dongfu Jiang, Chao Du, Tianyu Pang, Wenhu Chen",
-    "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2505.16175\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/QuickVideo\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "TMLR 2025",
+    "paper_link": "https://arxiv.org/abs/2505.16175",
+    "website": "https://github.com/TIGER-AI-Lab/QuickVideo"
   },
   {
     "title": "StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs",
     "authors": "Jialin Yang, Dongfu Jiang, Lipeng He, Sherman Siu, Yuxuan Zhang, Disen Liao, Zhuofeng Li, Huaye Zeng, Yiming Jia, Haozhe Wang, Benjamin Schneider, Chi Ruan, Wentao Ma, Zhiheng Lyu, Yifei Wang, Yi Lu, Quy Duc Do, Ziyan Jiang, Ping Nie, Wenhu Chen",
-    "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2505.20139\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/StructEval\">Website</a>]<br>\r\n<font color=\"red\">J2C Certification (Present at ICML/NeuripS/ICLR)</font>",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "J2C Certification (Present at ICML/NeuripS/ICLR)",
+    "venue": "TMLR 2025",
+    "paper_link": "https://arxiv.org/abs/2505.20139",
+    "website": "https://tiger-ai-lab.github.io/StructEval"
   },
   {
     "title": "Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning",
     "authors": "Alex Su, Haozhe Wang, Weimin Ren, Fangzhen Lin, Wenhu Chen",
-    "links": "<em>Proceedings of NeurIPS 2025, San Diego, US</em> [<a href=\"https://arxiv.org/abs/2505.15966\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Pixel-Reasoner\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
-  },  
+    "status": "accepted",
+    "venue": "Proceedings of NeurIPS 2025, San Diego, US",
+    "paper_link": "https://arxiv.org/abs/2505.15966",
+    "website": "https://tiger-ai-lab.github.io/Pixel-Reasoner"
+  },
   {
     "title": "General-Reasoner: Advancing LLM Reasoning Across All Domains",
     "authors": "Xueguang Ma, Qian Liu, Dongfu Jiang, Ge Zhang, Zejun Ma, Wenhu Chen",
-    "links": "<em>Proceedings of NeurIPS 2025, San Diego, US</em> [<a href=\"https://arxiv.org/abs/2505.14652\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/General-Reasoner/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of NeurIPS 2025, San Diego, US",
+    "paper_link": "https://arxiv.org/abs/2505.14652",
+    "website": "https://tiger-ai-lab.github.io/General-Reasoner/"
   },
   {
     "title": "Breaking the Batch Barrier (B3) of Contrastive Learning via Smart Batch Mining",
     "authors": "Raghuveer Thirukovalluru, Rui Meng, Ye Liu, Karthikeyan K, Mingyi Su, Ping Nie, Semih Yavuz, Yingbo Zhou, Wenhu Chen, Bhuwan Dhingra",
-    "links": "<em>Proceedings of NeurIPS 2025, San Diego, US</em> [<a href=\"https://arxiv.org/abs/2505.11293\">pdf</a>][<a href=\"https://github.com/raghavlite/B3\">code</a>]<br/>\r\n<font color=\"red\">Spotlight (Top 10% of accepted papers)</font>",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Spotlight (Top 10% of accepted papers)",
+    "venue": "Proceedings of NeurIPS 2025, San Diego, US",
+    "paper_link": "https://arxiv.org/abs/2505.11293",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/raghavlite/B3"
+    }
   },
   {
     "title": "VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning",
     "authors": "Haozhe Wang, Chao Qu, Zuming Huang, Wei Chu, Fangzhen Lin, Wenhu Chen",
-    "links": "<em>Proceedings of NeurIPS 2025, San Diego, US</em> [<a href=\"https://arxiv.org/abs/2504.08837\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VL-Rethinker\">Website</a>]<br/>\r\n<font color=\"red\">Spotlight (Top 10% of accepted papers)</font>",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Spotlight (Top 10% of accepted papers)",
+    "venue": "Proceedings of NeurIPS 2025, San Diego, US",
+    "paper_link": "https://arxiv.org/abs/2504.08837",
+    "website": "https://tiger-ai-lab.github.io/VL-Rethinker"
   },
   {
     "title": "MoCha: Towards Movie-Grade Talking Character Synthesis",
     "authors": "Cong Wei, Bo Sun, Haoyu Ma, Ji Hou, Felix Juefei-Xu, Zecheng He, Xiaoliang Dai, Luxin Zhang, Kunpeng Li, Tingbo Hou, Animesh Sinha, Peter Vajda, Wenhu Chen",
-    "links": "<em>Proceedings of NeurIPS 2025, San Diego, US</em> [<a href=\"https://arxiv.org/abs/2503.23307\">pdf</a>][<a href=\"https://congwei1230.github.io/MoCha/\">Demo</a>]<br/>\r\n<font color=\"red\">Spotlight (Top 10% of accepted papers)</font>",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Spotlight (Top 10% of accepted papers)",
+    "venue": "Proceedings of NeurIPS 2025, San Diego, US",
+    "paper_link": "https://arxiv.org/abs/2503.23307",
+    "website": "",
+    "extra_links": {
+      "Demo": "https://congwei1230.github.io/MoCha/"
+    }
   },
   {
     "title": "PixelWorld: Towards Perceiving Everything as Pixels",
     "authors": "Zhiheng Lyu, Xueguang Ma, Wenhu Chen",
-    "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2501.19339\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/PixelWorld/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "TMLR 2025",
+    "paper_link": "https://arxiv.org/abs/2501.19339",
+    "website": "https://tiger-ai-lab.github.io/PixelWorld/"
   },
   {
     "title": "VisCoder: Fine-Tuning LLMs for Executable Python Visualization Code Generation",
     "authors": "Yuansheng Ni, Ping Nie, Kai Zou, Xiang Yue, Wenhu Chen",
-    "links": "<em>Findings of EMNLP 2025, Suzhou, China</em> [<a href=\"https://arxiv.org/abs/2506.03930\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VLM2Vec/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of EMNLP 2025, Suzhou, China",
+    "paper_link": "https://arxiv.org/abs/2506.03930",
+    "website": "https://tiger-ai-lab.github.io/VLM2Vec/"
   },
   {
     "title": "VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search",
     "authors": "Yiming Jia, Jiachen Li, Xiang Yue, Bo Li, Ping Nie, Kai Zou, Wenhu Chen",
-    "links": "<em>Proceedings of EMNLP 2025, Suzhou, China</em> [<a href=\"https://arxiv.org/abs/2503.10582\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VisualWebInstruct/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of EMNLP 2025, Suzhou, China",
+    "paper_link": "https://arxiv.org/abs/2503.10582",
+    "website": "https://tiger-ai-lab.github.io/VisualWebInstruct/"
   },
   {
     "title": "Unleashing the Reasoning Potential of Pre-trained LLMs by Critique Fine-Tuning on One Problem",
     "authors": "Yubo Wang, Ping Nie, Kai Zou, Lijun Wu, Wenhu Chen",
-    "links": "<em>Proceedings of EMNLP 2025, Suzhou, China</em> [<a href=\"https://arxiv.org/abs/2506.03295\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/One-Shot-CFT\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of EMNLP 2025, Suzhou, China",
+    "paper_link": "https://arxiv.org/abs/2506.03295",
+    "website": "https://tiger-ai-lab.github.io/One-Shot-CFT"
   },
   {
     "title": "Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities",
     "authors": "Gheorghe Comanici, Eric Bieber, Mike Schaekermann, Ice Pasupat, Noveen Sachdeva, Inderjit Dhillon, Marcel Blistein, Ori Ram, Dan Zhang, Evan Rosen, Luke Marris, Sam Petulla, Colin Gaffney, Asaf Aharoni, Nathan Lintz, Tiago Cardal Pais, Henrik Jacobsson, Idan Szpektor, Nan-Jiang Jiang, Krishna Haridasan, Ahmed Omran, Nikunj Saunshi, Dara Bahri, ..., Wenhu Chen, ....",
-    "links": "<em>Tech Report, 2025</em> [<a href=\"https://arxiv.org/abs/2507.06261\">pdf</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Tech Report, 2025",
+    "paper_link": "https://arxiv.org/abs/2507.06261",
+    "website": ""
   },
   {
     "title": "ABC: Achieving Better Control of Multimodal Embeddings using VLMs",
     "authors": "Benjamin Schneider, Florian Kerschbaum, Wenhu Chen",
-    "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2503.00329\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/ABC/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "TMLR 2025",
+    "paper_link": "https://arxiv.org/abs/2503.00329",
+    "website": "https://tiger-ai-lab.github.io/ABC/"
   },
   {
     "title": "Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate",
     "authors": "Yubo Wang, Xiang Yue, Wenhu Chen",
-    "links": "<em>Proceedings of COLM 2025, Montreal, Canada</em> [<a href=\"https://arxiv.org/abs/2501.17703\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/CritiqueFineTuning/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of COLM 2025, Montreal, Canada",
+    "paper_link": "https://arxiv.org/abs/2501.17703",
+    "website": "https://tiger-ai-lab.github.io/CritiqueFineTuning/"
   },
   {
     "title": "ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations",
     "authors": "Yubo Wang, Xueguang Ma, Ping Nie, Huaye Zeng, Zhiheng Lyu, Yuxuan Zhang, Benjamin Schneider, Yi Lu, Xiang Yue, Wenhu Chen",
-    "links": "<em>Proceedings of COLM 2025, Montreal, Canada</em> [<a href=\"https://arxiv.org/abs/2504.00824\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/ScholarCopilot\">Github</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of COLM 2025, Montreal, Canada",
+    "paper_link": "https://arxiv.org/abs/2504.00824",
+    "website": "https://github.com/TIGER-AI-Lab/ScholarCopilot"
   },
   {
     "title": "Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers",
     "authors": "Weiming Ren, Wentao Ma, Huan Yang, Cong Wei, Ge Zhang, Wenhu Chen",
-    "links": "<em>Proceedings of ICCV 2025, Honolulu, Hawai'i</em> [<a href=\"https://arxiv.org/abs/2503.11579\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Vamba/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICCV 2025, Honolulu, Hawai'i",
+    "paper_link": "https://arxiv.org/abs/2503.11579",
+    "website": "https://tiger-ai-lab.github.io/Vamba/"
   },
   {
     "title": "TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding",
     "authors": "Max Ku, Thomas Chong, Jonathan Leung, Krish Shah, Alvin Yu, Wenhu Chen",
-    "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2502.19400\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/TheoremExplainAgent/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ACL 2025, Vienna, Austria",
+    "paper_link": "https://arxiv.org/abs/2502.19400",
+    "website": "https://tiger-ai-lab.github.io/TheoremExplainAgent/"
   },
   {
     "title": "AceCoder: Acing Coder RL via Automated Test-Case Synthesis",
     "authors": "Huaye Zeng, Dongfu Jiang, Haozhe Wang, Ping Nie, Xiaotong Chen, Wenhu Chen",
-    "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2502.01718\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/AceCoder/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ACL 2025, Vienna, Austria",
+    "paper_link": "https://arxiv.org/abs/2502.01718",
+    "website": "https://tiger-ai-lab.github.io/AceCoder/"
   },
   {
     "title": "VISA: Retrieval Augmented Generation with Visual Source Attribution",
     "authors": "Xueguang Ma, Shengyao Zhuang, Bevan Koopman, Guido Zuccon, Wenhu Chen, Jimmy Lin",
-    "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2412.14457\">pdf</a>][<a href=\"https://github.com/castorini/visa\">Code</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ACL 2025, Vienna, Austria",
+    "paper_link": "https://arxiv.org/abs/2412.14457",
+    "website": "",
+    "extra_links": {
+      "Code": "https://github.com/castorini/visa"
+    }
   },
   {
     "title": "MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale",
     "authors": "Jarvis Guo, Tuney Zheng, Yuelin Bai, Bo Li, Yubo Wang, King Zhu, Yizhi Li, Graham Neubig, Wenhu Chen, Xiang Yue",
-    "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2412.05237\">pdf</a>][<a href=\"https://mammoth-vl.github.io/\">Website</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ACL 2025, Vienna, Austria",
+    "paper_link": "https://arxiv.org/abs/2412.05237",
+    "website": "https://mammoth-vl.github.io/"
   },
   {
     "title": "MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark",
     "authors": "Xiang Yue, Tianyu Zheng, Yuansheng Ni, Yubo Wang, Kai Zhang, Shengbang Tong, Yuxuan Sun, Ming Yin, Botao Yu, Ge Zhang, Huan Sun, Yu Su, Wenhu Chen, Graham Neubig",
-    "links": "<em>Proceedings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2409.02813\">pdf</a>][<a href=\"https://mmmu-benchmark.github.io/\">Website</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ACL 2025, Vienna, Austria",
+    "paper_link": "https://arxiv.org/abs/2409.02813",
+    "website": "https://mmmu-benchmark.github.io/"
   },
   {
     "title": "TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and Image-to-Video Generation",
     "authors": "Weixi Feng, Jiachen Li, Michael Saxon, Tsu-jui Fu, Wenhu Chen, William Yang Wang",
-    "links": "<em>Findings of ACL 2025, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2406.08656\">pdf</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of ACL 2025, Vienna, Austria",
+    "paper_link": "https://arxiv.org/abs/2406.08656",
+    "website": ""
   },
   {
     "title": "VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by VIdeo SpatioTemporal Augmentation",
     "authors": "Weiming Ren, Huan Yang, Jie Min, Cong Wei, Wenhu Chen",
-    "links": "<em>Proceedings of CVPR 2025, Nashville, US</em> [<a href=\"https://arxiv.org/abs/2412.00927\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VISTA/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of CVPR 2025, Nashville, US",
+    "paper_link": "https://arxiv.org/abs/2412.00927",
+    "website": "https://tiger-ai-lab.github.io/VISTA/"
   },
   {
     "title": "Long-context LLMs Struggle with Long In-context Learning",
     "authors": "Tianle Li, Ge Zhang, Quy Duc Do, Xiang Yue, Wenhu Chen",
-    "links": "<em>TMLR 2025</em> [<a href=\"https://arxiv.org/abs/2404.02060\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/LongICLBench/\">Github</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "TMLR 2025",
+    "paper_link": "https://arxiv.org/abs/2404.02060",
+    "website": "https://github.com/TIGER-AI-Lab/LongICLBench/"
   },
   {
     "title": "UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models",
-    "authors": "Sahel Sharifymoghaddam,\u00a0Shivani Upadhyay,\u00a0Wenhu Chen,\u00a0Jimmy Lin",
-    "links": "<em>Findings of NAACL 2025, New Mexico</em> [<a href=\"https://arxiv.org/abs/2405.10311\">pdf</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "authors": "Sahel Sharifymoghaddam, Shivani Upadhyay, Wenhu Chen, Jimmy Lin",
+    "status": "accepted",
+    "venue": "Findings of NAACL 2025, New Mexico",
+    "paper_link": "https://arxiv.org/abs/2405.10311",
+    "website": ""
   },
   {
     "title": "Harnessing Webpage UIs for Text-Rich Visual Understanding",
     "authors": "Junpeng Liu, Tianyue Ou, Yifan Song, Yuxiao Qu, Wai Lam, Chenyan Xiong, Wenhu Chen, Graham Neubig, Xiang Yue",
-    "links": "<em>Proceedings of ICLR 2025, Singapore</em> [<a href=\"https://arxiv.org/abs/2410.13824\">pdf</a>][<a href=\"https://neulab.github.io/MultiUI/\">Website</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2025, Singapore",
+    "paper_link": "https://arxiv.org/abs/2410.13824",
+    "website": "https://neulab.github.io/MultiUI/"
   },
   {
     "title": "OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision",
     "authors": "Cong Wei, Zheyang Xiong, Weiming Ren, Xinrun Du, Ge Zhang, Wenhu Chen",
-    "links": "<em>Proceedings of ICLR 2025, Singapore</em> [<a href=\"https://arxiv.org/abs/2411.07199\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/OmniEdit/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2025, Singapore",
+    "paper_link": "https://arxiv.org/abs/2411.07199",
+    "website": "https://tiger-ai-lab.github.io/OmniEdit/"
   },
   {
     "title": "T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design",
     "authors": "Jiachen Li, Qian Long, Jian Zheng, Xiaofeng Gao, Robinson Piramuthu, Wenhu Chen, William Yang Wang",
-    "links": "<em>Proceedings of ICLR 2025, Singapore</em> [<a href=\"https://arxiv.org/abs/2410.05677\">pdf</a>][<a href=\"https://t2v-turbo-v2.github.io/\">Website</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2025, Singapore",
+    "paper_link": "https://arxiv.org/abs/2410.05677",
+    "website": "https://t2v-turbo-v2.github.io/"
   },
   {
     "title": "VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks",
     "authors": "Ziyan Jiang, Rui Meng, Xinyi Yang, Semih Yavuz, Yingbo Zhou, Wenhu Chen",
-    "links": "<em>Proceedings of ICLR 2025, Singapore</em> [<a href=\"https://arxiv.org/abs/2410.05160\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VLM2Vec/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2025, Singapore",
+    "paper_link": "https://arxiv.org/abs/2410.05160",
+    "website": "https://tiger-ai-lab.github.io/VLM2Vec/"
   },
   {
     "title": "MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks",
     "authors": "Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang, Yuansheng Ni, Wang Zhu, Ziyan Jiang, Bohan Lyu, Dongfu Jiang, Xuan He, Yuan Liu, Hexiang Hu, Xiang Yue, Wenhu Chen",
-    "links": "<em>Proceedings of ICLR 2025, Singapore</em> [<a href=\"https://arxiv.org/abs/2410.10563\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/MEGA-Bench/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2025, Singapore",
+    "paper_link": "https://arxiv.org/abs/2410.10563",
+    "website": "https://tiger-ai-lab.github.io/MEGA-Bench/"
   },
   {
     "title": "MANTIS: Interleaved Multi-Image Instruction Tuning",
     "authors": "Dongfu Jiang, Xuan He, Huaye Zeng, Cong Wei, Max Ku, Qian Liu, Wenhu Chen",
-    "links": "<em>TMLR 2024</em> [<a href=\"https://arxiv.org/abs/2405.01483\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/Mantis/\">Website</a>][<a href=\"https://huggingface.co/spaces/TIGER-Lab/Mantis\">Demo</a>]<br>\r\n<font color=\"red\">Outstanding Paper Award (Best Paper of the 2024-2025 Cycle)</font>",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Outstanding Paper Award (Best Paper of the 2024-2025 Cycle)",
+    "venue": "TMLR 2024",
+    "paper_link": "https://arxiv.org/abs/2405.01483",
+    "website": "https://tiger-ai-lab.github.io/Mantis/",
+    "extra_links": {
+      "Demo": "https://huggingface.co/spaces/TIGER-Lab/Mantis"
+    }
   },
   {
     "title": "AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks",
     "authors": "Max Ku, Cong Wei, Weiming Ren, Huan Yang, Wenhu Chen",
-    "links": "<em>TMLR 2024</em> [<a href=\"https://arxiv.org/abs/2403.14468\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/AnyV2V/\">Website</a>][<a href=\"https://huggingface.co/spaces/TIGER-Lab/AnyV2V\">Demo</a>]<br>\r\n<font color=\"red\">Reproducibility Certification</font>",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Reproducibility Certification",
+    "venue": "TMLR 2024",
+    "paper_link": "https://arxiv.org/abs/2403.14468",
+    "website": "https://tiger-ai-lab.github.io/AnyV2V/",
+    "extra_links": {
+      "Demo": "https://huggingface.co/spaces/TIGER-Lab/AnyV2V"
+    }
   },
   {
     "title": "Reward Guided Latent Consistency Distillation",
     "authors": "Jiachen Li, Weixi Feng, Wenhu Chen, William Yang Wang",
-    "links": "<em>TMLR 2024, Presented at ICLR 2025</em> [<a href=\"https://arxiv.org/abs/2403.11027\">pdf</a>][<a href=\"https://rg-lcd.github.io/\">Website</a>]<br/>\r\n<font color=\"red\">Featured Certification (Top 5% of accepted papers)</font>",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Featured Certification (Top 5% of accepted papers)",
+    "venue": "TMLR 2024, Presented at ICLR 2025",
+    "paper_link": "https://arxiv.org/abs/2403.11027",
+    "website": "https://rg-lcd.github.io/"
   },
   {
     "title": "MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark",
     "authors": "Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, Weiming Ren, Aaran Arulraj, Xuan He, Ziyan Jiang, Tianle Li, Max Ku, Kai Wang, Alex Zhuang, Rongqi Fan, Xiang Yue, Wenhu Chen",
-    "links": "<em>Proceedings of NeurIPS 2024 (dataset track), Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2406.01574\">pdf</a>][<a href=\"https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro\">Dataset</a>]<br/>\r\n<font color=\"red\">Spotlight (Top 10% of accepted papers)</font>",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Spotlight (Top 10% of accepted papers)",
+    "venue": "Proceedings of NeurIPS 2024 (dataset track), Vancouver, Canada",
+    "paper_link": "https://arxiv.org/abs/2406.01574",
+    "website": "",
+    "extra_links": {
+      "Dataset": "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro"
+    }
   },
   {
     "title": "GenAI Arena: An Open Evaluation Platform for Generative Models",
     "authors": "Dongfu Jiang, Max Ku, Tianle Li, Yuansheng Ni, Shizhuo Sun, Rongqi Fan, Wenhu Chen",
-    "links": "<em>Proceedings of NeurIPS 2024 (dataset track), Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2406.04485\">pdf</a>][<a href=\"https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena\">Hugginface Space</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of NeurIPS 2024 (dataset track), Vancouver, Canada",
+    "paper_link": "https://arxiv.org/abs/2406.04485",
+    "website": "",
+    "extra_links": {
+      "Hugginface Space": "https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena"
+    }
   },
   {
     "title": "WildVision: Evaluating Vision-Language Models in the Wild with Human Preferences",
     "authors": "Yujie Lu, Dongfu Jiang, Wenhu Chen, William Yang Wang, Yejin Choi, Bill Yuchen Lin",
-    "links": "<em>Proceedings of NeurIPS 2024 (dataset track), Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2406.11069\">pdf</a>][<a href=\"https://huggingface.co/spaces/WildVision/vision-arena\">Huggingface Space</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of NeurIPS 2024 (dataset track), Vancouver, Canada",
+    "paper_link": "https://arxiv.org/abs/2406.11069",
+    "website": "",
+    "extra_links": {
+      "Huggingface Space": "https://huggingface.co/spaces/WildVision/vision-arena"
+    }
   },
   {
     "title": "MAmmoTH2: Scaling Instructions from the Web",
     "authors": "Xiang Yue, Tuney Zheng, Ge Zhang, Wenhu Chen",
-    "links": "<em>Proceedings of NeurIPS 2024, Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2405.03548\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/MAmmoTH2/\">Website</a>][<a href=\"https://huggingface.co/spaces/TIGER-Lab/MAmmoTH2\">Demo</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of NeurIPS 2024, Vancouver, Canada",
+    "paper_link": "https://arxiv.org/abs/2405.03548",
+    "website": "https://tiger-ai-lab.github.io/MAmmoTH2/",
+    "extra_links": {
+      "Demo": "https://huggingface.co/spaces/TIGER-Lab/MAmmoTH2"
+    }
   },
   {
     "title": "T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback",
     "authors": "Jiachen Li, Weixi Feng, Tsu-Jui Fu, Xinyi Wang, Sugato Basu, Wenhu Chen, William Yang Wang",
-    "links": "<em>Proceedings of NeurIPS 2024, Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/2405.18750\">pdf</a>][<a href=\"https://t2v-turbo.github.io/\">Website</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of NeurIPS 2024, Vancouver, Canada",
+    "paper_link": "https://arxiv.org/abs/2405.18750",
+    "website": "https://t2v-turbo.github.io/"
   },
   {
     "title": "Unifying Multimodal Retrieval via Document Screenshot Embedding",
     "authors": "Xueguang Ma, Sheng-Chieh Lin, Minghan Li, Wenhu Chen, Jimmy Lin",
-    "links": "<em>Proceedings of EMNLP 2024, Miami, USA</em> [<a href=\"https://arxiv.org/abs/2406.11251\">pdf</a>][<a href=\"https://github.com/texttron/tevatron/\">Code</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of EMNLP 2024, Miami, USA",
+    "paper_link": "https://arxiv.org/abs/2406.11251",
+    "website": "",
+    "extra_links": {
+      "Code": "https://github.com/texttron/tevatron/"
+    }
   },
   {
     "title": "VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation",
     "authors": "Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni, Sherman Siu, Haonan Chen, Abhranil Chandra, Ziyan Jiang, Aaran Arulraj, Kai Wang, Quy Duc Do, Yuansheng Ni, Bohan Lyu, Yaswanth Narsupalli, Rongqi Fan, Zhiheng Lyu, Yuchen Lin, Wenhu Chen",
-    "links": "<em>Proceedings of EMNLP 2024, Miami, USA</em> [<a href=\"https://arxiv.org/abs/2406.15252\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VideoScore/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of EMNLP 2024, Miami, USA",
+    "paper_link": "https://arxiv.org/abs/2406.15252",
+    "website": "https://tiger-ai-lab.github.io/VideoScore/"
   },
   {
     "title": "LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs",
     "authors": "Ziyan Jiang, Xueguang Ma, Wenhu Chen",
-    "links": "<em>Tech Report, 2024</em> [<a href=\"https://arxiv.org/abs/2406.15319\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/LongRAG/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Tech Report, 2024",
+    "paper_link": "https://arxiv.org/abs/2406.15319",
+    "website": "https://tiger-ai-lab.github.io/LongRAG/"
   },
   {
     "title": "Augmenting Black-box LLMs with Medical Textbooks for Clinical Question Answering",
     "authors": "Yubo Wang, Xueguang Ma, Wenhu Chen",
-    "links": "<em>Findings of EMNLP 2024, Miami, USA</em> [<a href=\"https://arxiv.org/abs/2309.02233\">pdf</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of EMNLP 2024, Miami, USA",
+    "paper_link": "https://arxiv.org/abs/2309.02233",
+    "website": ""
   },
   {
     "title": "MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series",
     "authors": "Ge Zhang, Scott Qu, Jiaheng Liu, Chenchen Zhang, Chenghua Lin, Chou Leuang Yu, Danny Pan, Esther Cheng, Jie Liu, Qunshu Lin, Raven Yuan, Tuney Zheng, Wei Pang, Xinrun Du, Yiming Liang, Yinghao Ma, Yizhi Li, Ziyang Ma, Bill Lin, Emmanouil Benetos, Huan Yang, Junting Zhou, Kaijing Ma, Minghao Liu, Morry Niu, Noah Wang, Quehry Que, Ruibo Liu, Sine Liu, Shawn Guo, Soren Gao, Wangchunshu Zhou, Xinyue Zhang, Yizhi Zhou, Yubo Wang, Yuelin Bai, Yuhan Zhang, Yuxiang Zhang, Zenith Wang, Zhenzhu Yang, Zijian Zhao, Jiajun Zhang, Wanli Ouyang, Wenhao Huang, Wenhu Chen",
-    "links": "<em>Tech Report, 2024</em> [<a href=\"https://arxiv.org/abs/2405.19327\">pdf</a>][<a href=\"https://map-neo.github.io/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Tech Report, 2024",
+    "paper_link": "https://arxiv.org/abs/2405.19327",
+    "website": "https://map-neo.github.io/"
   },
   {
     "title": "StructLM: Towards Building Generalist Models for Structured Knowledge Grounding",
     "authors": "Alex Zhuang, Ge Zhang, Tianyu Zheng, Xinrun Du, Junjie Wang, Weiming Ren, Stephen W. Huang, Jie Fu, Xiang Yue, Wenhu Chen",
-    "links": "<em>Proceedings of COLM 2024, Philadelphia, USA</em> [<a href=\"https://arxiv.org/abs/2402.16671\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/StructLM/\">Website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of COLM 2024, Philadelphia, USA",
+    "paper_link": "https://arxiv.org/abs/2402.16671",
+    "website": "https://tiger-ai-lab.github.io/StructLM/"
   },
   {
     "title": "Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model",
     "authors": "Xinrun Du, Zhouliang Yu, Songyang Gao, Ding Pan, Yuyang Cheng, Ziyang Ma, Ruibin Yuan, Xingwei Qu, Jiaheng Liu, Tianyu Zheng, Xinchen Luo, Guorui Zhou, Binhang Yuan, Wenhu Chen, Jie Fu, Ge Zhang",
-    "links": "<em>Proceedings of COLM 2024, Philadelphia, USA</em> [<a href=\"https://arxiv.org/abs/2404.04167\">pdf</a>][<a href=\"https://huggingface.co/datasets/m-a-p/MAP-CC\">Huggingface</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of COLM 2024, Philadelphia, USA",
+    "paper_link": "https://arxiv.org/abs/2404.04167",
+    "website": "",
+    "extra_links": {
+      "Huggingface": "https://huggingface.co/datasets/m-a-p/MAP-CC"
+    }
   },
   {
     "title": "UniIR: Training and Benchmarking Universal Multimodal Information Retrievers",
     "authors": "Cong Wei, Yang Chen, Haonan Chen, Hexiang Hu, Ge Zhang, Jie Fu, Alan Ritter, Wenhu Chen",
-    "links": "<em>Proceedings of ECCV 2024, Milan, Italy</em> [<a href=\"https://arxiv.org/abs/2311.17136\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/UniIR/\">website</a>]<br/>\r\n<font color=\"red\">Oral (top 10% of accepted papers)</font>",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Oral (top 10% of accepted papers)",
+    "venue": "Proceedings of ECCV 2024, Milan, Italy",
+    "paper_link": "https://arxiv.org/abs/2311.17136",
+    "website": "https://tiger-ai-lab.github.io/UniIR/"
   },
   {
     "title": "ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation",
     "authors": "Weiming Ren, Harry Yang, Ge Zhang, Cong Wei, Xinrun Du, Stephen Huang, Wenhu Chen",
-    "links": "<em>TMLR 2024</em> [<a href=\"https://arxiv.org/abs/2402.04324\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/ConsistI2V/\">website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "TMLR 2024",
+    "paper_link": "https://arxiv.org/abs/2402.04324",
+    "website": "https://tiger-ai-lab.github.io/ConsistI2V/"
   },
   {
     "title": "VIEScore: Towards Explainable Metrics for Conditional Image Synthesis Evaluation",
     "authors": "Max Ku, Dongfu Jiang, Cong Wei, Xiang Yue, Wenhu Chen",
-    "links": "<em>Proceedings of ACL 2024, Bangkok, Thailand</em> [<a href=\"https://arxiv.org/abs/2312.14867\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/VIEScore/\">website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ACL 2024, Bangkok, Thailand",
+    "paper_link": "https://arxiv.org/abs/2312.14867",
+    "website": "https://tiger-ai-lab.github.io/VIEScore/"
   },
   {
     "title": "SciMMIR: Benchmarking Scientific Multi-modal Information Retrieval",
     "authors": "Siwei Wu, Yizhi Li, Kang Zhu, Ge Zhang, Yiming Liang, Kaijing Ma, Chenghao Xiao, Haoran Zhang, Bohao Yang, Wenhu Chen, Wenhao Huang, Noura Al Moubayed, Jie Fu, Chenghua Lin",
-    "links": "<em>Findings of ACL 2024, Bangkok, Thailand</em> [<a href=\"https://arxiv.org/abs/2401.13478\">pdf</a>][<a href=\"https://github.com/Wusiwei0410/SciMMIR\">website</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of ACL 2024, Bangkok, Thailand",
+    "paper_link": "https://arxiv.org/abs/2401.13478",
+    "website": "https://github.com/Wusiwei0410/SciMMIR"
   },
   {
     "title": "E^2-LLM: Efficient and Extreme Length Extension of Large Language Models",
     "authors": "Jiaheng Liu, Zhiqi Bai, Yuanxing Zhang, Chenchen Zhang, Yu Zhang, Ge Zhang, Jiakai Wang, Haoran Que, Yukang Chen, Wenbo Su, Tiezheng Ge, Jie Fu, Wenhu Chen, Bo Zheng",
-    "links": "<em>Findings of ACL 2024, Bangkok, Thailand</em> [<a href=\"https://arxiv.org/abs/2401.06951\">pdf</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of ACL 2024, Bangkok, Thailand",
+    "paper_link": "https://arxiv.org/abs/2401.06951",
+    "website": ""
   },
   {
     "title": "ChatMusician: Fostering Intrinsic Musical Abilities Into LLM",
     "authors": "Ruibin Yuan, Hanfeng Lin, Yi Wang, Zeyue Tian, Shangda Wu, Tianhao Shen, Ge Zhang, Yuhang Wu, Cong Liu, Ziya Zhou, Ziyang Ma, Liumeng Xue, Ziyu Wang, Qin Liu, Tianyu Zheng, Yizhi Li, Yinghao Ma, Yiming Liang, Xiaowei Chi, Ruibo Liu, Zili Wang, Pengfei Li, Jingcheng Wu, Chenghua Lin, Qifeng Liu, Tao Jiang, Wenhao Huang, Wenhu Chen, Emmanouil Benetos, Jie Fu, Gus Xia, Roger Dannenberg, Wei Xue, Shiyin Kang, Yike Guo",
-    "links": "<em>Findings of ACL 2024, Bangkok, Thailand</em> [<a href=\"https://arxiv.org/abs/2402.16153\">pdf</a>][<a href=\"https://shanghaicannon.github.io/ChatMusician/\">Website</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of ACL 2024, Bangkok, Thailand",
+    "paper_link": "https://arxiv.org/abs/2402.16153",
+    "website": "https://shanghaicannon.github.io/ChatMusician/"
   },
   {
     "title": "OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement",
     "authors": "Tianyu Zheng, Ge Zhang, Tianhao Shen, Xueling Liu, Bill Yuchen Lin, Jie Fu, Wenhu Chen, Xiang Yue",
-    "links": "<em>Findings of ACL 2024, Bangkok, Thailand</em> [<a href=\"https://arxiv.org/abs/2402.14658\">pdf</a>][<a href=\"https://opencodeinterpreter.github.io/\">Website</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of ACL 2024, Bangkok, Thailand",
+    "paper_link": "https://arxiv.org/abs/2402.14658",
+    "website": "https://opencodeinterpreter.github.io/"
   },
   {
     "title": "Knowledge of Knowledge: Exploring Known-Unknowns Uncertainty with Large Language Models",
     "authors": "Alfonso Amayuelas, Liangming Pan, Wenhu Chen, William Wang",
-    "links": "<em>Findings of ACL 2024, Bangkok, Thailand</em> [<a href=\"https://arxiv.org/abs/2305.13712\">pdf</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of ACL 2024, Bangkok, Thailand",
+    "paper_link": "https://arxiv.org/abs/2305.13712",
+    "website": ""
   },
   {
     "title": "TIGERScore: Towards Building Explainable Metric for All Text Generation Tasks",
     "authors": "Dongfu Jiang*, Yishan Li*, Ge Zhang, Wenhao Huang, Bill Yuchen Lin, Wenhu Chen",
-    "links": "<em>TMLR 2024</em> [<a href=\"https://arxiv.org/abs/2310.00752\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/TIGERScore/\">website</a>][<a href=\"https://huggingface.co/spaces/TIGER-Lab/TIGERScore\">demo</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "TMLR 2024",
+    "paper_link": "https://arxiv.org/abs/2310.00752",
+    "website": "https://tiger-ai-lab.github.io/TIGERScore/",
+    "extra_links": {
+      "demo": "https://huggingface.co/spaces/TIGER-Lab/TIGERScore"
+    }
   },
   {
     "title": "Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation",
     "authors": "Xinyi Wang, Alfonso Amayuelas, Kexun Zhang, Liangming Pan, Wenhu Chen, Wenhu Chen, William Yang Wang",
-    "links": "<em>Proceedings of ICML 2024, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2402.03268\">pdf</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICML 2024, Vienna, Austria",
+    "paper_link": "https://arxiv.org/abs/2402.03268",
+    "website": ""
   },
   {
     "title": "MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions",
     "authors": "Kai Zhang, Yi Luan, Hexiang Hu, Kenton Lee, Siyuan Qiao, Wenhu Chen, Yu Su, Ming-Wei Chang",
-    "links": "<em>Proceedings of ICML 2024, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2403.19651\">pdf</a>][<a href=\"https://open-vision-language.github.io/MagicLens/\">Website</a>]<br/>\r\n<font color=\"red\">Oral (144/9473 selected)</font>",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Oral (144/9473 selected)",
+    "venue": "Proceedings of ICML 2024, Vienna, Austria",
+    "paper_link": "https://arxiv.org/abs/2403.19651",
+    "website": "https://open-vision-language.github.io/MagicLens/"
   },
   {
     "title": "MusiLingo: Bridging Music and Text with Pre-trained Language Models for Music Captioning and Query Response",
     "authors": "Zihao Deng, Yinghao Ma, Yudong Liu, Rongchen Guo, Ge Zhang, Wenhu Chen, Wenhao Huang, Emmanouil Benetos",
-    "links": "<em>Findings of NAACL 2024, Mexico City, Mexico</em> [<a href=\"https://arxiv.org/abs/2309.08730\">pdf</a>][<a href=\"https://github.com/zihaod/MusiLingo\">code</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of NAACL 2024, Mexico City, Mexico",
+    "paper_link": "https://arxiv.org/abs/2309.08730",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/zihaod/MusiLingo"
+    }
   },
   {
     "title": "Instruct-Imagen: Image Generation with Multi-modal Instruction",
     "authors": "Hexiang Hu*, Kelvin C.K. Chan*, Yu-Chuan Su*, Wenhu Chen*, Yandong Li, Kihyuk Sohn, Yang Zhao, Xue Ben, Boqing Gong, William W. Cohen, Ming-Wei Chang, Xuhui Jia",
-    "links": "<em>Proceedings of CVPR 2024, Seattle, US</em> [<a href=\"https://arxiv.org/abs/2401.01952\">pdf</a>][<a href=\"https://instruct-imagen.github.io/\">website</a>]<br/>\r\n<font color=\"red\">Oral (90/11,532 selected)</font>",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Oral (90/11,532 selected)",
+    "venue": "Proceedings of CVPR 2024, Seattle, US",
+    "paper_link": "https://arxiv.org/abs/2401.01952",
+    "website": "https://instruct-imagen.github.io/"
   },
   {
     "title": "MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI",
     "authors": "Xiang Yue, Yuansheng Ni, Kai Zhang, Tianyu Zheng, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen",
-    "links": "<em>Proceedings of CVPR 2024, Seattle, US</em> [<a href=\"https://arxiv.org/abs/2311.16502\">pdf</a>][<a href=\"https://mmmu-benchmark.github.io/\">website</a>]<br/>\r\n<font color=\"red\">Best Paper Finalist &amp; Oral (24/11,532 selected)</font>",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Best Paper Finalist &amp; Oral (24/11,532 selected)",
+    "venue": "Proceedings of CVPR 2024, Seattle, US",
+    "paper_link": "https://arxiv.org/abs/2311.16502",
+    "website": "https://mmmu-benchmark.github.io/"
   },
   {
     "title": "Kosmos-G: Generating Images in Context with Multimodal Large Language Models",
     "authors": "Xichen Pan, Li Dong, Shaohan Huang, Zhiliang Peng, Wenhu Chen, Furu Wei",
-    "links": "<em>Proceedings of ICLR 2024, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2310.02992\">pdf</a>][<a href=\"https://xichenpan.com/kosmosg/\">website</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2024, Vienna, Austria",
+    "paper_link": "https://arxiv.org/abs/2310.02992",
+    "website": "https://xichenpan.com/kosmosg/"
   },
   {
     "title": "ImagenHub: Standardizing the evaluation of conditional image generation models",
     "authors": "Max Ku, Tianle Li, Kai Zhang, Yujie Lu, Xingyu Fu, Wenwen Zhuang, Wenhu Chen",
-    "links": "<em>Proceedings of ICLR 2024, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2310.01596\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/ImagenHub/\">website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2024, Vienna, Austria",
+    "paper_link": "https://arxiv.org/abs/2310.01596",
+    "website": "https://tiger-ai-lab.github.io/ImagenHub/"
   },
   {
     "title": "MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised Training",
     "authors": "Yizhi Li, Ruibin Yuan, Ge Zhang, Yinghao Ma, Xingran Chen, Hanzhi Yin, Chenghua Lin, Anton Ragni, Emmanouil Benetos, Norbert Gyenge, Roger Dannenberg, Ruibo Liu, Wenhu Chen, Gus Xia, Yemin Shi, Wenhao Huang, Yike Guo, Jie Fu",
-    "links": "<em>Proceedings of ICLR 2024, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2306.00107\">pdf</a>][<a href=\"https://github.com/yizhilll/MERT\">code and data</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2024, Vienna, Austria",
+    "paper_link": "https://arxiv.org/abs/2306.00107",
+    "website": "",
+    "extra_links": {
+      "code and data": "https://github.com/yizhilll/MERT"
+    }
   },
   {
     "title": "MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning",
     "authors": "Xiang Yue*, Xingwei Qu, Ge Zhang, Yao Fu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen *",
-    "links": "<em>Proceedings of ICLR 2024, Vienna, Austria</em> [<a href=\"https://arxiv.org/abs/2309.05653\">pdf</a>][<a href=\"https://tiger-ai-lab.github.io/MAmmoTH/\">website</a>]<br/>\r\n<font color=\"red\">Spotlight (366/7304 selected)</font>",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Spotlight (366/7304 selected)",
+    "venue": "Proceedings of ICLR 2024, Vienna, Austria",
+    "paper_link": "https://arxiv.org/abs/2309.05653",
+    "website": "https://tiger-ai-lab.github.io/MAmmoTH/"
   },
   {
     "title": "Interactive Natural Language Processing",
     "authors": "Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu",
-    "links": "<em>Tech Report, 2024</em> [<a href=\"https://arxiv.org/abs/2305.13246\">pdf</a>][<a href=\"https://github.com/InteractiveNLP-Team/awesome-InteractiveNLP-papers\">Github</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Tech Report, 2024",
+    "paper_link": "https://arxiv.org/abs/2305.13246",
+    "website": "https://github.com/InteractiveNLP-Team/awesome-InteractiveNLP-papers"
   },
   {
     "title": "Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models",
     "authors": "Xichen Pan, Pengda Qin, Yuhong Li, Hui Xue, Wenhu Chen",
-    "links": "<em>Proceedings of WACV 2024, Hawaii, USA</em> [<a href=\"https://arxiv.org/abs/2211.10950\">pdf</a>][<a href=\"https://github.com/Flash-321/ARLDM\">code</a>]<br/>\r\n<font color=\"red\">Oral (53/2042 selected)</font>",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Oral (53/2042 selected)",
+    "venue": "Proceedings of WACV 2024, Hawaii, USA",
+    "paper_link": "https://arxiv.org/abs/2211.10950",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/Flash-321/ARLDM"
+    }
   },
   {
     "title": "DreamEdit: Subject-driven Image Editing",
     "authors": "Tianle Li, Max Ku, Cong Wei, Wenhu Chen",
-    "links": "<em>TMLR 2023</em> [<a href=\"https://arxiv.org/abs/2306.12624\">pdf</a>][<a href=\"https://dreameditbenchteam.github.io/\">website</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "TMLR 2023",
+    "paper_link": "https://arxiv.org/abs/2306.12624",
+    "website": "https://dreameditbenchteam.github.io/"
   },
   {
     "title": "Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks",
     "authors": "Wenhu Chen* , Xueguang Ma*, Xinyi Wang, William W. Cohen",
-    "links": "<em>TMLR 2023</em> [<a href=\"https://arxiv.org/abs/2211.12588\">pdf</a>][<a href=\"https://github.com/wenhuchen/Program-of-Thoughts\">code</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "TMLR 2023",
+    "paper_link": "https://arxiv.org/abs/2211.12588",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/wenhuchen/Program-of-Thoughts"
+    }
   },
   {
     "title": "On the Risk of Misinformation Pollution with Large Language Models",
     "authors": "Yikang Pan, Liangming Pan, Wenhu Chen, Preslav Nakov, Min-Yen Kan, William Yang Wang",
-    "links": "<em>Findings of EMNLP 2023, Singapore</em> [<a href=\"https://arxiv.org/abs/2305.13661\">pdf</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of EMNLP 2023, Singapore",
+    "paper_link": "https://arxiv.org/abs/2305.13661",
+    "website": ""
   },
   {
     "title": "EDIS: Entity-Driven Image Search over Multimodal Web Content",
     "authors": "Siqi Liu, Weixi Feng, Wenhu Chen, William Yang Wang",
-    "links": "<em>Proceedings of EMNLP 2023, Singapore</em> [<a href=\"https://arxiv.org/abs/2305.13631\">pdf</a>][<a href=\"https://github.com/emerisly/EDIS\">code and data</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of EMNLP 2023, Singapore",
+    "paper_link": "https://arxiv.org/abs/2305.13631",
+    "website": "",
+    "extra_links": {
+      "code and data": "https://github.com/emerisly/EDIS"
+    }
   },
   {
     "title": "TheoremQA: A Theorem-driven Question Answering dataset",
     "authors": "Wenhu Chen, Ming Yin, Max Ku, Elaine Wan, Xueguang Ma, Jianyu Xu, Tony Xia, Xinyi Wang, Pan Lu",
-    "links": "<em>Proceedings of EMNLP 2023, Singapore</em> [<a href=\"https://arxiv.org/abs/2305.12524\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/TheoremQA\">code and data</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of EMNLP 2023, Singapore",
+    "paper_link": "https://arxiv.org/abs/2305.12524",
+    "website": "",
+    "extra_links": {
+      "code and data": "https://github.com/TIGER-AI-Lab/TheoremQA"
+    }
   },
   {
     "title": "Subject-driven Text-to-Image Generation via Apprenticeship Learning",
     "authors": "Wenhu Chen, Hexiang Hu, Yandong Li, Nataniel Ruiz, Xuhui Jia, Ming-Wei Chang, William W. Cohen",
-    "links": "<em>Proceedings of NeurIPS 2023, New Orleans, USA</em> [<a href=\"https://arxiv.org/abs/2304.00186\">pdf</a>][<a href=\"https://open-vision-language.github.io/suti/\">website</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of NeurIPS 2023, New Orleans, USA",
+    "paper_link": "https://arxiv.org/abs/2304.00186",
+    "website": "https://open-vision-language.github.io/suti/"
   },
   {
     "title": "MARBLE: Music Audio Representation Benchmark for Universal Evaluation",
     "authors": "Ruibin Yuan, Yinghao Ma, Yizhi Li, Ge Zhang, Xingran Chen, Hanzhi Yin, Le Zhuo, Yiqi Liu, Jiawen Huang, Zeyue Tian, Binyue Deng, Ningzhi Wang, Wenhu Chen, Gus Xia, Wei Xue, Si Liu, Shi Wang, Ruibo Liu, Yike Guo, Jie Fu",
-    "links": "<em>Proceedings of NeurIPS 2023 (dataset track), New Orleans, USA</em> [<a href=\"https://arxiv.org/abs/2306.10548\">pdf</a>][<a href=\"https://marble-bm.shef.ac.uk/\">benchmark</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of NeurIPS 2023 (dataset track), New Orleans, USA",
+    "paper_link": "https://arxiv.org/abs/2306.10548",
+    "website": "",
+    "extra_links": {
+      "benchmark": "https://marble-bm.shef.ac.uk/"
+    }
   },
   {
     "title": "MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing",
     "authors": "Kai Zhang, Lingbo Mo, Wenhu Chen, Huan Sun, Yu Su",
-    "links": "<em>Proceedings of NeurIPS 2023 (dataset track), New Orleans, USA</em> [<a href=\"https://arxiv.org/abs/2306.10012\">pdf</a>][<a href=\"https://osu-nlp-group.github.io/MagicBrush/\">website</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of NeurIPS 2023 (dataset track), New Orleans, USA",
+    "paper_link": "https://arxiv.org/abs/2306.10012",
+    "website": "https://osu-nlp-group.github.io/MagicBrush/"
   },
   {
     "title": "Attacking Open-domain Question Answering by Injecting Misinformation",
     "authors": "Liangming Pan, Wenhu Chen, Min-Yen Kan, William Yang Wang",
-    "links": "<em>Proceedings of IJCNLP-AACL 2023, Bali, Indonesia</em> [<a href=\"https://arxiv.org/abs/2110.07803\">pdf</a>]<br/>\r\n<font color=\"red\">Area Chair Award in Question Answering Track</font>",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Area Chair Award in Question Answering Track",
+    "venue": "Proceedings of IJCNLP-AACL 2023, Bali, Indonesia",
+    "paper_link": "https://arxiv.org/abs/2110.07803",
+    "website": ""
   },
   {
     "title": "DePlot: One-shot visual language reasoning by plot-to-table translation",
     "authors": "Fangyu Liu, Julian Martin Eisenschlos, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Wenhu Chen, Nigel Collier, Yasemin Altun",
-    "links": "<em>Findings of ACL 2023, Toronto, Canada</em> [<a href=\"https://arxiv.org/abs/2212.10505\">pdf</a>] [<a href=\"https://huggingface.co/google/deplot\">demo</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of ACL 2023, Toronto, Canada",
+    "paper_link": "https://arxiv.org/abs/2212.10505",
+    "website": "",
+    "extra_links": {
+      "demo": "https://huggingface.co/google/deplot"
+    }
   },
   {
     "title": "Few-shot In-context Learning on Knowledge Base Question Answering",
     "authors": "Tianle Li, Xueguang Ma, Alex Zhuang, Yu Gu, Yu Su, Wenhu Chen",
-    "links": "<em>Proceedings of ACL 2023, Toronto, Canada</em> [<a href=\"https://arxiv.org/abs/2305.01750\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/KB-BINDER\">code</a>]",
-    "category": "last-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ACL 2023, Toronto, Canada",
+    "paper_link": "https://arxiv.org/abs/2305.01750",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/TIGER-AI-Lab/KB-BINDER"
+    }
   },
   {
     "title": "Large Language Models are few(1)-shot Table Reasoners",
     "authors": "Wenhu Chen",
-    "links": "<em>Findings of EACL 2023, Dubrovnik, Croatia</em> [<a href=\"https://arxiv.org/abs/2210.06710\">pdf</a>][<a href=\"https://github.com/TIGER-AI-Lab/TableCoT\">code</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of EACL 2023, Dubrovnik, Croatia",
+    "paper_link": "https://arxiv.org/abs/2210.06710",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/TIGER-AI-Lab/TableCoT"
+    }
   },
   {
     "title": "Augmenting Pre-trained Language Models with QA-Memory for Open-Domain Question Answering",
     "authors": "Wenhu Chen, Pat Verga, Michiel de Jong, John Wieting, William W. Cohen",
-    "links": "<em>Proceedings of EACL 2023, Dubrovnik, Croatia</em> [<a href=\"https://arxiv.org/abs/2204.04581\">pdf</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of EACL 2023, Dubrovnik, Croatia",
+    "paper_link": "https://arxiv.org/abs/2204.04581",
+    "website": ""
   },
   {
     "title": "Re-Imagen: Retrieval-Augmented Text-to-Image Generator",
     "authors": "Wenhu Chen, Hexiang Hu, Chitwan Saharia, William W. Cohen",
-    "links": "<em>Proceedings of ICLR 2023, Kigali, Rwanda </em> [<a href=\"https://arxiv.org/abs/2209.14491\">pdf</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2023, Kigali, Rwanda ",
+    "paper_link": "https://arxiv.org/abs/2209.14491",
+    "website": ""
   },
   {
     "title": "QA Is the New KR: Question-Answer Pairs as Knowledge Bases",
     "authors": "William W. Cohen, Wenhu Chen, Michiel De Jong, Nitish Gupta, Alessandro Presta, Pat Verga, John Wieting (All Equal Contribution)",
-    "links": "<em>Proceedings of AAAI 2023, Senior Member Track</em> [<a href=\"https://arxiv.org/abs/2207.00630\">pdf</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of AAAI 2023, Senior Member Track",
+    "paper_link": "https://arxiv.org/abs/2207.00630",
+    "website": ""
   },
   {
     "title": "MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text",
     "authors": "Wenhu Chen, Hexiang Hu, Xi Chen, Pat Verga, William W. Cohen",
-    "links": "<em>Proceedings of EMNLP 2022, Abu Dhabi </em> [<a href=\"https://arxiv.org/abs/2210.02928\">pdf</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of EMNLP 2022, Abu Dhabi ",
+    "paper_link": "https://arxiv.org/abs/2210.02928",
+    "website": ""
   },
   {
     "title": "Controllable Dialogue Simulation with In-context Learning",
     "authors": "Zekun Li, Wenhu Chen, Shiyang Li, Hong Wang, Jing Qian, Xifeng Yan",
-    "links": "<em>Findings of EMNLP 2022, Abu Dhabi </em> [<a href=\"https://arxiv.org/abs/2210.04185\">pdf</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of EMNLP 2022, Abu Dhabi ",
+    "paper_link": "https://arxiv.org/abs/2210.04185",
+    "website": ""
   },
   {
     "title": "HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data",
     "authors": "Kai Nakamura, Sharon Levy, Yi-Lin Tuan, Wenhu Chen, William Yang Wang",
-    "links": "<em>Findings of ACL 2022, Virtual</em> [<a href=\"https://arxiv.org/abs/2204.13243\">pdf</a>][<a href=\"https://github.com/entitize/HybridDialogue\">code</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of ACL 2022, Virtual",
+    "paper_link": "https://arxiv.org/abs/2204.13243",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/entitize/HybridDialogue"
+    }
   },
   {
     "title": "A Dataset for Answering Time-Sensitive Questions",
     "authors": "Wenhu Chen, Xinyi Wang, William Yang Wang",
-    "links": "<em>Proceedings of NeurIPS 2021 (dataset track), Virtual</em> [<a href=\"http://arxiv.org/abs/2108.06314\">pdf</a>][<a href=\"https://github.com/wenhuchen/Time-Sensitive-QA\">code</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of NeurIPS 2021 (dataset track), Virtual",
+    "paper_link": "http://arxiv.org/abs/2108.06314",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/wenhuchen/Time-Sensitive-QA"
+    }
   },
   {
     "title": "Local Explanation of Dialogue Response Generation",
     "authors": "Yi-Lin Tuan, Connor Pryor, Wenhu Chen, Lise Getoor, William Yang Wang",
-    "links": "<em>Proceedings of NeurIPS 2021, Virtual</em> [<a href=\"https://arxiv.org/abs/2106.06528\">pdf</a>][<a href=\"https://github.com/Pascalson/LERG\">code</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of NeurIPS 2021, Virtual",
+    "paper_link": "https://arxiv.org/abs/2106.06528",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/Pascalson/LERG"
+    }
   },
   {
     "title": "Counterfactual Maximum Likelihood Estimation for Training Deep Networks",
     "authors": "Xinyi Wang, Wenhu Chen, Michael Saxon, William Yang Wang",
-    "links": "<em>Proceedings of NeurIPS 2021, Virtual</em> [<a href=\"https://arxiv.org/abs/2106.03831\">pdf</a>][<a href=\"https://github.com/WANGXinyiLinda/CMLE\">code</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of NeurIPS 2021, Virtual",
+    "paper_link": "https://arxiv.org/abs/2106.03831",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/WANGXinyiLinda/CMLE"
+    }
   },
   {
     "title": "FinQA: A Dataset of Numerical Reasoning over Financial Data",
     "authors": "Zhiyu Chen, Wenhu Chen, Charese Smiley, Sameena Shah, Iana Borova, Dylan Langdon, \\\\",
-    "links": "Reema Moussa, Matt Beane, Ting-Hao Huang, Bryan R. Routledge, William Yang Wang <br/>\r\n<em>Proceedings of EMNLP 2021, Virtual</em> [<a href=\"https://arxiv.org/abs/2109.00122\">pdf</a>][<a href=\"https://github.com/czyssrs/finqa\">code</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of EMNLP 2021, Virtual",
+    "paper_link": "https://arxiv.org/abs/2109.00122",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/czyssrs/finqa"
+    }
   },
   {
     "title": "Task-adaptive Pre-training and Self-training are Complementary for Natural Language Understanding",
     "authors": "Shiyang Li, Semih Yavuz, Wenhu Chen, Xifeng Yan",
-    "links": "<em>Findings of EMNLP 2021, Virtual</em> [<a href=\"https://arxiv.org/abs/2109.06466\">pdf</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of EMNLP 2021, Virtual",
+    "paper_link": "https://arxiv.org/abs/2109.06466",
+    "website": ""
   },
   {
     "title": "Zero-shot Fact Verification by Claim Generation",
     "authors": "Liangming Pan, Wenhu Chen, Wenhan Xiong, Min-Yen Kan, William Wang",
-    "links": "<em>Proceedings of ACL 2021, Virtual</em> [<a href=\"https://arxiv.org/abs/2105.14682\">pdf</a>][<a href=\"https://github.com/teacherpeterpan/Zero-shot-Fact-Verification\">code</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ACL 2021, Virtual",
+    "paper_link": "https://arxiv.org/abs/2105.14682",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/teacherpeterpan/Zero-shot-Fact-Verification"
+    }
   },
   {
     "title": "A Systematic Investigation of KB-Text Embedding Alignment at Scale",
     "authors": "Vardaan Pahuja, Yu Gu, Wenhu Chen, Mehdi Bahrami, Lei Liu, Wei-Peng Chen, Yu Su",
-    "links": "<em>Proceedings of ACL 2021, Virtual</em> [<a href=\"https://arxiv.org/abs/2106.01586\">pdf</a>][<a href=\"https://github.com/dki-lab/joint-kb-text-embedding\">code</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ACL 2021, Virtual",
+    "paper_link": "https://arxiv.org/abs/2106.01586",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/dki-lab/joint-kb-text-embedding"
+    }
   },
   {
     "title": "Unsupervised Multi-hop Question Answering by Question Generation",
     "authors": "Liangming Pan, Wenhu Chen, Wenhan Xiong, Min-Yen Kan, William Wang",
-    "links": "<em>Proceedings of NAACL 2021, Mexico City, Mexico</em> [<a href=\"https://arxiv.org/abs/2010.12623\">pdf</a>][<a href=\"https://github.com/teacherpeterpan/Unsupervised-Multi-hop-QA\">code</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of NAACL 2021, Mexico City, Mexico",
+    "paper_link": "https://arxiv.org/abs/2010.12623",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/teacherpeterpan/Unsupervised-Multi-hop-QA"
+    }
   },
   {
     "title": "Open Question Answering over Tables and Text",
     "authors": "Wenhu Chen, Ming-wei Chang, Eva Schlinger, William Wang, William Cohen",
-    "links": "<em>Proceedings of ICLR 2021, Virtual</em> [<a href=\"https://arxiv.org/abs/2010.10439\">pdf</a>][<a href=\"https://github.com/wenhuchen/OTT-QA\">data and code</a>] [<a href=\"https://competitions.codalab.org/competitions/27324\">codalab</a>][<a href=\"images/ott-qa.pptx\">slides</a>][<a href=\"images/ICLR-talk.pptx\">talk-slides</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2021, Virtual",
+    "paper_link": "https://arxiv.org/abs/2010.10439",
+    "website": "",
+    "extra_links": {
+      "data and code": "https://github.com/wenhuchen/OTT-QA",
+      "codalab": "https://competitions.codalab.org/competitions/27324",
+      "slides": "images/ott-qa.pptx",
+      "talk-slides": "images/ICLR-talk.pptx"
+    }
   },
   {
     "title": "Meta Module Network for Compositional Visual Reasoning",
     "authors": "Wenhu Chen, Zhe Gan, Linjie Li, Yu Cheng, William Wang, Jingjing Liu",
-    "links": "<em>Proceedings of WACV 2021, Hawaii, USA </em> [<a href=\"https://arxiv.org/abs/1910.03230\">pdf</a>][<a href=\"https://github.com/wenhuchen/Meta-Module-Network\">code</a>]<br/>\r\n<font color=\"red\">Best Student Paper Honorable Mention</font>",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "award": "Best Student Paper Honorable Mention",
+    "venue": "Proceedings of WACV 2021, Hawaii, USA ",
+    "paper_link": "https://arxiv.org/abs/1910.03230",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/wenhuchen/Meta-Module-Network"
+    }
   },
   {
     "title": "KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation",
     "authors": "Wenhu Chen, Yu Su, Xifeng Yan, William Wang",
-    "links": "<em>Proceedings of EMNLP 2020, Punta Cana, Dominican</em> [<a href=\"https://arxiv.org/abs/2010.02307\">pdf</a>][<a href=\"https://github.com/wenhuchen/KGPT\">data and code</a>][<a href=\"images/EMNLP-Oral.pptx\">slides</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of EMNLP 2020, Punta Cana, Dominican",
+    "paper_link": "https://arxiv.org/abs/2010.02307",
+    "website": "",
+    "extra_links": {
+      "data and code": "https://github.com/wenhuchen/KGPT",
+      "slides": "images/EMNLP-Oral.pptx"
+    }
   },
   {
     "title": "HybridQA: A Dataset of Multi-Hop Question Answering over Tabular and Textual Data",
     "authors": "Wenhu Chen, Hanwen Zha, Zhiyu Chen, Wenhan Xiong, Hong Wang, William Wang",
-    "links": "<em>Findings of EMNLP 2020</em> [<a href=\"https://arxiv.org/abs/2004.07347\">pdf</a>][<a href=\"https://github.com/wenhuchen/HybridQA\">data and code</a>][<a href=\"https://competitions.codalab.org/competitions/24420\">codalab</a>][<a href=\"https://hybridqa.github.io/\">website</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of EMNLP 2020",
+    "paper_link": "https://arxiv.org/abs/2004.07347",
+    "website": "https://hybridqa.github.io/",
+    "extra_links": {
+      "data and code": "https://github.com/wenhuchen/HybridQA",
+      "codalab": "https://competitions.codalab.org/competitions/24420"
+    }
   },
   {
     "title": "Logic2Text: High-Fidelity Natural Language Generation from Logical Forms",
     "authors": "Zhiyu Chen, Wenhu Chen, Hanwen Zha, Xiyou Zhou, Yunkai Zhang, Sairam Sundaresan, William Wang",
-    "links": "<em>Findings of EMNLP 2020</em> [<a href=\"https://arxiv.org/abs/2004.14579\">pdf</a>][<a href=\"https://github.com/czyssrs/Logic2Text\">data and code</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Findings of EMNLP 2020",
+    "paper_link": "https://arxiv.org/abs/2004.14579",
+    "website": "",
+    "extra_links": {
+      "data and code": "https://github.com/czyssrs/Logic2Text"
+    }
   },
   {
     "title": "Logical Natural Language Generation from Open-Domain Tables",
     "authors": "Wenhu Chen, Jianshu Chen, Yu Su, Zhiyu Chen, William Wang",
-    "links": "<em>Proceedings of ACL 2020, Seattle, USA</em> [<a href=\"https://arxiv.org/abs/2004.10404\">pdf</a>][<a href=\"https://github.com/wenhuchen/LogicNLG\">data and code</a>][<a href=\"https://competitions.codalab.org/competitions/24527\">codalab</a>][<a href=\"images/ACL2020-Oral.pptx\">slides</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ACL 2020, Seattle, USA",
+    "paper_link": "https://arxiv.org/abs/2004.10404",
+    "website": "",
+    "extra_links": {
+      "data and code": "https://github.com/wenhuchen/LogicNLG",
+      "codalab": "https://competitions.codalab.org/competitions/24527",
+      "slides": "images/ACL2020-Oral.pptx"
+    }
   },
   {
     "title": "Few-shot NLG with Pre-trained Language Model",
     "authors": "Zhiyu Chen, Harini Eavani, Wenhu Chen, Yinyin Liu, William Wang",
-    "links": "<em>Proceedings of ACL 2020, Seattle, USA</em> [<a href=\"https://arxiv.org/abs/1904.09521\">pdf</a>][<a href=\"https://github.com/czyssrs/Few-Shot-NLG\">data and code</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ACL 2020, Seattle, USA",
+    "paper_link": "https://arxiv.org/abs/1904.09521",
+    "website": "",
+    "extra_links": {
+      "data and code": "https://github.com/czyssrs/Few-Shot-NLG"
+    }
   },
   {
     "title": "VIOLIN: A Large-Scale Dataset for Video-and-Language Inference",
     "authors": "Jingzhou Liu, Wenhu Chen, Yu Cheng, Zhe Gan, Licheng Yu, Yiming Yang, Jingjing Liu",
-    "links": "<em>Proceedings of CVPR 2020, Seattle, USA</em> [<a href=\"https://arxiv.org/abs/2003.11618\">pdf</a>][<a href=\"https://github.com/jimmy646/violin\">data and code</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of CVPR 2020, Seattle, USA",
+    "paper_link": "https://arxiv.org/abs/2003.11618",
+    "website": "",
+    "extra_links": {
+      "data and code": "https://github.com/jimmy646/violin"
+    }
   },
   {
     "title": "TabFact: A Large-scale Dataset for Table-based Fact Verification",
     "authors": "Wenhu Chen, Hongmin Wang, Jianshu Chen, Yunkai Zhang, Hong Wang, Shiyang Li, Xiyou Zhou, William Wang",
-    "links": "<em>Proceedings of ICLR 2020, Addis Ababa, Ethiopia</em> [<a href=\"https://arxiv.org/abs/1909.02164\">pdf</a>][<a href=\"https://tabfact.github.io/\">website</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ICLR 2020, Addis Ababa, Ethiopia",
+    "paper_link": "https://arxiv.org/abs/1909.02164",
+    "website": "https://tabfact.github.io/"
   },
   {
     "title": "Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs",
     "authors": "Pengda Qin, Xin Wang, Wenhu Chen, Chunyun Zhang, Weiran Xu, William Wang",
-    "links": "<em>Proceedings of AAAI 2020, New York, US</em> [<a href=\"https://arxiv.org/abs/2001.02332\">pdf</a>][<a href=\"https://blog.csdn.net/qq_38382642/article/details/104109825\">blog</a>][<a href=\"https://github.com/Panda0406/Zero-shot-knowledge-graph-relational-learning\">code</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of AAAI 2020, New York, US",
+    "paper_link": "https://arxiv.org/abs/2001.02332",
+    "website": "",
+    "extra_links": {
+      "blog": "https://blog.csdn.net/qq_38382642/article/details/104109825",
+      "code": "https://github.com/Panda0406/Zero-shot-knowledge-graph-relational-learning"
+    }
   },
   {
     "title": "Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting",
     "authors": "Shiyang Li, Xiaoyong Jin, Yao Xuan, Xiyou Zhou, Wenhu Chen, Yu-Xiang Wang, Xifeng Yan",
-    "links": "<em>Proceedings of NeurIPS 2019, Vancouver, Canada</em> [<a href=\"https://arxiv.org/abs/1907.00235\">pdf</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of NeurIPS 2019, Vancouver, Canada",
+    "paper_link": "https://arxiv.org/abs/1907.00235",
+    "website": ""
   },
   {
     "title": "Interpreting and Improving Deep Neural SLU Models via Vocabulary Importance",
     "authors": "Yilin Shen, Wenhu Chen, Hongxia Jin",
-    "links": "<em>Proceedings of INTERSPEECH 2019, Graz, Austria</em> [<a href=\"https://www.isca-archive.org/interspeech_2019/shen19_interspeech.pdf\">pdf</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of INTERSPEECH 2019, Graz, Austria",
+    "paper_link": "https://www.isca-archive.org/interspeech_2019/shen19_interspeech.pdf",
+    "website": ""
   },
   {
     "title": "Semantically Conditioned Dialog Response Generation via Hierarchical Disentangled Self-Attention",
     "authors": "Wenhu Chen, Jianshu Chen, Pengda Qin, Xifeng Yan, William Wang",
-    "links": "<em>Proceedings of ACL 2019, Florence, Italy</em> [<a href=\"https://arxiv.org/abs/1905.12866\">pdf</a>][<a href=\"https://github.com/wenhuchen/HDSA-Dialog\">code</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ACL 2019, Florence, Italy",
+    "paper_link": "https://arxiv.org/abs/1905.12866",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/wenhuchen/HDSA-Dialog"
+    }
   },
   {
     "title": "Global Textual Relation Embedding for Relational Understanding",
     "authors": "Zhiyu Chen, Hanwen Zha, Honglei Liu, Wenhu Chen, Xifeng Yan, Yu Su",
-    "links": "<em>Proceedings of ACL 2019, Florence, Italy </em> [<a href=\"https://arxiv.org/abs/1906.00550\">pdf</a>][<a href=\"https://github.com/czyssrs/GloREPlus\">code</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ACL 2019, Florence, Italy ",
+    "paper_link": "https://arxiv.org/abs/1906.00550",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/czyssrs/GloREPlus"
+    }
   },
   {
     "title": "Mining Algorithm Roadmap in Scientific Publications",
     "authors": "Hanwen Zha, Wenhu Chen, Keqian Li, Xifeng Yan",
-    "links": "<em>Proceedings of KDD 2019, Alaska, USA</em> [<a href=\"https://dl.acm.org/citation.cfm?id=3330913\">pdf</a>][<a href=\"https://github.com/zhw12/AlgMap\">code</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of KDD 2019, Alaska, USA",
+    "paper_link": "https://dl.acm.org/citation.cfm?id=3330913",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/zhw12/AlgMap"
+    }
   },
   {
     "title": "How Large A Vocabulary Does Text Classification Need? A Variational Approach on Vocabulary Selection",
     "authors": "Wenhu Chen, Yu Su, Yilin Shen, Zhiyu Chen, Xifeng Yan, William Wang",
-    "links": "<em>Proceedings of NAACL 2019, Minneapolis, USA</em> [<a href=\"https://arxiv.org/abs/1902.10339\">pdf</a>][<a href=\"https://github.com/wenhuchen/Variational-Vocabulary-Selection.git\">code</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of NAACL 2019, Minneapolis, USA",
+    "paper_link": "https://arxiv.org/abs/1902.10339",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/wenhuchen/Variational-Vocabulary-Selection.git"
+    }
   },
   {
     "title": "XL-NBT: A cross-lingual Neural Belief Tracking Framework",
     "authors": "Wenhu Chen, Jianshu Chen, Yu Su, Xin Wang, Dong Yu, Xifeng Yan, William Wang.",
-    "links": "<em>Proceedings of EMNLP 2018, Brussels, Belgium </em> [<a href=\"https://arxiv.org/abs/1808.06244\">pdf</a>][<a href=\"https://github.com/wenhuchen/Cross-Lingual-NBT\">code</a>][<a href=\"https://www.jiqizhixin.com/articles/2018-10-25-4\">blog</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of EMNLP 2018, Brussels, Belgium ",
+    "paper_link": "https://arxiv.org/abs/1808.06244",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/wenhuchen/Cross-Lingual-NBT",
+      "blog": "https://www.jiqizhixin.com/articles/2018-10-25-4"
+    }
   },
   {
     "title": "Triangular Architecture for Rare Language Translation",
     "authors": "Shuo Ren, Wenhu Chen, Shujie Liu, Mu Li, Ming Zhou, Shuai Ma.",
-    "links": "<em>Proceedings of ACL 2018, Melbourne, Australia</em> [<a href=\"https://arxiv.org/abs/1805.04813\">pdf</a>][<a href=\"https://www.msra.cn/zh-cn/news/features/acl-2018-ta-nmt\">blog</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ACL 2018, Melbourne, Australia",
+    "paper_link": "https://arxiv.org/abs/1805.04813",
+    "website": "",
+    "extra_links": {
+      "blog": "https://www.msra.cn/zh-cn/news/features/acl-2018-ta-nmt"
+    }
   },
   {
     "title": "No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling",
     "authors": "Wenhu Chen *, Xin Wang*, Yuan-Fang Wang, William Wang (*Equal)",
-    "links": "<em>Proceedings of ACL 2018, Melbourne, Australia</em> [<a href=\"https://arxiv.org/abs/1804.09160\">pdf</a>][<a href=\"https://github.com/littlekobe/AREL\">code</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of ACL 2018, Melbourne, Australia",
+    "paper_link": "https://arxiv.org/abs/1804.09160",
+    "website": "",
+    "extra_links": {
+      "code": "https://github.com/littlekobe/AREL"
+    }
   },
   {
     "title": "Variational Knowledge Graph Reasoning",
     "authors": "Wenhu Chen, Wenhan Xiong, Xifeng Yan, William Wang.",
-    "links": "<em>Proceedings of NAACL 2018, New Orleans, CA </em> [<a href=\"https://arxiv.org/abs/1803.06581\">pdf</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of NAACL 2018, New Orleans, CA ",
+    "paper_link": "https://arxiv.org/abs/1803.06581",
+    "website": ""
   },
   {
     "title": "Generative Bridging Network in Neural Sequence Prediction",
     "authors": "Wenhu Chen, Guanlin Li, Shuo Ren, Shujie Liu, Zhirui Zhang, Mu Li, Ming Zhou.",
-    "links": "<em>Proceedings of NAACL 2018, New Orleans, CA </em> [<a href=\"https://arxiv.org/abs/1706.09152\">pdf</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of NAACL 2018, New Orleans, CA ",
+    "paper_link": "https://arxiv.org/abs/1706.09152",
+    "website": ""
   },
   {
     "title": "Video Captioning via Hierarchical Reinforcement Learning",
     "authors": "Xin Wang, Wenhu Chen, Jiawei Wu, Yuan-fang Wang, William Wang.",
-    "links": "<em>Proceedings of CVPR 2018, Salt Lake City, UTAH </em> [<a href=\"https://arxiv.org/abs/1711.11135\">pdf</a>]",
-    "category": "collaboration",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of CVPR 2018, Salt Lake City, UTAH ",
+    "paper_link": "https://arxiv.org/abs/1711.11135",
+    "website": ""
   },
   {
     "title": "Guided alignment training for topic-aware neural machine translation",
     "authors": "Wenhu Chen, Evgeny Matusov, Shahram Khadivi, JT Peter.",
-    "links": "<em>Proceedings of AMTA 2016, Austin, TX </em> [<a href=\"https://arxiv.org/abs/1607.01628\">pdf</a>]",
-    "category": "first-author",
-    "status": "accepted"
+    "status": "accepted",
+    "venue": "Proceedings of AMTA 2016, Austin, TX ",
+    "paper_link": "https://arxiv.org/abs/1607.01628",
+    "website": ""
   }
 ]
