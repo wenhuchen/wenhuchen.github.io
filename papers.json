@@ -1,5 +1,13 @@
 [
   {
+    "title": "MMEB-V3: Measuring the Performance Gaps of Omni-Modality Embedding Models",
+    "authors": "Haohang Huang, Xuan Lu, Mingyi Su, Xuan Zhang, Ziyan Jiang, Ping Nie, Kai Zou, Tomas Pfister, Wenhu Chen, Wei Zhang, Xiaoyu Shen, Rui Meng",
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2604.23321",
+    "website": "https://github.com/TIGER-AI-Lab/VLM2Vec/tree/olm2vec"
+  },
+  {
     "title": "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling",
     "authors": "Keming Wu, Zuhao Yang, Kaichen Zhang, Shizun Wang, Haowei Zhu, Sicong Leng, Zhongyu Yang, Qijie Wang, Sudong Wang, Ziting Wang, Zili Wang, Hui Zhang, Haonan Wang, Hang Zhou, Yifan Pu, Xingxuan Li, Fangneng Zhan, Bo Li, Lidong Bing, Yuxin Song, Ziwei Liu, Wenhu Chen, Jingdong Wang, Xinchao Wang, Xiaojuan Qi, Shijian Lu, Bin Wang",
     "status": "preprint",
