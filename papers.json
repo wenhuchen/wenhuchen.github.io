@@ -5,7 +5,7 @@
     "status": "preprint",
     "venue": "Manuscript",
     "paper_link": "https://arxiv.org/abs/2604.23321",
-    "website": "https://github.com/TIGER-AI-Lab/VLM2Vec/tree/olm2vec"
+    "code": "https://github.com/TIGER-AI-Lab/VLM2Vec/tree/olm2vec"
   },
   {
     "title": "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling",
@@ -13,7 +13,7 @@
     "status": "preprint",
     "venue": "Manuscript",
     "paper_link": "https://arxiv.org/abs/2604.28185",
-    "website": "https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation"
+    "code": "https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation"
   },
   {
     "title": "Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation",
@@ -37,7 +37,7 @@
     "status": "preprint",
     "venue": "Manuscript",
     "paper_link": "https://arxiv.org/abs/2604.08523",
-    "website": "https://github.com/TIGER-AI-Lab/ClawBench"
+    "code": "https://github.com/TIGER-AI-Lab/ClawBench"
   },
   {
     "title": "SWE-Next: Scalable Real-World Software Engineering Tasks for Agents",
@@ -53,10 +53,7 @@
     "status": "preprint",
     "venue": "Manuscript",
     "paper_link": "https://arxiv.org/abs/2603.12698",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/TIGER-AI-Lab/EvolveCoder"
-    }
+    "code": "https://github.com/TIGER-AI-Lab/EvolveCoder"
   },
   {
     "title": "OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis",
@@ -64,7 +61,7 @@
     "status": "preprint",
     "venue": "Manuscript",
     "paper_link": "https://arxiv.org/abs/2603.20278",
-    "website": "https://github.com/TIGER-AI-Lab/OpenResearcher"
+    "code": "https://github.com/TIGER-AI-Lab/OpenResearcher"
   },
   {
     "title": "VisPhyWorld: Probing Physical Reasoning via Code-Driven Video Reconstruction",
@@ -79,16 +76,14 @@
     "authors": "Qixin Xu, Haozhe Wang, Che Liu, Fangzhen Lin, Wenhu Chen",
     "status": "preprint",
     "venue": "Manuscript",
-    "paper_link": "https://arxiv.org/abs/2512.12658",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2512.12658"
   },
   {
     "title": "RTGen: Real-Time Generative Detection Transformer",
     "authors": "Chi Ruan, Jiying Zhao, Wenhu Chen",
     "status": "preprint",
     "venue": "Manuscript",
-    "paper_link": "https://arxiv.org/abs/2502.20622",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2502.20622"
   },
   {
     "title": "VideoScore2: Think before You Score in Generative Video Evaluation",
@@ -104,10 +99,7 @@
     "status": "preprint",
     "venue": "Manuscript",
     "paper_link": "https://arxiv.org/abs/2509.22638",
-    "website": "",
-    "extra_links": {
-      "Code": "https://github.com/sail-sg/feedback-conditional-policy"
-    }
+    "code": "https://github.com/sail-sg/feedback-conditional-policy"
   },
   {
     "title": "WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents",
@@ -115,18 +107,14 @@
     "status": "preprint",
     "venue": "Manuscript",
     "paper_link": "https://arxiv.org/abs/2509.06501",
-    "website": "",
-    "extra_links": {
-      "Code": "https://github.com/hkust-nlp/WebExplorer"
-    }
+    "code": "https://github.com/hkust-nlp/WebExplorer"
   },
   {
     "title": "PhyX: Does Your Model Have the \"Wits\" for Physical Reasoning?",
     "authors": "Hui Shen, Taiqiang Wu, Qi Han, Yunta Hsieh, Jizhou Wang, Yuyue Zhang, Yuxin Cheng, Zijian Hao, Yuansheng Ni, Xin Wang, Zhongwei Wan, Kai Zhang, Wendong Xu, Jing Xiong, Ping Luo, Wenhu Chen, Chaofan Tao, Zhuoqing Mao, Ngai Wong",
     "status": "preprint",
     "venue": "Manuscript",
-    "paper_link": "https://arxiv.org/abs/2505.15929",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2505.15929"
   },
   {
     "title": "VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation",
@@ -141,8 +129,7 @@
     "authors": "Yucheng Shi, Wenhao Yu, Wenlin Yao, Wenhu Chen, Ninghao Liu",
     "status": "preprint",
     "venue": "Manuscript",
-    "paper_link": "https://arxiv.org/abs/2503.23434",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2503.23434"
   },
   {
     "title": "Bad Seeing or Bad Thinking? Rewarding Perception-Reasoning Synergy for Scalable Vision-Language Reasoning",
@@ -150,8 +137,7 @@
     "status": "accepted",
     "award": "Spotlight (Top 10% of accepted papers)",
     "venue": "Proceedings of ICML 2026, Seoul, South Korea",
-    "paper_link": "#",
-    "website": ""
+    "paper_link": "#"
   },
   {
     "title": "Context Forcing: Consistent Autoregressive Video Generation with Long Context",
@@ -176,7 +162,7 @@
     "award": "Best Paper Award on SPOT@ICLR26",
     "venue": "TMLR 2026",
     "paper_link": "https://arxiv.org/abs/2509.01055",
-    "website": "https://github.com/TIGER-AI-Lab/verl-tool/"
+    "code": "https://github.com/TIGER-AI-Lab/verl-tool/"
   },
   {
     "title": "SWE-QA-Pro: A Representative Benchmark and Scalable Training Recipe for Repository-Level Code Understanding",
@@ -184,7 +170,7 @@
     "status": "accepted",
     "venue": "Findings of ACL 2026, San Diego, California",
     "paper_link": "https://arxiv.org/abs/2603.16124",
-    "website": "https://github.com/TIGER-AI-Lab/SWE-QA-Pro"
+    "code": "https://github.com/TIGER-AI-Lab/SWE-QA-Pro"
   },
   {
     "title": "BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent",
@@ -199,8 +185,7 @@
     "authors": "Chenlong Wang, Yuhang Chen, Zhihan Hu, Dongping Chen, Wenhu Chen, Sarah Wiegreffe, Tianyi Zhou",
     "status": "accepted",
     "venue": "Findings of CVPR 2026, Denver, US",
-    "paper_link": "https://arxiv.org/abs/2602.02140",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2602.02140"
   },
   {
     "title": "Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following",
@@ -273,9 +258,8 @@
     "status": "accepted",
     "venue": "Proceedings of ICLR 2026, Rio de Janeiro, Brazil",
     "paper_link": "https://arxiv.org/abs/2507.08800",
-    "website": "",
     "extra_links": {
-      "Demo": "https://neural-os.com/"
+      "demo": "https://neural-os.com/"
     }
   },
   {
@@ -292,15 +276,14 @@
     "status": "preprint",
     "venue": "Manuscript",
     "paper_link": "https://arxiv.org/abs/2408.14340",
-    "website": "https://github.com/nicolaus625/FM4Music"
+    "code": "https://github.com/nicolaus625/FM4Music"
   },
   {
     "title": "Explanations from Large Language Models Make Small Reasoners Better",
     "authors": "Shiyang Li, Jianshu Chen, Yelong Shen, Zhiyu Chen, Xinlu Zhang, Zekun Li, Hong Wang, Jing Qian, Baolin Peng, Yi Mao, Wenhu Chen, Xifeng Yan",
     "status": "preprint",
     "venue": "AAAI Workshop 2024, Vancouver, Canada",
-    "paper_link": "https://arxiv.org/abs/2210.06726",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2210.06726"
   },
   {
     "title": "CodeEditorBench: Evaluating Code Editing Capability of Large Language Models",
@@ -333,7 +316,7 @@
     "status": "accepted",
     "venue": "TMLR 2025",
     "paper_link": "https://arxiv.org/abs/2505.16175",
-    "website": "https://github.com/TIGER-AI-Lab/QuickVideo"
+    "code": "https://github.com/TIGER-AI-Lab/QuickVideo"
   },
   {
     "title": "StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs",
@@ -367,10 +350,7 @@
     "award": "Spotlight (Top 10% of accepted papers)",
     "venue": "Proceedings of NeurIPS 2025, San Diego, US",
     "paper_link": "https://arxiv.org/abs/2505.11293",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/raghavlite/B3"
-    }
+    "code": "https://github.com/raghavlite/B3"
   },
   {
     "title": "VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning",
@@ -388,9 +368,8 @@
     "award": "Spotlight (Top 10% of accepted papers)",
     "venue": "Proceedings of NeurIPS 2025, San Diego, US",
     "paper_link": "https://arxiv.org/abs/2503.23307",
-    "website": "",
     "extra_links": {
-      "Demo": "https://congwei1230.github.io/MoCha/"
+      "demo": "https://congwei1230.github.io/MoCha/"
     }
   },
   {
@@ -430,8 +409,7 @@
     "authors": "Gheorghe Comanici, Eric Bieber, Mike Schaekermann, Ice Pasupat, Noveen Sachdeva, Inderjit Dhillon, Marcel Blistein, Ori Ram, Dan Zhang, Evan Rosen, Luke Marris, Sam Petulla, Colin Gaffney, Asaf Aharoni, Nathan Lintz, Tiago Cardal Pais, Henrik Jacobsson, Idan Szpektor, Nan-Jiang Jiang, Krishna Haridasan, Ahmed Omran, Nikunj Saunshi, Dara Bahri, ..., Wenhu Chen, ....",
     "status": "accepted",
     "venue": "LLM Report, 2025",
-    "paper_link": "https://arxiv.org/abs/2507.06261",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2507.06261"
   },
   {
     "title": "ABC: Achieving Better Control of Multimodal Embeddings using VLMs",
@@ -455,7 +433,7 @@
     "status": "accepted",
     "venue": "Proceedings of COLM 2025, Montreal, Canada",
     "paper_link": "https://arxiv.org/abs/2504.00824",
-    "website": "https://github.com/TIGER-AI-Lab/ScholarCopilot"
+    "code": "https://github.com/TIGER-AI-Lab/ScholarCopilot"
   },
   {
     "title": "Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers",
@@ -487,10 +465,7 @@
     "status": "accepted",
     "venue": "Proceedings of ACL 2025, Vienna, Austria",
     "paper_link": "https://arxiv.org/abs/2412.14457",
-    "website": "",
-    "extra_links": {
-      "Code": "https://github.com/castorini/visa"
-    }
+    "code": "https://github.com/castorini/visa"
   },
   {
     "title": "MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale",
@@ -513,8 +488,7 @@
     "authors": "Weixi Feng, Jiachen Li, Michael Saxon, Tsu-jui Fu, Wenhu Chen, William Yang Wang",
     "status": "accepted",
     "venue": "Findings of ACL 2025, Vienna, Austria",
-    "paper_link": "https://arxiv.org/abs/2406.08656",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2406.08656"
   },
   {
     "title": "VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by VIdeo SpatioTemporal Augmentation",
@@ -530,15 +504,14 @@
     "status": "accepted",
     "venue": "TMLR 2025",
     "paper_link": "https://arxiv.org/abs/2404.02060",
-    "website": "https://github.com/TIGER-AI-Lab/LongICLBench/"
+    "code": "https://github.com/TIGER-AI-Lab/LongICLBench/"
   },
   {
     "title": "UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models",
     "authors": "Sahel Sharifymoghaddam, Shivani Upadhyay, Wenhu Chen, Jimmy Lin",
     "status": "accepted",
     "venue": "Findings of NAACL 2025, New Mexico",
-    "paper_link": "https://arxiv.org/abs/2405.10311",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2405.10311"
   },
   {
     "title": "Harnessing Webpage UIs for Text-Rich Visual Understanding",
@@ -589,7 +562,7 @@
     "paper_link": "https://arxiv.org/abs/2405.01483",
     "website": "https://tiger-ai-lab.github.io/Mantis/",
     "extra_links": {
-      "Demo": "https://huggingface.co/spaces/TIGER-Lab/Mantis"
+      "demo": "https://huggingface.co/spaces/TIGER-Lab/Mantis"
     }
   },
   {
@@ -601,7 +574,7 @@
     "paper_link": "https://arxiv.org/abs/2403.14468",
     "website": "https://tiger-ai-lab.github.io/AnyV2V/",
     "extra_links": {
-      "Demo": "https://huggingface.co/spaces/TIGER-Lab/AnyV2V"
+      "demo": "https://huggingface.co/spaces/TIGER-Lab/AnyV2V"
     }
   },
   {
@@ -620,9 +593,8 @@
     "award": "Spotlight (Top 10% of accepted papers)",
     "venue": "Proceedings of NeurIPS 2024 (dataset track), Vancouver, Canada",
     "paper_link": "https://arxiv.org/abs/2406.01574",
-    "website": "",
     "extra_links": {
-      "Dataset": "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro"
+      "demo": "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro"
     }
   },
   {
@@ -631,9 +603,8 @@
     "status": "accepted",
     "venue": "Proceedings of NeurIPS 2024 (dataset track), Vancouver, Canada",
     "paper_link": "https://arxiv.org/abs/2406.04485",
-    "website": "",
     "extra_links": {
-      "Hugginface Space": "https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena"
+      "demo": "https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena"
     }
   },
   {
@@ -642,9 +613,8 @@
     "status": "accepted",
     "venue": "Proceedings of NeurIPS 2024 (dataset track), Vancouver, Canada",
     "paper_link": "https://arxiv.org/abs/2406.11069",
-    "website": "",
     "extra_links": {
-      "Huggingface Space": "https://huggingface.co/spaces/WildVision/vision-arena"
+      "demo": "https://huggingface.co/spaces/WildVision/vision-arena"
     }
   },
   {
@@ -655,7 +625,7 @@
     "paper_link": "https://arxiv.org/abs/2405.03548",
     "website": "https://tiger-ai-lab.github.io/MAmmoTH2/",
     "extra_links": {
-      "Demo": "https://huggingface.co/spaces/TIGER-Lab/MAmmoTH2"
+      "demo": "https://huggingface.co/spaces/TIGER-Lab/MAmmoTH2"
     }
   },
   {
@@ -672,10 +642,7 @@
     "status": "accepted",
     "venue": "Proceedings of EMNLP 2024, Miami, USA",
     "paper_link": "https://arxiv.org/abs/2406.11251",
-    "website": "",
-    "extra_links": {
-      "Code": "https://github.com/texttron/tevatron/"
-    }
+    "code": "https://github.com/texttron/tevatron/"
   },
   {
     "title": "VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation",
@@ -698,8 +665,7 @@
     "authors": "Yubo Wang, Xueguang Ma, Wenhu Chen",
     "status": "accepted",
     "venue": "Findings of EMNLP 2024, Miami, USA",
-    "paper_link": "https://arxiv.org/abs/2309.02233",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2309.02233"
   },
   {
     "title": "MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series",
@@ -723,9 +689,8 @@
     "status": "accepted",
     "venue": "Proceedings of COLM 2024, Philadelphia, USA",
     "paper_link": "https://arxiv.org/abs/2404.04167",
-    "website": "",
     "extra_links": {
-      "Huggingface": "https://huggingface.co/datasets/m-a-p/MAP-CC"
+      "demo": "https://huggingface.co/datasets/m-a-p/MAP-CC"
     }
   },
   {
@@ -759,15 +724,14 @@
     "status": "accepted",
     "venue": "Findings of ACL 2024, Bangkok, Thailand",
     "paper_link": "https://arxiv.org/abs/2401.13478",
-    "website": "https://github.com/Wusiwei0410/SciMMIR"
+    "code": "https://github.com/Wusiwei0410/SciMMIR"
   },
   {
     "title": "E^2-LLM: Efficient and Extreme Length Extension of Large Language Models",
     "authors": "Jiaheng Liu, Zhiqi Bai, Yuanxing Zhang, Chenchen Zhang, Yu Zhang, Ge Zhang, Jiakai Wang, Haoran Que, Yukang Chen, Wenbo Su, Tiezheng Ge, Jie Fu, Wenhu Chen, Bo Zheng",
     "status": "accepted",
     "venue": "Findings of ACL 2024, Bangkok, Thailand",
-    "paper_link": "https://arxiv.org/abs/2401.06951",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2401.06951"
   },
   {
     "title": "ChatMusician: Fostering Intrinsic Musical Abilities Into LLM",
@@ -790,8 +754,7 @@
     "authors": "Alfonso Amayuelas, Liangming Pan, Wenhu Chen, William Wang",
     "status": "accepted",
     "venue": "Findings of ACL 2024, Bangkok, Thailand",
-    "paper_link": "https://arxiv.org/abs/2305.13712",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2305.13712"
   },
   {
     "title": "TIGERScore: Towards Building Explainable Metric for All Text Generation Tasks",
@@ -809,8 +772,7 @@
     "authors": "Xinyi Wang, Alfonso Amayuelas, Kexun Zhang, Liangming Pan, Wenhu Chen, Wenhu Chen, William Yang Wang",
     "status": "accepted",
     "venue": "Proceedings of ICML 2024, Vienna, Austria",
-    "paper_link": "https://arxiv.org/abs/2402.03268",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2402.03268"
   },
   {
     "title": "MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions",
@@ -827,10 +789,7 @@
     "status": "accepted",
     "venue": "Findings of NAACL 2024, Mexico City, Mexico",
     "paper_link": "https://arxiv.org/abs/2309.08730",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/zihaod/MusiLingo"
-    }
+    "code": "https://github.com/zihaod/MusiLingo"
   },
   {
     "title": "Instruct-Imagen: Image Generation with Multi-modal Instruction",
@@ -872,10 +831,7 @@
     "status": "accepted",
     "venue": "Proceedings of ICLR 2024, Vienna, Austria",
     "paper_link": "https://arxiv.org/abs/2306.00107",
-    "website": "",
-    "extra_links": {
-      "code and data": "https://github.com/yizhilll/MERT"
-    }
+    "code": "https://github.com/yizhilll/MERT"
   },
   {
     "title": "MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning",
@@ -892,7 +848,7 @@
     "status": "preprint",
     "venue": "Manuscript",
     "paper_link": "https://arxiv.org/abs/2305.13246",
-    "website": "https://github.com/InteractiveNLP-Team/awesome-InteractiveNLP-papers"
+    "code": "https://github.com/InteractiveNLP-Team/awesome-InteractiveNLP-papers"
   },
   {
     "title": "Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models",
@@ -901,10 +857,7 @@
     "award": "Oral (53/2042 selected)",
     "venue": "Proceedings of WACV 2024, Hawaii, USA",
     "paper_link": "https://arxiv.org/abs/2211.10950",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/Flash-321/ARLDM"
-    }
+    "code": "https://github.com/Flash-321/ARLDM"
   },
   {
     "title": "DreamEdit: Subject-driven Image Editing",
@@ -920,18 +873,14 @@
     "status": "accepted",
     "venue": "TMLR 2023",
     "paper_link": "https://arxiv.org/abs/2211.12588",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/wenhuchen/Program-of-Thoughts"
-    }
+    "code": "https://github.com/wenhuchen/Program-of-Thoughts"
   },
   {
     "title": "On the Risk of Misinformation Pollution with Large Language Models",
     "authors": "Yikang Pan, Liangming Pan, Wenhu Chen, Preslav Nakov, Min-Yen Kan, William Yang Wang",
     "status": "accepted",
     "venue": "Findings of EMNLP 2023, Singapore",
-    "paper_link": "https://arxiv.org/abs/2305.13661",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2305.13661"
   },
   {
     "title": "EDIS: Entity-Driven Image Search over Multimodal Web Content",
@@ -939,10 +888,7 @@
     "status": "accepted",
     "venue": "Proceedings of EMNLP 2023, Singapore",
     "paper_link": "https://arxiv.org/abs/2305.13631",
-    "website": "",
-    "extra_links": {
-      "code and data": "https://github.com/emerisly/EDIS"
-    }
+    "code": "https://github.com/emerisly/EDIS"
   },
   {
     "title": "TheoremQA: A Theorem-driven Question Answering dataset",
@@ -950,10 +896,7 @@
     "status": "accepted",
     "venue": "Proceedings of EMNLP 2023, Singapore",
     "paper_link": "https://arxiv.org/abs/2305.12524",
-    "website": "",
-    "extra_links": {
-      "code and data": "https://github.com/TIGER-AI-Lab/TheoremQA"
-    }
+    "code": "https://github.com/TIGER-AI-Lab/TheoremQA"
   },
   {
     "title": "Subject-driven Text-to-Image Generation via Apprenticeship Learning",
@@ -969,9 +912,8 @@
     "status": "accepted",
     "venue": "Proceedings of NeurIPS 2023 (dataset track), New Orleans, USA",
     "paper_link": "https://arxiv.org/abs/2306.10548",
-    "website": "",
     "extra_links": {
-      "benchmark": "https://marble-bm.shef.ac.uk/"
+      "demo": "https://marble-bm.shef.ac.uk/"
     }
   },
   {
@@ -988,8 +930,7 @@
     "status": "accepted",
     "award": "Area Chair Award in Question Answering Track",
     "venue": "Proceedings of IJCNLP-AACL 2023, Bali, Indonesia",
-    "paper_link": "https://arxiv.org/abs/2110.07803",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2110.07803"
   },
   {
     "title": "DePlot: One-shot visual language reasoning by plot-to-table translation",
@@ -997,7 +938,6 @@
     "status": "accepted",
     "venue": "Findings of ACL 2023, Toronto, Canada",
     "paper_link": "https://arxiv.org/abs/2212.10505",
-    "website": "",
     "extra_links": {
       "demo": "https://huggingface.co/google/deplot"
     }
@@ -1008,10 +948,7 @@
     "status": "accepted",
     "venue": "Proceedings of ACL 2023, Toronto, Canada",
     "paper_link": "https://arxiv.org/abs/2305.01750",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/TIGER-AI-Lab/KB-BINDER"
-    }
+    "code": "https://github.com/TIGER-AI-Lab/KB-BINDER"
   },
   {
     "title": "Large Language Models are few(1)-shot Table Reasoners",
@@ -1019,50 +956,42 @@
     "status": "accepted",
     "venue": "Findings of EACL 2023, Dubrovnik, Croatia",
     "paper_link": "https://arxiv.org/abs/2210.06710",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/TIGER-AI-Lab/TableCoT"
-    }
+    "code": "https://github.com/TIGER-AI-Lab/TableCoT"
   },
   {
     "title": "Augmenting Pre-trained Language Models with QA-Memory for Open-Domain Question Answering",
     "authors": "Wenhu Chen, Pat Verga, Michiel de Jong, John Wieting, William W. Cohen",
     "status": "accepted",
     "venue": "Proceedings of EACL 2023, Dubrovnik, Croatia",
-    "paper_link": "https://arxiv.org/abs/2204.04581",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2204.04581"
   },
   {
     "title": "Re-Imagen: Retrieval-Augmented Text-to-Image Generator",
     "authors": "Wenhu Chen, Hexiang Hu, Chitwan Saharia, William W. Cohen",
     "status": "accepted",
     "venue": "Proceedings of ICLR 2023, Kigali, Rwanda ",
-    "paper_link": "https://arxiv.org/abs/2209.14491",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2209.14491"
   },
   {
     "title": "QA Is the New KR: Question-Answer Pairs as Knowledge Bases",
     "authors": "William W. Cohen, Wenhu Chen, Michiel De Jong, Nitish Gupta, Alessandro Presta, Pat Verga, John Wieting (All Equal Contribution)",
     "status": "accepted",
     "venue": "Proceedings of AAAI 2023, Senior Member Track",
-    "paper_link": "https://arxiv.org/abs/2207.00630",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2207.00630"
   },
   {
     "title": "MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text",
     "authors": "Wenhu Chen, Hexiang Hu, Xi Chen, Pat Verga, William W. Cohen",
     "status": "accepted",
     "venue": "Proceedings of EMNLP 2022, Abu Dhabi ",
-    "paper_link": "https://arxiv.org/abs/2210.02928",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2210.02928"
   },
   {
     "title": "Controllable Dialogue Simulation with In-context Learning",
     "authors": "Zekun Li, Wenhu Chen, Shiyang Li, Hong Wang, Jing Qian, Xifeng Yan",
     "status": "accepted",
     "venue": "Findings of EMNLP 2022, Abu Dhabi ",
-    "paper_link": "https://arxiv.org/abs/2210.04185",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2210.04185"
   },
   {
     "title": "HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data",
@@ -1070,10 +999,7 @@
     "status": "accepted",
     "venue": "Findings of ACL 2022, Virtual",
     "paper_link": "https://arxiv.org/abs/2204.13243",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/entitize/HybridDialogue"
-    }
+    "code": "https://github.com/entitize/HybridDialogue"
   },
   {
     "title": "A Dataset for Answering Time-Sensitive Questions",
@@ -1081,10 +1007,7 @@
     "status": "accepted",
     "venue": "Proceedings of NeurIPS 2021 (dataset track), Virtual",
     "paper_link": "http://arxiv.org/abs/2108.06314",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/wenhuchen/Time-Sensitive-QA"
-    }
+    "code": "https://github.com/wenhuchen/Time-Sensitive-QA"
   },
   {
     "title": "Local Explanation of Dialogue Response Generation",
@@ -1092,10 +1015,7 @@
     "status": "accepted",
     "venue": "Proceedings of NeurIPS 2021, Virtual",
     "paper_link": "https://arxiv.org/abs/2106.06528",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/Pascalson/LERG"
-    }
+    "code": "https://github.com/Pascalson/LERG"
   },
   {
     "title": "Counterfactual Maximum Likelihood Estimation for Training Deep Networks",
@@ -1103,10 +1023,7 @@
     "status": "accepted",
     "venue": "Proceedings of NeurIPS 2021, Virtual",
     "paper_link": "https://arxiv.org/abs/2106.03831",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/WANGXinyiLinda/CMLE"
-    }
+    "code": "https://github.com/WANGXinyiLinda/CMLE"
   },
   {
     "title": "FinQA: A Dataset of Numerical Reasoning over Financial Data",
@@ -1114,18 +1031,14 @@
     "status": "accepted",
     "venue": "Proceedings of EMNLP 2021, Virtual",
     "paper_link": "https://arxiv.org/abs/2109.00122",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/czyssrs/finqa"
-    }
+    "code": "https://github.com/czyssrs/finqa"
   },
   {
     "title": "Task-adaptive Pre-training and Self-training are Complementary for Natural Language Understanding",
     "authors": "Shiyang Li, Semih Yavuz, Wenhu Chen, Xifeng Yan",
     "status": "accepted",
     "venue": "Findings of EMNLP 2021, Virtual",
-    "paper_link": "https://arxiv.org/abs/2109.06466",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/2109.06466"
   },
   {
     "title": "Zero-shot Fact Verification by Claim Generation",
@@ -1133,10 +1046,7 @@
     "status": "accepted",
     "venue": "Proceedings of ACL 2021, Virtual",
     "paper_link": "https://arxiv.org/abs/2105.14682",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/teacherpeterpan/Zero-shot-Fact-Verification"
-    }
+    "code": "https://github.com/teacherpeterpan/Zero-shot-Fact-Verification"
   },
   {
     "title": "A Systematic Investigation of KB-Text Embedding Alignment at Scale",
@@ -1144,10 +1054,7 @@
     "status": "accepted",
     "venue": "Proceedings of ACL 2021, Virtual",
     "paper_link": "https://arxiv.org/abs/2106.01586",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/dki-lab/joint-kb-text-embedding"
-    }
+    "code": "https://github.com/dki-lab/joint-kb-text-embedding"
   },
   {
     "title": "Unsupervised Multi-hop Question Answering by Question Generation",
@@ -1155,10 +1062,7 @@
     "status": "accepted",
     "venue": "Proceedings of NAACL 2021, Mexico City, Mexico",
     "paper_link": "https://arxiv.org/abs/2010.12623",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/teacherpeterpan/Unsupervised-Multi-hop-QA"
-    }
+    "code": "https://github.com/teacherpeterpan/Unsupervised-Multi-hop-QA"
   },
   {
     "title": "Open Question Answering over Tables and Text",
@@ -1166,13 +1070,7 @@
     "status": "accepted",
     "venue": "Proceedings of ICLR 2021, Virtual",
     "paper_link": "https://arxiv.org/abs/2010.10439",
-    "website": "",
-    "extra_links": {
-      "data and code": "https://github.com/wenhuchen/OTT-QA",
-      "codalab": "https://competitions.codalab.org/competitions/27324",
-      "slides": "images/ott-qa.pptx",
-      "talk-slides": "images/ICLR-talk.pptx"
-    }
+    "code": "https://github.com/wenhuchen/OTT-QA"
   },
   {
     "title": "Meta Module Network for Compositional Visual Reasoning",
@@ -1181,10 +1079,7 @@
     "award": "Best Student Paper Honorable Mention",
     "venue": "Proceedings of WACV 2021, Hawaii, USA ",
     "paper_link": "https://arxiv.org/abs/1910.03230",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/wenhuchen/Meta-Module-Network"
-    }
+    "code": "https://github.com/wenhuchen/Meta-Module-Network"
   },
   {
     "title": "KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation",
@@ -1192,11 +1087,7 @@
     "status": "accepted",
     "venue": "Proceedings of EMNLP 2020, Punta Cana, Dominican",
     "paper_link": "https://arxiv.org/abs/2010.02307",
-    "website": "",
-    "extra_links": {
-      "data and code": "https://github.com/wenhuchen/KGPT",
-      "slides": "images/EMNLP-Oral.pptx"
-    }
+    "code": "https://github.com/wenhuchen/KGPT"
   },
   {
     "title": "HybridQA: A Dataset of Multi-Hop Question Answering over Tabular and Textual Data",
@@ -1205,10 +1096,7 @@
     "venue": "Findings of EMNLP 2020",
     "paper_link": "https://arxiv.org/abs/2004.07347",
     "website": "https://hybridqa.github.io/",
-    "extra_links": {
-      "data and code": "https://github.com/wenhuchen/HybridQA",
-      "codalab": "https://competitions.codalab.org/competitions/24420"
-    }
+    "code": "https://github.com/wenhuchen/HybridQA"
   },
   {
     "title": "Logic2Text: High-Fidelity Natural Language Generation from Logical Forms",
@@ -1216,10 +1104,7 @@
     "status": "accepted",
     "venue": "Findings of EMNLP 2020",
     "paper_link": "https://arxiv.org/abs/2004.14579",
-    "website": "",
-    "extra_links": {
-      "data and code": "https://github.com/czyssrs/Logic2Text"
-    }
+    "code": "https://github.com/czyssrs/Logic2Text"
   },
   {
     "title": "Logical Natural Language Generation from Open-Domain Tables",
@@ -1227,12 +1112,7 @@
     "status": "accepted",
     "venue": "Proceedings of ACL 2020, Seattle, USA",
     "paper_link": "https://arxiv.org/abs/2004.10404",
-    "website": "",
-    "extra_links": {
-      "data and code": "https://github.com/wenhuchen/LogicNLG",
-      "codalab": "https://competitions.codalab.org/competitions/24527",
-      "slides": "images/ACL2020-Oral.pptx"
-    }
+    "code": "https://github.com/wenhuchen/LogicNLG"
   },
   {
     "title": "Few-shot NLG with Pre-trained Language Model",
@@ -1240,10 +1120,7 @@
     "status": "accepted",
     "venue": "Proceedings of ACL 2020, Seattle, USA",
     "paper_link": "https://arxiv.org/abs/1904.09521",
-    "website": "",
-    "extra_links": {
-      "data and code": "https://github.com/czyssrs/Few-Shot-NLG"
-    }
+    "code": "https://github.com/czyssrs/Few-Shot-NLG"
   },
   {
     "title": "VIOLIN: A Large-Scale Dataset for Video-and-Language Inference",
@@ -1251,10 +1128,7 @@
     "status": "accepted",
     "venue": "Proceedings of CVPR 2020, Seattle, USA",
     "paper_link": "https://arxiv.org/abs/2003.11618",
-    "website": "",
-    "extra_links": {
-      "data and code": "https://github.com/jimmy646/violin"
-    }
+    "code": "https://github.com/jimmy646/violin"
   },
   {
     "title": "TabFact: A Large-scale Dataset for Table-based Fact Verification",
@@ -1270,27 +1144,21 @@
     "status": "accepted",
     "venue": "Proceedings of AAAI 2020, New York, US",
     "paper_link": "https://arxiv.org/abs/2001.02332",
-    "website": "",
-    "extra_links": {
-      "blog": "https://blog.csdn.net/qq_38382642/article/details/104109825",
-      "code": "https://github.com/Panda0406/Zero-shot-knowledge-graph-relational-learning"
-    }
+    "code": "https://github.com/Panda0406/Zero-shot-knowledge-graph-relational-learning"
   },
   {
     "title": "Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting",
     "authors": "Shiyang Li, Xiaoyong Jin, Yao Xuan, Xiyou Zhou, Wenhu Chen, Yu-Xiang Wang, Xifeng Yan",
     "status": "accepted",
     "venue": "Proceedings of NeurIPS 2019, Vancouver, Canada",
-    "paper_link": "https://arxiv.org/abs/1907.00235",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/1907.00235"
   },
   {
     "title": "Interpreting and Improving Deep Neural SLU Models via Vocabulary Importance",
     "authors": "Yilin Shen, Wenhu Chen, Hongxia Jin",
     "status": "accepted",
     "venue": "Proceedings of INTERSPEECH 2019, Graz, Austria",
-    "paper_link": "https://www.isca-archive.org/interspeech_2019/shen19_interspeech.pdf",
-    "website": ""
+    "paper_link": "https://www.isca-archive.org/interspeech_2019/shen19_interspeech.pdf"
   },
   {
     "title": "Semantically Conditioned Dialog Response Generation via Hierarchical Disentangled Self-Attention",
@@ -1298,10 +1166,7 @@
     "status": "accepted",
     "venue": "Proceedings of ACL 2019, Florence, Italy",
     "paper_link": "https://arxiv.org/abs/1905.12866",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/wenhuchen/HDSA-Dialog"
-    }
+    "code": "https://github.com/wenhuchen/HDSA-Dialog"
   },
   {
     "title": "Global Textual Relation Embedding for Relational Understanding",
@@ -1309,10 +1174,7 @@
     "status": "accepted",
     "venue": "Proceedings of ACL 2019, Florence, Italy ",
     "paper_link": "https://arxiv.org/abs/1906.00550",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/czyssrs/GloREPlus"
-    }
+    "code": "https://github.com/czyssrs/GloREPlus"
   },
   {
     "title": "Mining Algorithm Roadmap in Scientific Publications",
@@ -1320,10 +1182,7 @@
     "status": "accepted",
     "venue": "Proceedings of KDD 2019, Alaska, USA",
     "paper_link": "https://dl.acm.org/citation.cfm?id=3330913",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/zhw12/AlgMap"
-    }
+    "code": "https://github.com/zhw12/AlgMap"
   },
   {
     "title": "How Large A Vocabulary Does Text Classification Need? A Variational Approach on Vocabulary Selection",
@@ -1331,10 +1190,7 @@
     "status": "accepted",
     "venue": "Proceedings of NAACL 2019, Minneapolis, USA",
     "paper_link": "https://arxiv.org/abs/1902.10339",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/wenhuchen/Variational-Vocabulary-Selection.git"
-    }
+    "code": "https://github.com/wenhuchen/Variational-Vocabulary-Selection.git"
   },
   {
     "title": "XL-NBT: A cross-lingual Neural Belief Tracking Framework",
@@ -1342,22 +1198,14 @@
     "status": "accepted",
     "venue": "Proceedings of EMNLP 2018, Brussels, Belgium ",
     "paper_link": "https://arxiv.org/abs/1808.06244",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/wenhuchen/Cross-Lingual-NBT",
-      "blog": "https://www.jiqizhixin.com/articles/2018-10-25-4"
-    }
+    "code": "https://github.com/wenhuchen/Cross-Lingual-NBT"
   },
   {
     "title": "Triangular Architecture for Rare Language Translation",
     "authors": "Shuo Ren, Wenhu Chen, Shujie Liu, Mu Li, Ming Zhou, Shuai Ma.",
     "status": "accepted",
     "venue": "Proceedings of ACL 2018, Melbourne, Australia",
-    "paper_link": "https://arxiv.org/abs/1805.04813",
-    "website": "",
-    "extra_links": {
-      "blog": "https://www.msra.cn/zh-cn/news/features/acl-2018-ta-nmt"
-    }
+    "paper_link": "https://arxiv.org/abs/1805.04813"
   },
   {
     "title": "No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling",
@@ -1365,41 +1213,34 @@
     "status": "accepted",
     "venue": "Proceedings of ACL 2018, Melbourne, Australia",
     "paper_link": "https://arxiv.org/abs/1804.09160",
-    "website": "",
-    "extra_links": {
-      "code": "https://github.com/littlekobe/AREL"
-    }
+    "code": "https://github.com/littlekobe/AREL"
   },
   {
     "title": "Variational Knowledge Graph Reasoning",
     "authors": "Wenhu Chen, Wenhan Xiong, Xifeng Yan, William Wang.",
     "status": "accepted",
     "venue": "Proceedings of NAACL 2018, New Orleans, CA ",
-    "paper_link": "https://arxiv.org/abs/1803.06581",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/1803.06581"
   },
   {
     "title": "Generative Bridging Network in Neural Sequence Prediction",
     "authors": "Wenhu Chen, Guanlin Li, Shuo Ren, Shujie Liu, Zhirui Zhang, Mu Li, Ming Zhou.",
     "status": "accepted",
     "venue": "Proceedings of NAACL 2018, New Orleans, CA ",
-    "paper_link": "https://arxiv.org/abs/1706.09152",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/1706.09152"
   },
   {
     "title": "Video Captioning via Hierarchical Reinforcement Learning",
     "authors": "Xin Wang, Wenhu Chen, Jiawei Wu, Yuan-fang Wang, William Wang.",
     "status": "accepted",
     "venue": "Proceedings of CVPR 2018, Salt Lake City, UTAH ",
-    "paper_link": "https://arxiv.org/abs/1711.11135",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/1711.11135"
   },
   {
     "title": "Guided alignment training for topic-aware neural machine translation",
     "authors": "Wenhu Chen, Evgeny Matusov, Shahram Khadivi, JT Peter.",
     "status": "accepted",
     "venue": "Proceedings of AMTA 2016, Austin, TX ",
-    "paper_link": "https://arxiv.org/abs/1607.01628",
-    "website": ""
+    "paper_link": "https://arxiv.org/abs/1607.01628"
   }
 ]

@@ -338,6 +338,7 @@
               let linksHtml = '';
               if (paper.paper_link) linksHtml += `<a href="${paper.paper_link}">pdf</a>`;
               if (paper.website) linksHtml += `<a href="${paper.website}">website</a>`;
+              if (paper.code) linksHtml += `<a href="${paper.code}">code</a>`;
               if (paper.extra_links) {
                 for (const [label, url] of Object.entries(paper.extra_links)) {
                   linksHtml += `<a href="${url}">${label}</a>`;
