@@ -1,5 +1,12 @@
 [
   {
+    "title": "WorldReasonBench: Human-Aligned Stress Testing of Video Generators as Future World-State Predictors",
+    "authors": "Keming Wu, Yijing Cui, Wenhan Xue, Qijie Wang, Xuan Luo, Zhiyuan Feng, Zuhao Yang, Sudong Wang, Sicong Jiang, Haowei Zhu, Zihan Wang, Ping Nie, Wenhu Chen, Bin Wang",
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2605.10434"
+  },
+  {
     "title": "Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction",
     "authors": "Zhuofeng Li, Haoxiang Zhang, Cong Wei, Pan Lu, Ping Nie, Yi Lu, Yuyang Bai, Shangbin Feng, Hangxiao Zhu, Ming Zhong, Yuyu Zhang, Jianwen Xie, Yejin Choi, James Zou, Jiawei Han, Wenhu Chen, Jimmy Lin, Dongfu Jiang, Yu Zhang",
     "status": "preprint",
@@ -145,7 +152,7 @@
     "status": "accepted",
     "award": "Spotlight (Top 10% of accepted papers)",
     "venue": "Proceedings of ICML 2026, Seoul, South Korea",
-    "paper_link": "#"
+    "paper_link": "https://arxiv.org/abs/2605.14054"
   },
   {
     "title": "Context Forcing: Consistent Autoregressive Video Generation with Long Context",
