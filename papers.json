@@ -1,5 +1,19 @@
 [
   {
+    "title": "Starve to Perceive: Taming Lazy Perception in VLMs with Constrained Visual Bandwidth",
+    "authors": "Yuhuan Wu, Cong Wei, Fangzhen Lin, Wenhu Chen, Haozhe Wang",
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2605.18603"
+  },
+  {
+    "title": "RewardHarness: Self-Evolving Agentic Post-Training",
+    "authors": "Yuxuan Zhang, Penghui Du, Bo Li, Cong Wei, Junwen Miao, Huaisong Zhang, Songcheng Cai, Yubo Wang, Dongfu Jiang, Yuyu Zhang, Ping Nie, Wenhu Chen, Changqian Yu, Kelsey R. Allen",
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2605.08703"
+  },
+  {
     "title": "WorldReasonBench: Human-Aligned Stress Testing of Video Generators as Future World-State Predictors",
     "authors": "Keming Wu, Yijing Cui, Wenhan Xue, Qijie Wang, Xuan Luo, Zhiyuan Feng, Zuhao Yang, Sudong Wang, Sicong Jiang, Haowei Zhu, Zihan Wang, Ping Nie, Wenhu Chen, Bin Wang",
     "status": "preprint",
@@ -150,7 +164,7 @@
     "title": "Bad Seeing or Bad Thinking? Rewarding Perception-Reasoning Synergy for Scalable Vision-Language Reasoning",
     "authors": "Haozhe Wang, Qixin Xu, Changpeng Wang, Taofeng Xue, Chong Peng, Wenhu Chen, Fangzhen Lin",
     "status": "accepted",
-    "award": "Spotlight (Top 10% of accepted papers)",
+    "award": "Oral (Top 5% of accepted papers)",
     "venue": "Proceedings of ICML 2026, Seoul, South Korea",
     "paper_link": "https://arxiv.org/abs/2605.14054"
   },
