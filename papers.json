@@ -8,6 +8,13 @@
     "website": "https://www.minimax.io/"
   },
   {
+    "title": "WorldBench: A Challenging and Visually Diverse Multimodal Reasoning Benchmark",
+    "authors": "Yida Yin, Harish Krishnakumar, Chung Peng Lee, Boya Zeng, Wenhao Chai, Shengbang Tong, Wenhu Chen, Hu Xu, Xingyu Fu, Gabriel Sarch, Aleksandra Korolova, Zhuang Liu",
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2606.06538"
+  },
+  {
     "title": "Starve to Perceive: Taming Lazy Perception in VLMs with Constrained Visual Bandwidth",
     "authors": "Yuhuan Wu, Cong Wei, Fangzhen Lin, Wenhu Chen, Haozhe Wang",
     "status": "preprint",
