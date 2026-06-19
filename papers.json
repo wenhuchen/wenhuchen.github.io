@@ -8,6 +8,14 @@
     "website": "https://www.minimax.io/"
   },
   {
+    "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
+    "authors": "Yi Lu, Zhuofeng Li, Ping Nie, Haoxiang Zhang, Yuyu Zhang, Kai Zou, Wenhu Chen, Jimmy Lin, Dongfu Jiang, Yu Zhang",
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2606.14885",
+    "code": "https://github.com/EigenTom/DR-DCI"
+  },
+  {
     "title": "WorldBench: A Challenging and Visually Diverse Multimodal Reasoning Benchmark",
     "authors": "Yida Yin, Harish Krishnakumar, Chung Peng Lee, Boya Zeng, Wenhao Chai, Shengbang Tong, Wenhu Chen, Hu Xu, Xingyu Fu, Gabriel Sarch, Aleksandra Korolova, Zhuang Liu",
     "status": "preprint",
@@ -17,8 +25,8 @@
   {
     "title": "Starve to Perceive: Taming Lazy Perception in VLMs with Constrained Visual Bandwidth",
     "authors": "Yuhuan Wu, Cong Wei, Fangzhen Lin, Wenhu Chen, Haozhe Wang",
-    "status": "preprint",
-    "venue": "Manuscript",
+    "status": "accepted",
+    "venue": "Proceedings of ECCV 2026",
     "paper_link": "https://arxiv.org/abs/2605.18603"
   },
   {
@@ -235,6 +243,7 @@
     "title": "Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following",
     "authors": "Tianyi Xiong, Yi Ge, Ming Li, Zuolong Zhang, Pranav Kulkarni, Kaishen Wang, Qi He, Zeying Zhu, Chenxi Liu, Ruibo Chen, Tong Zheng, Yanshuo Chen, Xiyao Wang, Renrui Zhang, Wenhu Chen, Heng Huang",
     "status": "accepted",
+    "award": "Highlights (Top 10% of accepted papers)",
     "venue": "Proceedings of CVPR 2026, Denver, US",
     "paper_link": "https://arxiv.org/abs/2511.21662",
     "website": "https://multi-crit.github.io/"
@@ -243,7 +252,6 @@
     "title": "TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models",
     "authors": "Zhiheng Liu, Weiming Ren, Haozhe Liu, Zijian Zhou, Shoufa Chen, Haonan Qiu, Xiaoke Huang, Zhaochong An, Fanny Yang, Aditya Patel, Viktar Atliha, Tony Ng, Xiao Han, Chuyan Zhu, Chenyang Zhang, Ding Liu, Juan-Manuel Perez-Rua, Sen He, Jürgen Schmidhuber, Wenhu Chen, Ping Luo, Wei Liu, Tao Xiang, Jonas Schult, Yuren Cong",
     "status": "accepted",
-    "award": "Highlights (Top 10% of accepted papers)",
     "venue": "Proceedings of CVPR 2026, Denver, US",
     "paper_link": "https://arxiv.org/abs/2512.02014",
     "website": "https://tuna-ai.org/"
