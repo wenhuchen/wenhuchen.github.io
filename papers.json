@@ -138,14 +138,6 @@
     "paper_link": "https://arxiv.org/abs/2502.20622"
   },
   {
-    "title": "VideoScore2: Think before You Score in Generative Video Evaluation",
-    "authors": "Xuan He, Dongfu Jiang, Ping Nie, Minghao Liu, Zhengxuan Jiang, Mingyi Su, Wentao Ma, Junru Lin, Chun Ye, Yi Lu, Keming Wu, Benjamin Schneider, Quy Duc Do, Zhuofeng Li, Yiming Jia, Yuxuan Zhang, Guo Cheng, Haozhe Wang, Wangchunshu Zhou, Qunshu Lin, Yuanxing Zhang, Ge Zhang, Wenhao Huang, Wenhu Chen",
-    "status": "preprint",
-    "venue": "Manuscript",
-    "paper_link": "https://arxiv.org/abs/2509.22799",
-    "website": "https://tiger-ai-lab.github.io/VideoScore2/"
-  },
-  {
     "title": "Language Models Can Learn from Verbal Feedback Without Scalar Rewards",
     "authors": "Renjie Luo, Zichen Liu, Xiangyan Liu, Chao Du, Min Lin, Wenhu Chen, Wei Lu, Tianyu Pang",
     "status": "preprint",
@@ -167,6 +159,14 @@
     "status": "preprint",
     "venue": "Manuscript",
     "paper_link": "https://arxiv.org/abs/2505.15929"
+  },
+  {
+    "title": "VideoScore2: Think before You Score in Generative Video Evaluation",
+    "authors": "Xuan He, Dongfu Jiang, Ping Nie, Minghao Liu, Zhengxuan Jiang, Mingyi Su, Wentao Ma, Junru Lin, Chun Ye, Yi Lu, Keming Wu, Benjamin Schneider, Quy Duc Do, Zhuofeng Li, Yiming Jia, Yuxuan Zhang, Guo Cheng, Haozhe Wang, Wangchunshu Zhou, Qunshu Lin, Yuanxing Zhang, Ge Zhang, Wenhao Huang, Wenhu Chen",
+    "status": "accepted",
+    "venue": "TMLR 2026",
+    "paper_link": "https://arxiv.org/abs/2509.22799",
+    "website": "https://tiger-ai-lab.github.io/VideoScore2/"
   },
   {
     "title": "VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation",
