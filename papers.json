@@ -32,8 +32,8 @@
   {
     "title": "RewardHarness: Self-Evolving Agentic Post-Training",
     "authors": "Yuxuan Zhang, Penghui Du, Bo Li, Cong Wei, Junwen Miao, Huaisong Zhang, Songcheng Cai, Yubo Wang, Dongfu Jiang, Yuyu Zhang, Ping Nie, Wenhu Chen, Changqian Yu, Kelsey R. Allen",
-    "status": "preprint",
-    "venue": "Manuscript",
+    "status": "accepted",
+    "venue": "Proceedings of COLM 2026",
     "paper_link": "https://arxiv.org/abs/2605.08703"
   },
   {
@@ -54,8 +54,8 @@
   {
     "title": "MMEB-V3: Measuring the Performance Gaps of Omni-Modality Embedding Models",
     "authors": "Haohang Huang, Xuan Lu, Mingyi Su, Xuan Zhang, Ziyan Jiang, Ping Nie, Kai Zou, Tomas Pfister, Wenhu Chen, Wei Zhang, Xiaoyu Shen, Rui Meng",
-    "status": "preprint",
-    "venue": "Manuscript",
+    "status": "accepted",
+    "venue": "Proceedings of COLM 2026",
     "paper_link": "https://arxiv.org/abs/2604.23321",
     "code": "https://github.com/TIGER-AI-Lab/VLM2Vec/tree/olm2vec"
   },
@@ -78,8 +78,8 @@
   {
     "title": "RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time",
     "authors": "Haozhe Wang, Cong Wei, Weiming Ren, Jiaming Liu, Fangzhen Lin, Wenhu Chen",
-    "status": "preprint",
-    "venue": "Manuscript",
+    "status": "accepted",
+    "venue": "Proceedings of COLM 2026",
     "paper_link": "https://arxiv.org/abs/2604.11626",
     "website": "https://tiger-ai-lab.github.io/RationalRewards/"
   },
