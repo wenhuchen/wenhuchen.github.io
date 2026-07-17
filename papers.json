@@ -1,5 +1,13 @@
 [
   {
+    "title": "Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models",
+    "authors": "Yubo Wang, Jiarong Liang, Yuxuan Zhang, Xuye Liu, Cong Wei, Yuyu Zhang, Ping Nie, Wenhu Chen",
+    "status": "preprint",
+    "venue": "Manuscript",
+    "paper_link": "https://arxiv.org/abs/2607.12463",
+    "website": "https://github.com/TIGER-AI-Lab/FIM-Midtraining"
+  },
+  {
     "title": "The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence",
     "authors": "Aili Chen, Aonian Li, Baichuan Zhou, Bangwei Gong, Binyang Jiang, Boji Dan, Changqing Yu, Chao Wang, Cheng Ma, Cheng Zhong, Cheng Zhu, Chengjun Xiao, Chengyi Yang, Chengyu Du, Chenyang Zhang, Chi Zhang, Chuangyi Huang, Chunhao Zhang, Chunhui Du, Chunyu Zhao, Congchao Guo, Da Chen, ..., Wenhu Chen, ....",
     "status": "accepted",
