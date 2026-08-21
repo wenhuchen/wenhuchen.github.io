@@ -94,8 +94,8 @@
   {
     "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
     "authors": "Yuxuan Zhang, Yubo Wang, Yipeng Zhu, Penghui Du, Junwen Miao, Xuan Lu, Wendong Xu, Yunzhuo Hao, Songcheng Cai, Xiaochen Wang, Huaisong Zhang, Xian Wu, Yi Lu, Minyi Lei, Kai Zou, Huifeng Yin, Ping Nie, Liang Chen, Dongfu Jiang, Wenhu Chen, Kelsey R. Allen",
-    "status": "preprint",
-    "venue": "Manuscript",
+    "status": "accepted",
+    "venue": "Findings of EMNLP 2026",
     "paper_link": "https://arxiv.org/abs/2604.08523",
     "code": "https://github.com/TIGER-AI-Lab/ClawBench"
   },
@@ -118,8 +118,8 @@
   {
     "title": "OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis",
     "authors": "Zhuofeng Li, Dongfu Jiang, Xueguang Ma, Haoxiang Zhang, Ping Nie, Yuyu Zhang, Kai Zou, Jianwen Xie, Yu Zhang, Wenhu Chen",
-    "status": "preprint",
-    "venue": "Manuscript",
+    "status": "accepted",
+    "venue": "Proceedings of EMNLP 2026",
     "paper_link": "https://arxiv.org/abs/2603.20278",
     "code": "https://github.com/TIGER-AI-Lab/OpenResearcher"
   },
