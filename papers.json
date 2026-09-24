@@ -54,10 +54,17 @@
   {
     "title": "Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction",
     "authors": "Zhuofeng Li, Haoxiang Zhang, Cong Wei, Pan Lu, Ping Nie, Yi Lu, Yuyang Bai, Shangbin Feng, Hangxiao Zhu, Ming Zhong, Yuyu Zhang, Jianwen Xie, Yejin Choi, James Zou, Jiawei Han, Wenhu Chen, Jimmy Lin, Dongfu Jiang, Yu Zhang",
-    "status": "preprint",
-    "venue": "Manuscript",
+    "status": "accepted",
+    "award": "Spotlight",
+    "venue": "Proceedings of NeurIPS 2026",
     "paper_link": "https://arxiv.org/abs/2605.05242",
     "code": "https://github.com/DCI-Agent/DCI-Agent-Lite"
+  },
+  {
+    "title": "PhyProbe: Rethinking Physical Consistency Evaluation in Generated Videos",
+    "authors": "Max Ku, Jiaojiao Fan, Zekun Hao, Francesco Ferroni, Heng Wang, Wenhu Chen, Ming-Yu Liu, Prithvijit Chattopadhyay",
+    "status": "accepted",
+    "venue": "Proceedings of NeurIPS 2026"
   },
   {
     "title": "MMEB-V3: Measuring the Performance Gaps of Omni-Modality Embedding Models",
@@ -78,8 +85,8 @@
   {
     "title": "Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation",
     "authors": "Zhiheng Liu, Weiming Ren, Xiaoke Huang, Shoufa Chen, Tianhong Li, Mengzhao Chen, Yatai Ji, Sen He, Jonas Schult, Belinda Zeng, Tao Xiang, Wenhu Chen, Ping Luo, Luke Zettlemoyer, Yuren Cong",
-    "status": "preprint",
-    "venue": "Manuscript",
+    "status": "accepted",
+    "venue": "Proceedings of NeurIPS 2026",
     "paper_link": "https://arxiv.org/abs/2604.24763",
     "website": "https://tuna-ai.org/tuna-2/"
   },
