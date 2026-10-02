@@ -3,13 +3,13 @@
     "title": "LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis",
     "authors": "Haoxiang Cao, Yuxuan Zhang, Penghui Du, Bo Li, Jiajiang Cao, Yingying Fan, Zimeng Wu, Yifu Luo, Mingzhe Zheng, Junwen Miao, Huaisong Zhang, Yang Yao, Yu Wang, Dongfu Jiang, Ping Nie, Wenhu Chen, Changqian Yu, Kelsey R Allen, Chaoqun Wang",
     "status": "accepted",
-    "venue": "Proceedings of NeurIPS 2026 (Evaluations and Datasets Track)"
+    "venue": "Proceedings of NeurIPS 2026"
   },
   {
     "title": "OS-Omni: A Cross-Platform Benchmark for Generalist Computer-Using Agents",
     "authors": "Hui Shen, Yunta Hsieh, Jianing Ma, Ziyuan Liu, Qi Han, Xiuqi Xu, Yanheng Shang, Chenqi Yin, Zesen Zhao, Boyuan Zheng, Jisen Li, Xiaoxia Wu, Ruoyan Zhang, Dongfu Jiang, Ruiyao Liu, Jing Xiong, He Xiao, Nan Zheng, Hangxiang Chen, Shengyang Tao, Deyang Luorong, Jingxuan Zhang, Chaofan Tao, Yuren Wang, Jiaqi Mo, Hei Ting Una Chan, Sicheng Chen, Kai Zhang, Mengkang Hu, Zhongwei Wan, Xin Wang, Chuanyang Zheng, Ziheng Zhang, Hengyuan Zhang, Zunhai Su, Kanzhi Cheng, Jiawei Lu, Yifan Zhang, Shen Yan, Ben Athiwaratkun, Qiushi Sun, Mi Zhang, Ping Luo, Wenhu Chen, Ngai Wong",
     "status": "accepted",
-    "venue": "Proceedings of NeurIPS 2026 (Evaluations and Datasets Track)"
+    "venue": "Proceedings of NeurIPS 2026"
   },
   {
     "title": "Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models",
@@ -60,7 +60,7 @@
     "title": "WorldReasonBench: Human-Aligned Stress Testing of Video Generators as Future World-State Predictors",
     "authors": "Keming Wu, Yijing Cui, Wenhan Xue, Qijie Wang, Xuan Luo, Zhiyuan Feng, Zuhao Yang, Sudong Wang, Sicong Jiang, Haowei Zhu, Zihan Wang, Ping Nie, Wenhu Chen, Bin Wang",
     "status": "accepted",
-    "venue": "Proceedings of NeurIPS 2026 (Evaluations and Datasets Track)",
+    "venue": "Proceedings of NeurIPS 2026",
     "paper_link": "https://arxiv.org/abs/2605.10434"
   },
   {
