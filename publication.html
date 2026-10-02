@@ -276,6 +276,9 @@
       function getVenueLabel(venue) {
         const v = venue.toLowerCase();
         if (v.includes('manuscript') || v.includes('tech report')) return 'Preprint';
+        if (v.includes('neurips 2026') && v.includes('evaluations and datasets track')) {
+          return 'NeurIPS 2026 (E&D Track, poster)';
+        }
         const patterns = [
           [/findings\s+of\s+(\w+)\s+(\d{4})/, (m) => m[1].toUpperCase() + ' ' + m[2] + ' (Findings)'],
           [/(\w+)\s+workshop/i, (m) => m[1].toUpperCase() + ' Workshop'],
