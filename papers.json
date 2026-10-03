@@ -61,7 +61,8 @@
     "authors": "Keming Wu, Yijing Cui, Wenhan Xue, Qijie Wang, Xuan Luo, Zhiyuan Feng, Zuhao Yang, Sudong Wang, Sicong Jiang, Haowei Zhu, Zihan Wang, Ping Nie, Wenhu Chen, Bin Wang",
     "status": "accepted",
     "venue": "Proceedings of NeurIPS 2026",
-    "paper_link": "https://arxiv.org/abs/2605.10434"
+    "paper_link": "https://arxiv.org/abs/2605.10434",
+    "code": "https://github.com/UniX-AI-Lab/WorldReasonBench/"
   },
   {
     "title": "Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction",
