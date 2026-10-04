@@ -40,21 +40,24 @@
     "authors": "Yida Yin, Harish Krishnakumar, Chung Peng Lee, Boya Zeng, Wenhao Chai, Shengbang Tong, Wenhu Chen, Hu Xu, Xingyu Fu, Gabriel Sarch, Aleksandra Korolova, Zhuang Liu",
     "status": "preprint",
     "venue": "Manuscript",
-    "paper_link": "https://arxiv.org/abs/2606.06538"
+    "paper_link": "https://arxiv.org/abs/2606.06538",
+    "website": "https://worldbench-vl.github.io/"
   },
   {
     "title": "Starve to Perceive: Taming Lazy Perception in VLMs with Constrained Visual Bandwidth",
     "authors": "Yuhuan Wu, Cong Wei, Fangzhen Lin, Wenhu Chen, Haozhe Wang",
     "status": "accepted",
     "venue": "Proceedings of ECCV 2026",
-    "paper_link": "https://arxiv.org/abs/2605.18603"
+    "paper_link": "https://arxiv.org/abs/2605.18603",
+    "code": "https://github.com/WhuanY/Starve2Perceive"
   },
   {
     "title": "RewardHarness: Self-Evolving Agentic Post-Training",
     "authors": "Yuxuan Zhang, Penghui Du, Bo Li, Cong Wei, Junwen Miao, Huaisong Zhang, Songcheng Cai, Yubo Wang, Dongfu Jiang, Yuyu Zhang, Ping Nie, Wenhu Chen, Changqian Yu, Kelsey R. Allen",
     "status": "accepted",
     "venue": "Proceedings of COLM 2026",
-    "paper_link": "https://arxiv.org/abs/2605.08703"
+    "paper_link": "https://arxiv.org/abs/2605.08703",
+    "code" : "https://github.com/TIGER-AI-Lab/RewardHarness"
   },
   {
     "title": "WorldReasonBench: Human-Aligned Stress Testing of Video Generators as Future World-State Predictors",
@@ -77,7 +80,8 @@
     "title": "PhyProbe: Rethinking Physical Consistency Evaluation in Generated Videos",
     "authors": "Max Ku, Jiaojiao Fan, Zekun Hao, Francesco Ferroni, Heng Wang, Wenhu Chen, Ming-Yu Liu, Prithvijit Chattopadhyay",
     "status": "accepted",
-    "venue": "Proceedings of NeurIPS 2026"
+    "venue": "Proceedings of NeurIPS 2026",
+    "paper_link": "https://arxiv.org/abs/2609.38377"
   },
   {
     "title": "MMEB-V3: Measuring the Performance Gaps of Omni-Modality Embedding Models",
