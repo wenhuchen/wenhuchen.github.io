@@ -156,10 +156,10 @@
     "website": "https://tiger-ai-lab.github.io/VisPhyWorld/"
   },
   {
-    "title": "CogDoc: Towards Unified thinking in Documents",
+    "title": "UniDoc: Towards Unified Thinking in Documents",
     "authors": "Qixin Xu, Haozhe Wang, Che Liu, Fangzhen Lin, Wenhu Chen",
-    "status": "preprint",
-    "venue": "Manuscript",
+    "status": "accepted",
+    "venue": "TMLR 2026",
     "paper_link": "https://arxiv.org/abs/2512.12658"
   },
   {
